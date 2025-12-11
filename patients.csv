@@ -1,0 +1,26 @@
+patient_id,patient_name,ailment,doctor_id
+101,Patient_1,Heart Issue,7
+102,Patient_2,Migraine,7
+103,Patient_3,Fracture,5
+104,Patient_4,Fever,5
+105,Patient_5,Allergy,
+106,Patient_6,Hearing Loss,10
+107,Patient_7,Cancer,6
+108,Patient_8,Diabetes,4
+109,Patient_9,Stomach Pain,
+110,Patient_10,Anxiety,3
+111,Patient_11,Heart Issue,
+112,Patient_12,Migraine,3
+113,Patient_13,Fracture,
+114,Patient_14,Fever,3
+115,Patient_15,Allergy,2
+116,Patient_16,Hearing Loss,9
+117,Patient_17,Cancer,6
+118,Patient_18,Diabetes,4
+119,Patient_19,Stomach Pain,3
+120,Patient_20,Anxiety,5
+121,Patient_21,Heart Issue,8
+122,Patient_22,Migraine,10
+123,Patient_23,Fracture,4
+124,Patient_24,Fever,10
+125,Patient_25,Allergy,8
