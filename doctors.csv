@@ -1,11 +1,11 @@
-doctor_id,doctor_name,department
-1,Dr. Sharma,Cardiology
-2,Dr. Mehta,Neurology
-3,Dr. Rao,Orthopedics
-4,Dr. Iyer,Pediatrics
-5,Dr. Kapoor,Dermatology
-6,Dr. Singh,ENT
-7,Dr. Das,Oncology
-8,Dr. Nair,General Medicine
-9,Dr. Kulkarni,Gastroenterology
-10,Dr. Joshi,Psychiatry
+doctor_id,doctor_name,specialization
+1,Dr. Asha Patil,Cardiologist
+2,Dr. Rohan Mehta,Dermatologist
+3,Dr. Kavita Deshmukh,Neurologist
+4,Dr. Arvind Joshi,Orthopedic
+5,Dr. Sneha Kulkarni,Pediatrician
+6,Dr. Manish Gupta,ENT Specialist
+7,Dr. Priya Nair,Gynecologist
+8,Dr. Vivek Sharma,General Physician
+9,Dr. Neha Shah,Psychiatrist
+10,Dr. Sagar Dalvi,Oncologist
