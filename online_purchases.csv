@@ -1,0 +1,301 @@
+customer_name,age,gender,platform,product_category,product_name,company,quantity,unit_price,gross_amount,discount_amount,netbill,payment_mode,rating_out_of_5
+Vivaan Patel,31,Male,Myntra,Electronics,Laptop,Dell,3,35751,107253,23913.24,83339.76,Credit Card,4.4
+Ananya Iyer,35,Female,Flipkart,Beauty,Perfume,Fogg,2,1827,3654,961.76,2692.24,Debit Card,4.4
+Neha Joshi,40,Female,Myntra,Electronics,Smart Watch,Noise,4,6265,25060,5548.63,19511.37,Net Banking,3.6
+Vihaan Gupta,26,Male,Amazon,Beauty,Lipstick,Maybelline,2,888,1776,258.92,1517.08,UPI,4.1
+Priya Malhotra,59,Female,Flipkart,Electronics,Laptop,Dell,2,76105,152210,36125.59,116084.41,Cash on Delivery,5.0
+Karan Kapoor,28,Male,Flipkart,Beauty,Sunscreen,Neutrogena,3,1177,3531,954.67,2576.33,UPI,3.4
+Shubham Mishra,34,Male,Myntra,Home & Kitchen,Mixer Grinder,Philips,3,8353,25059,4477.14,20581.86,Cash on Delivery,5.0
+Arjun Mehta,51,Male,Amazon,Home & Kitchen,Mixer Grinder,Philips,1,6169,6169,801.35,5367.65,Debit Card,3.7
+Aarav Sharma,34,Male,Myntra,Home & Kitchen,Cookware Set,Hawkins,1,6993,6993,403.83,6589.17,Cash on Delivery,4.8
+Pooja Patil,31,Female,Flipkart,Beauty,Perfume,Fogg,1,908,908,160.92,747.08,Net Banking,4.7
+Nikhil Bansal,43,Male,Amazon,Electronics,Smartphone,Samsung,3,15249,45747,5196.61,40550.39,Credit Card,3.9
+Ananya Iyer,29,Female,Amazon,Beauty,Shampoo,Loreal,2,1341,2682,518.04,2163.96,Cash on Delivery,4.0
+Arjun Mehta,19,Male,Amazon,Beauty,Lipstick,Maybelline,1,1993,1993,412.98,1580.02,UPI,4.7
+Aditya Verma,30,Male,Myntra,Electronics,Smart Watch,Noise,4,3143,12572,3770.71,8801.29,Credit Card,5.0
+Sneha Rao,33,Female,Myntra,Fashion,Dress,Zara,1,5753,5753,1668.56,4084.44,Credit Card,4.5
+Karan Kapoor,44,Male,Amazon,Beauty,Sunscreen,Neutrogena,1,682,682,41.32,640.68,Cash on Delivery,3.9
+Vivaan Patel,21,Male,Amazon,Beauty,Perfume,Fogg,4,1961,7844,1718.87,6125.13,Credit Card,4.6
+Neha Joshi,42,Female,Myntra,Electronics,Laptop,Dell,4,58244,232976,39498.55,193477.45,Credit Card,3.9
+Pooja Patil,25,Female,Amazon,Beauty,Perfume,Fogg,4,1596,6384,1697.88,4686.12,UPI,4.1
+Neha Joshi,47,Female,Amazon,Home & Kitchen,Cookware Set,Hawkins,4,11657,46628,9224.83,37403.17,Credit Card,4.5
+Ananya Iyer,49,Female,Flipkart,Home & Kitchen,Air Fryer,Prestige,3,10877,32631,4359.53,28271.47,Credit Card,5.0
+Neha Joshi,59,Female,Myntra,Beauty,Perfume,Fogg,2,699,1398,103.52,1294.48,Debit Card,4.9
+Amit Singh,52,Male,Flipkart,Electronics,Bluetooth Speaker,JBL,2,6505,13010,2412.71,10597.29,Cash on Delivery,4.0
+Pooja Patil,30,Female,Myntra,Home & Kitchen,Mixer Grinder,Philips,2,6510,13020,3241.22,9778.78,UPI,3.3
+Priya Malhotra,56,Female,Myntra,Home & Kitchen,Electric Kettle,Bajaj,3,1638,4914,871.06,4042.94,Debit Card,4.9
+Ritu Agarwal,40,Female,Flipkart,Beauty,Lipstick,Maybelline,2,1818,3636,677.09,2958.91,Credit Card,3.9
+Sneha Rao,22,Female,Myntra,Electronics,Headphones,Sony,3,5299,15897,1400.86,14496.14,Credit Card,4.2
+Sai Kulkarni,46,Male,Amazon,Home & Kitchen,Mixer Grinder,Philips,4,3824,15296,3999.96,11296.04,UPI,4.3
+Rahul Khanna,60,Male,Myntra,Fashion,Sneakers,Nike,2,9136,18272,1488.47,16783.53,UPI,4.5
+Karan Kapoor,40,Male,Myntra,Fashion,Jeans,Levis,4,3712,14848,2541.47,12306.53,UPI,3.2
+Sai Kulkarni,29,Male,Flipkart,Fashion,Dress,Zara,3,4138,12414,2880.74,9533.26,Debit Card,3.5
+Rohit Deshmukh,49,Male,Myntra,Fashion,Jacket,H&M,1,5757,5757,944.73,4812.27,Debit Card,3.3
+Shubham Mishra,31,Male,Myntra,Home & Kitchen,Air Fryer,Prestige,2,11938,23876,6640.02,17235.98,Net Banking,4.4
+Rohit Deshmukh,37,Male,Amazon,Beauty,Sunscreen,Neutrogena,2,2059,4118,876.54,3241.46,UPI,4.1
+Neha Joshi,27,Female,Amazon,Fashion,Jacket,H&M,2,3665,7330,752.26,6577.74,Net Banking,3.2
+Kavya Nair,55,Female,Flipkart,Fashion,T-Shirt,Puma,3,2382,7146,1495.43,5650.57,UPI,3.9
+Aarav Sharma,56,Male,Flipkart,Fashion,Dress,Zara,3,2659,7977,766.93,7210.07,Credit Card,3.0
+Neha Joshi,27,Female,Amazon,Fashion,Jacket,H&M,1,7445,7445,1206.64,6238.36,Cash on Delivery,4.6
+Sonal Jain,34,Female,Amazon,Fashion,Jeans,Levis,3,3180,9540,2088.37,7451.63,Net Banking,3.8
+Sneha Rao,46,Female,Flipkart,Fashion,Sneakers,Nike,3,7106,21318,4922.11,16395.89,Net Banking,4.8
+Ananya Iyer,44,Female,Flipkart,Fashion,Jeans,Levis,4,2921,11684,3273.88,8410.12,Debit Card,3.6
+Ritu Agarwal,43,Female,Myntra,Fashion,Sneakers,Nike,3,10851,32553,2154.39,30398.61,UPI,4.4
+Ananya Iyer,19,Female,Myntra,Fashion,T-Shirt,Puma,4,911,3644,281.95,3362.05,Net Banking,3.9
+Aditya Verma,44,Male,Amazon,Home & Kitchen,Cookware Set,Hawkins,1,4211,4211,960.37,3250.63,UPI,4.0
+Vihaan Gupta,22,Male,Flipkart,Home & Kitchen,Air Fryer,Prestige,3,6157,18471,3687.14,14783.86,Credit Card,4.2
+Pooja Patil,47,Female,Myntra,Fashion,Dress,Zara,1,4668,4668,448.38,4219.62,Debit Card,4.6
+Aditya Verma,43,Male,Amazon,Beauty,Lipstick,Maybelline,3,1726,5178,717.78,4460.22,Debit Card,4.4
+Sai Kulkarni,48,Male,Myntra,Fashion,T-Shirt,Puma,1,1525,1525,131.01,1393.99,Debit Card,4.5
+Karan Kapoor,44,Male,Flipkart,Electronics,Bluetooth Speaker,JBL,4,6453,25812,3706.67,22105.33,Credit Card,3.7
+Ananya Iyer,47,Female,Myntra,Beauty,Lipstick,Maybelline,1,1036,1036,82.37,953.63,UPI,3.5
+Priya Malhotra,36,Female,Flipkart,Home & Kitchen,Mixer Grinder,Philips,1,7179,7179,1634.32,5544.68,Debit Card,4.4
+Amit Singh,52,Male,Myntra,Electronics,Smart Watch,Noise,3,13273,39819,2548.98,37270.02,Cash on Delivery,3.4
+Nikhil Bansal,59,Male,Flipkart,Fashion,Sneakers,Nike,1,10646,10646,2417.05,8228.95,Debit Card,4.9
+Aarav Sharma,27,Male,Flipkart,Beauty,Perfume,Fogg,3,2057,6171,1094.26,5076.74,UPI,4.0
+Karan Kapoor,59,Male,Flipkart,Fashion,Jeans,Levis,3,3123,9369,2705.31,6663.69,Credit Card,3.8
+Rahul Khanna,33,Male,Flipkart,Beauty,Lipstick,Maybelline,1,1222,1222,151.91,1070.09,UPI,3.5
+Aditya Verma,55,Male,Amazon,Electronics,Smart Watch,Noise,3,9902,29706,4741.4,24964.6,Credit Card,4.4
+Sai Kulkarni,45,Male,Amazon,Fashion,Jacket,H&M,4,4153,16612,4262.75,12349.25,UPI,3.1
+Amit Singh,44,Male,Myntra,Home & Kitchen,Cookware Set,Hawkins,4,5138,20552,1155.38,19396.62,Net Banking,3.7
+Aarav Sharma,51,Male,Myntra,Beauty,Shampoo,Loreal,3,1554,4662,651.87,4010.13,Credit Card,4.4
+Shubham Mishra,42,Male,Flipkart,Beauty,Perfume,Fogg,3,627,1881,243.99,1637.01,Debit Card,3.4
+Karan Kapoor,56,Male,Myntra,Fashion,Jeans,Levis,1,3776,3776,566.24,3209.76,UPI,4.5
+Sai Kulkarni,60,Male,Myntra,Home & Kitchen,Cookware Set,Hawkins,3,7667,23001,1531.97,21469.03,Debit Card,4.1
+Vivaan Patel,19,Male,Amazon,Beauty,Shampoo,Loreal,3,1338,4014,1075.28,2938.72,Credit Card,3.1
+Rahul Khanna,27,Male,Amazon,Electronics,Headphones,Sony,2,11526,23052,4228.37,18823.63,Cash on Delivery,4.5
+Shubham Mishra,58,Male,Flipkart,Electronics,Smart Watch,Noise,3,4953,14859,3642.53,11216.47,Debit Card,4.8
+Sonal Jain,56,Female,Amazon,Beauty,Face Cream,Nivea,4,1383,5532,1331.43,4200.57,UPI,3.7
+Nikhil Bansal,48,Male,Flipkart,Fashion,Sneakers,Nike,1,11269,11269,1888.36,9380.64,Credit Card,3.1
+Aarav Sharma,51,Male,Flipkart,Home & Kitchen,Mixer Grinder,Philips,2,7236,14472,2214.11,12257.89,Credit Card,3.7
+Shubham Mishra,22,Male,Myntra,Electronics,Smartphone,Samsung,4,25438,101752,27787.27,73964.73,Debit Card,3.6
+Kavya Nair,49,Female,Flipkart,Fashion,Jacket,H&M,3,7957,23871,2197.61,21673.39,Credit Card,3.4
+Ananya Iyer,42,Female,Myntra,Electronics,Headphones,Sony,3,12091,36273,8044.94,28228.06,Cash on Delivery,4.1
+Vihaan Gupta,42,Male,Amazon,Home & Kitchen,Air Fryer,Prestige,4,10146,40584,9996.87,30587.13,Credit Card,4.5
+Rahul Khanna,40,Male,Myntra,Beauty,Lipstick,Maybelline,4,1880,7520,1199.76,6320.24,Net Banking,4.8
+Sonal Jain,59,Female,Flipkart,Home & Kitchen,Cookware Set,Hawkins,2,9669,19338,4131.34,15206.66,UPI,4.3
+Aarav Sharma,54,Male,Amazon,Beauty,Perfume,Fogg,2,1753,3506,240.18,3265.82,Credit Card,4.5
+Aditya Verma,49,Male,Flipkart,Beauty,Face Cream,Nivea,2,1448,2896,228.72,2667.28,Net Banking,4.2
+Rohit Deshmukh,43,Male,Flipkart,Home & Kitchen,Electric Kettle,Bajaj,3,2743,8229,2190.41,6038.59,Net Banking,4.2
+Nikhil Bansal,49,Male,Amazon,Electronics,Smartphone,Samsung,3,39311,117933,27507.72,90425.28,Net Banking,3.3
+Sonal Jain,21,Female,Flipkart,Fashion,T-Shirt,Puma,1,1395,1395,306.27,1088.73,Cash on Delivery,4.2
+Sonal Jain,37,Female,Amazon,Electronics,Bluetooth Speaker,JBL,2,7538,15076,1545.47,13530.53,Debit Card,4.1
+Aditya Verma,39,Male,Flipkart,Home & Kitchen,Cookware Set,Hawkins,1,6638,6638,1133.58,5504.42,Cash on Delivery,3.4
+Sonal Jain,33,Female,Flipkart,Electronics,Headphones,Sony,4,13678,54712,8919.62,45792.38,UPI,4.2
+Vivaan Patel,35,Male,Flipkart,Home & Kitchen,Air Fryer,Prestige,2,4553,9106,2131.99,6974.01,Credit Card,3.8
+Nikhil Bansal,51,Male,Flipkart,Beauty,Sunscreen,Neutrogena,1,2189,2189,324.42,1864.58,Credit Card,3.7
+Aarav Sharma,50,Male,Amazon,Home & Kitchen,Mixer Grinder,Philips,1,8704,8704,898.34,7805.66,Credit Card,4.9
+Priya Malhotra,33,Female,Amazon,Fashion,Sneakers,Nike,2,8106,16212,2893.31,13318.69,UPI,4.8
+Aditya Verma,37,Male,Flipkart,Home & Kitchen,Cookware Set,Hawkins,1,3346,3346,538.38,2807.62,Debit Card,4.8
+Rohit Deshmukh,28,Male,Myntra,Fashion,Jacket,H&M,4,5856,23424,3860.68,19563.32,UPI,4.9
+Rohit Deshmukh,36,Male,Amazon,Home & Kitchen,Vacuum Cleaner,Eureka Forbes,2,20083,40166,9377.18,30788.82,UPI,3.6
+Aditya Verma,48,Male,Myntra,Beauty,Perfume,Fogg,2,1378,2756,500.96,2255.04,Credit Card,3.3
+Neha Joshi,41,Female,Myntra,Fashion,Dress,Zara,3,6709,20127,1081.1,19045.9,UPI,3.8
+Aarav Sharma,56,Male,Amazon,Electronics,Smartphone,Samsung,4,12526,50104,7765.84,42338.16,Cash on Delivery,3.6
+Aarav Sharma,27,Male,Amazon,Beauty,Perfume,Fogg,1,1056,1056,131.04,924.96,UPI,4.4
+Sai Kulkarni,28,Male,Amazon,Electronics,Bluetooth Speaker,JBL,3,7450,22350,6368.97,15981.03,Cash on Delivery,4.9
+Neha Joshi,55,Female,Myntra,Electronics,Headphones,Sony,1,10319,10319,1596.32,8722.68,Cash on Delivery,3.9
+Neha Joshi,52,Female,Myntra,Beauty,Face Cream,Nivea,3,1069,3207,291.67,2915.33,Debit Card,4.6
+Vivaan Patel,37,Male,Myntra,Electronics,Laptop,Dell,3,53133,159399,39514.84,119884.16,UPI,4.9
+Sai Kulkarni,36,Male,Flipkart,Fashion,Dress,Zara,2,4112,8224,1928.11,6295.89,Net Banking,3.3
+Nikhil Bansal,54,Male,Flipkart,Home & Kitchen,Electric Kettle,Bajaj,2,2752,5504,972.83,4531.17,Cash on Delivery,4.5
+Sonal Jain,58,Female,Flipkart,Electronics,Smart Watch,Noise,1,12347,12347,3682.17,8664.83,Net Banking,3.7
+Priya Malhotra,31,Female,Myntra,Home & Kitchen,Air Fryer,Prestige,2,8594,17188,4686.7,12501.3,Net Banking,3.8
+Kavya Nair,35,Female,Amazon,Fashion,T-Shirt,Puma,1,1614,1614,230.99,1383.01,Debit Card,3.2
+Aarav Sharma,41,Male,Myntra,Beauty,Face Cream,Nivea,1,1008,1008,293.19,714.81,Credit Card,3.4
+Vihaan Gupta,54,Male,Amazon,Home & Kitchen,Air Fryer,Prestige,1,14484,14484,1764.33,12719.67,Net Banking,4.2
+Nikhil Bansal,33,Male,Myntra,Home & Kitchen,Vacuum Cleaner,Eureka Forbes,4,6148,24592,3809.98,20782.02,UPI,4.5
+Aditya Verma,60,Male,Myntra,Fashion,Sneakers,Nike,1,3820,3820,195.3,3624.7,Debit Card,3.2
+Arjun Mehta,22,Male,Amazon,Beauty,Sunscreen,Neutrogena,4,664,2656,779.48,1876.52,Credit Card,5.0
+Vihaan Gupta,39,Male,Flipkart,Fashion,Sneakers,Nike,1,10736,10736,1903.18,8832.82,Credit Card,4.7
+Sneha Rao,47,Female,Amazon,Fashion,Sneakers,Nike,2,3268,6536,371.73,6164.27,Cash on Delivery,3.3
+Rohit Deshmukh,46,Male,Myntra,Home & Kitchen,Mixer Grinder,Philips,3,7358,22074,3637.82,18436.18,Cash on Delivery,4.4
+Vivaan Patel,19,Male,Amazon,Electronics,Laptop,Dell,2,72918,145836,10233.25,135602.75,Credit Card,4.7
+Amit Singh,26,Male,Amazon,Electronics,Bluetooth Speaker,JBL,1,8619,8619,1771.54,6847.46,Net Banking,3.5
+Rohit Deshmukh,45,Male,Amazon,Home & Kitchen,Mixer Grinder,Philips,3,7246,21738,1971.81,19766.19,Cash on Delivery,4.9
+Arjun Mehta,36,Male,Flipkart,Electronics,Laptop,Dell,3,74359,223077,54802.3,168274.7,UPI,4.9
+Pooja Patil,50,Female,Amazon,Home & Kitchen,Cookware Set,Hawkins,1,3812,3812,792.57,3019.43,UPI,3.6
+Ritu Agarwal,47,Female,Myntra,Beauty,Perfume,Fogg,4,2283,9132,1356.55,7775.45,Debit Card,3.8
+Arjun Mehta,57,Male,Flipkart,Home & Kitchen,Mixer Grinder,Philips,3,5429,16287,1003.98,15283.02,Net Banking,3.6
+Pooja Patil,39,Female,Amazon,Electronics,Bluetooth Speaker,JBL,1,11689,11689,1913.4,9775.6,Net Banking,3.7
+Karan Kapoor,50,Male,Amazon,Home & Kitchen,Mixer Grinder,Philips,4,6880,27520,2203.34,25316.66,Debit Card,4.7
+Rahul Khanna,21,Male,Amazon,Beauty,Lipstick,Maybelline,2,573,1146,210.75,935.25,Debit Card,3.6
+Sai Kulkarni,35,Male,Myntra,Beauty,Sunscreen,Neutrogena,3,907,2721,373.06,2347.94,Net Banking,3.1
+Rahul Khanna,55,Male,Flipkart,Fashion,Jacket,H&M,3,3471,10413,1784.95,8628.05,Net Banking,4.6
+Rahul Khanna,49,Male,Myntra,Electronics,Smart Watch,Noise,3,7135,21405,5631.28,15773.72,UPI,4.7
+Sneha Rao,34,Female,Flipkart,Electronics,Headphones,Sony,1,17988,17988,1501.21,16486.79,Cash on Delivery,4.2
+Shubham Mishra,54,Male,Flipkart,Beauty,Sunscreen,Neutrogena,1,738,738,166.34,571.66,Net Banking,3.1
+Amit Singh,34,Male,Amazon,Fashion,Dress,Zara,2,3832,7664,724.88,6939.12,Net Banking,3.5
+Shubham Mishra,23,Male,Flipkart,Electronics,Smart Watch,Noise,3,10180,30540,8365.12,22174.88,UPI,4.9
+Kavya Nair,43,Female,Myntra,Home & Kitchen,Air Fryer,Prestige,1,11637,11637,2157.12,9479.88,Credit Card,4.8
+Priya Malhotra,46,Female,Amazon,Electronics,Smartphone,Samsung,3,15698,47094,7761.02,39332.98,Credit Card,4.9
+Shubham Mishra,38,Male,Amazon,Fashion,Jeans,Levis,4,3040,12160,802.25,11357.75,UPI,3.8
+Sai Kulkarni,20,Male,Amazon,Home & Kitchen,Vacuum Cleaner,Eureka Forbes,2,16727,33454,7115.14,26338.86,Net Banking,4.9
+Vivaan Patel,22,Male,Myntra,Beauty,Face Cream,Nivea,2,1475,2950,194.78,2755.22,Credit Card,4.9
+Arjun Mehta,44,Male,Myntra,Electronics,Smart Watch,Noise,2,14726,29452,6192.69,23259.31,Credit Card,3.3
+Amit Singh,39,Male,Flipkart,Beauty,Face Cream,Nivea,1,1010,1010,249.91,760.09,Debit Card,4.4
+Vihaan Gupta,47,Male,Myntra,Electronics,Bluetooth Speaker,JBL,1,4660,4660,1007.32,3652.68,Debit Card,3.3
+Vihaan Gupta,20,Male,Myntra,Fashion,Jeans,Levis,4,1926,7704,426.73,7277.27,UPI,4.1
+Amit Singh,30,Male,Myntra,Home & Kitchen,Vacuum Cleaner,Eureka Forbes,3,22877,68631,20559.01,48071.99,Cash on Delivery,4.7
+Priya Malhotra,59,Female,Myntra,Fashion,T-Shirt,Puma,1,632,632,45.36,586.64,UPI,4.6
+Pooja Patil,23,Female,Amazon,Beauty,Lipstick,Maybelline,3,825,2475,244.98,2230.02,Cash on Delivery,3.7
+Arjun Mehta,24,Male,Myntra,Electronics,Headphones,Sony,4,13348,53392,13923.78,39468.22,Cash on Delivery,4.2
+Sai Kulkarni,39,Male,Flipkart,Fashion,Sneakers,Nike,3,7440,22320,2944.32,19375.68,Credit Card,4.3
+Ritu Agarwal,35,Female,Myntra,Electronics,Smartphone,Samsung,4,15504,62016,10406.12,51609.88,Debit Card,3.4
+Aarav Sharma,40,Male,Amazon,Beauty,Sunscreen,Neutrogena,2,2071,4142,1028.03,3113.97,Credit Card,3.6
+Nikhil Bansal,46,Male,Flipkart,Electronics,Bluetooth Speaker,JBL,1,7880,7880,949.55,6930.45,UPI,3.3
+Amit Singh,51,Male,Amazon,Beauty,Shampoo,Loreal,2,623,1246,132.56,1113.44,Cash on Delivery,3.3
+Pooja Patil,33,Female,Flipkart,Beauty,Lipstick,Maybelline,4,1537,6148,533.38,5614.62,Cash on Delivery,3.7
+Aditya Verma,49,Male,Myntra,Electronics,Bluetooth Speaker,JBL,3,4765,14295,2878.46,11416.54,UPI,4.0
+Rohit Deshmukh,23,Male,Myntra,Electronics,Headphones,Sony,3,7837,23511,6889.19,16621.81,Debit Card,4.9
+Vivaan Patel,28,Male,Flipkart,Fashion,Jeans,Levis,1,3087,3087,744.03,2342.97,Net Banking,3.0
+Karan Kapoor,56,Male,Flipkart,Home & Kitchen,Mixer Grinder,Philips,4,2646,10584,2265.34,8318.66,Cash on Delivery,3.2
+Pooja Patil,33,Female,Amazon,Beauty,Sunscreen,Neutrogena,2,1535,3070,639.56,2430.44,UPI,4.8
+Ananya Iyer,35,Female,Flipkart,Home & Kitchen,Electric Kettle,Bajaj,1,1821,1821,368.16,1452.84,Cash on Delivery,3.3
+Ananya Iyer,29,Female,Amazon,Home & Kitchen,Vacuum Cleaner,Eureka Forbes,2,21455,42910,5867.68,37042.32,Cash on Delivery,3.1
+Vihaan Gupta,49,Male,Myntra,Fashion,T-Shirt,Puma,4,637,2548,578.54,1969.46,Credit Card,3.4
+Kavya Nair,51,Female,Flipkart,Home & Kitchen,Vacuum Cleaner,Eureka Forbes,4,9542,38168,3056.08,35111.92,Credit Card,3.9
+Amit Singh,49,Male,Flipkart,Home & Kitchen,Electric Kettle,Bajaj,4,1299,5196,1393.95,3802.05,UPI,3.1
+Ananya Iyer,52,Female,Amazon,Beauty,Face Cream,Nivea,1,1013,1013,92.95,920.05,Debit Card,3.7
+Sneha Rao,52,Female,Myntra,Electronics,Smart Watch,Noise,2,14262,28524,1923.23,26600.77,Debit Card,3.0
+Priya Malhotra,54,Female,Myntra,Home & Kitchen,Air Fryer,Prestige,3,7247,21741,2033.22,19707.78,Net Banking,3.3
+Neha Joshi,30,Female,Myntra,Electronics,Headphones,Sony,2,8673,17346,4892.23,12453.77,Debit Card,3.6
+Arjun Mehta,53,Male,Amazon,Electronics,Smartphone,Samsung,4,15680,62720,4770.77,57949.23,Net Banking,3.1
+Priya Malhotra,20,Female,Flipkart,Fashion,Jeans,Levis,2,2024,4048,1009.52,3038.48,Cash on Delivery,4.3
+Shubham Mishra,40,Male,Myntra,Fashion,Jeans,Levis,4,4329,17316,2691.22,14624.78,Credit Card,3.4
+Sneha Rao,59,Female,Amazon,Home & Kitchen,Mixer Grinder,Philips,4,6888,27552,7819.52,19732.48,UPI,5.0
+Vivaan Patel,38,Male,Myntra,Fashion,Sneakers,Nike,3,7433,22299,3893.26,18405.74,Cash on Delivery,4.4
+Ritu Agarwal,28,Female,Flipkart,Fashion,Dress,Zara,2,4989,9978,2395.19,7582.81,Debit Card,3.6
+Amit Singh,48,Male,Myntra,Home & Kitchen,Cookware Set,Hawkins,2,3404,6808,938.12,5869.88,UPI,4.2
+Sneha Rao,45,Female,Amazon,Home & Kitchen,Vacuum Cleaner,Eureka Forbes,1,6920,6920,666.28,6253.72,Cash on Delivery,4.6
+Arjun Mehta,33,Male,Myntra,Electronics,Headphones,Sony,2,17531,35062,2230.99,32831.01,Cash on Delivery,4.0
+Neha Joshi,34,Female,Myntra,Beauty,Shampoo,Loreal,1,1355,1355,394.21,960.79,UPI,3.4
+Sonal Jain,30,Female,Flipkart,Beauty,Shampoo,Loreal,3,481,1443,192.42,1250.58,UPI,3.5
+Aditya Verma,28,Male,Amazon,Home & Kitchen,Mixer Grinder,Philips,4,3976,15904,1947.78,13956.22,Credit Card,3.9
+Ritu Agarwal,22,Female,Myntra,Home & Kitchen,Air Fryer,Prestige,4,7987,31948,8369.97,23578.03,Credit Card,4.7
+Pooja Patil,55,Female,Myntra,Beauty,Perfume,Fogg,4,758,3032,174.97,2857.03,Net Banking,3.2
+Arjun Mehta,33,Male,Amazon,Beauty,Perfume,Fogg,2,953,1906,294.85,1611.15,Net Banking,3.1
+Amit Singh,25,Male,Amazon,Electronics,Smartphone,Samsung,1,34258,34258,7535.59,26722.41,Net Banking,4.4
+Sai Kulkarni,40,Male,Amazon,Fashion,Jeans,Levis,4,3507,14028,2753.43,11274.57,Credit Card,3.7
+Nikhil Bansal,52,Male,Amazon,Fashion,Dress,Zara,1,7890,7890,720.9,7169.1,Net Banking,3.3
+Nikhil Bansal,36,Male,Myntra,Beauty,Shampoo,Loreal,3,868,2604,165.86,2438.14,Cash on Delivery,3.8
+Pooja Patil,39,Female,Amazon,Fashion,Sneakers,Nike,3,4802,14406,2655.66,11750.34,Credit Card,4.8
+Vivaan Patel,40,Male,Amazon,Fashion,Jacket,H&M,3,8879,26637,2104.13,24532.87,Credit Card,4.7
+Ritu Agarwal,30,Female,Myntra,Fashion,Jacket,H&M,2,4534,9068,948.5,8119.5,Debit Card,3.6
+Pooja Patil,28,Female,Myntra,Home & Kitchen,Cookware Set,Hawkins,4,4922,19688,2807.22,16880.78,Debit Card,5.0
+Aarav Sharma,56,Male,Myntra,Fashion,Sneakers,Nike,3,5706,17118,4089.84,13028.16,Cash on Delivery,3.2
+Vihaan Gupta,43,Male,Myntra,Electronics,Smartphone,Samsung,3,15343,46029,12180.22,33848.78,Debit Card,4.9
+Sonal Jain,32,Female,Amazon,Home & Kitchen,Cookware Set,Hawkins,1,11987,11987,2839.25,9147.75,Credit Card,4.4
+Aarav Sharma,55,Male,Myntra,Home & Kitchen,Air Fryer,Prestige,4,6363,25452,1961.9,23490.1,Credit Card,4.0
+Aditya Verma,20,Male,Flipkart,Beauty,Perfume,Fogg,3,770,2310,116.87,2193.13,Debit Card,3.1
+Neha Joshi,20,Female,Myntra,Beauty,Lipstick,Maybelline,1,2142,2142,383.82,1758.18,Credit Card,4.5
+Pooja Patil,45,Female,Myntra,Beauty,Face Cream,Nivea,2,633,1266,251.51,1014.49,UPI,4.0
+Nikhil Bansal,41,Male,Flipkart,Home & Kitchen,Cookware Set,Hawkins,1,10092,10092,1982.98,8109.02,UPI,3.2
+Ritu Agarwal,22,Female,Myntra,Home & Kitchen,Mixer Grinder,Philips,4,3091,12364,2891.12,9472.88,Debit Card,3.3
+Aarav Sharma,55,Male,Flipkart,Fashion,Dress,Zara,4,5945,23780,2839.77,20940.23,UPI,3.6
+Karan Kapoor,45,Male,Myntra,Beauty,Sunscreen,Neutrogena,1,2241,2241,284.12,1956.88,Cash on Delivery,4.2
+Sai Kulkarni,21,Male,Myntra,Home & Kitchen,Cookware Set,Hawkins,1,8881,8881,2654.91,6226.09,Credit Card,3.2
+Pooja Patil,56,Female,Myntra,Home & Kitchen,Mixer Grinder,Philips,1,6047,6047,319.34,5727.66,Debit Card,4.7
+Vihaan Gupta,33,Male,Amazon,Electronics,Bluetooth Speaker,JBL,2,11958,23916,5085.68,18830.32,Debit Card,3.3
+Neha Joshi,38,Female,Flipkart,Home & Kitchen,Cookware Set,Hawkins,4,3740,14960,2114.05,12845.95,Debit Card,3.9
+Neha Joshi,51,Female,Amazon,Fashion,Jeans,Levis,1,1582,1582,317.79,1264.21,Net Banking,3.0
+Pooja Patil,31,Female,Myntra,Fashion,Dress,Zara,3,7101,21303,4202.33,17100.67,Debit Card,3.1
+Nikhil Bansal,35,Male,Amazon,Fashion,T-Shirt,Puma,3,2014,6042,560.55,5481.45,Credit Card,4.5
+Rahul Khanna,54,Male,Myntra,Electronics,Laptop,Dell,3,77439,232317,52513.07,179803.93,UPI,4.8
+Shubham Mishra,26,Male,Amazon,Home & Kitchen,Air Fryer,Prestige,4,6073,24292,6976.57,17315.43,Credit Card,4.6
+Rohit Deshmukh,32,Male,Myntra,Home & Kitchen,Air Fryer,Prestige,1,11621,11621,3281.98,8339.02,Debit Card,4.3
+Neha Joshi,25,Female,Flipkart,Home & Kitchen,Air Fryer,Prestige,2,6910,13820,892.13,12927.87,UPI,4.6
+Nikhil Bansal,41,Male,Amazon,Electronics,Smart Watch,Noise,4,6520,26080,1355.2,24724.8,Debit Card,3.9
+Rahul Khanna,19,Male,Flipkart,Electronics,Bluetooth Speaker,JBL,4,11856,47424,12012.62,35411.38,Debit Card,4.1
+Ananya Iyer,20,Female,Myntra,Electronics,Bluetooth Speaker,JBL,1,4155,4155,961.79,3193.21,Credit Card,3.2
+Neha Joshi,32,Female,Amazon,Electronics,Smartphone,Samsung,4,19651,78604,6424.65,72179.35,UPI,3.6
+Nikhil Bansal,22,Male,Flipkart,Electronics,Bluetooth Speaker,JBL,1,6438,6438,433.17,6004.83,Net Banking,4.1
+Sai Kulkarni,49,Male,Myntra,Home & Kitchen,Cookware Set,Hawkins,4,7898,31592,5613.24,25978.76,Credit Card,3.2
+Aditya Verma,31,Male,Flipkart,Fashion,T-Shirt,Puma,3,1854,5562,1461.17,4100.83,Net Banking,4.2
+Pooja Patil,38,Female,Myntra,Home & Kitchen,Mixer Grinder,Philips,2,3904,7808,950.44,6857.56,Net Banking,4.2
+Arjun Mehta,40,Male,Amazon,Electronics,Smart Watch,Noise,4,12937,51748,7489.05,44258.95,Debit Card,3.7
+Priya Malhotra,45,Female,Amazon,Home & Kitchen,Cookware Set,Hawkins,3,4727,14181,1206.28,12974.72,Net Banking,4.4
+Vivaan Patel,46,Male,Amazon,Fashion,Jeans,Levis,2,4718,9436,618.07,8817.93,Credit Card,3.4
+Priya Malhotra,55,Female,Myntra,Fashion,Dress,Zara,2,6581,13162,1983.81,11178.19,Cash on Delivery,5.0
+Priya Malhotra,58,Female,Flipkart,Beauty,Perfume,Fogg,4,2378,9512,982.78,8529.22,Net Banking,3.0
+Sneha Rao,38,Female,Amazon,Home & Kitchen,Vacuum Cleaner,Eureka Forbes,3,6814,20442,5641.33,14800.67,Credit Card,4.3
+Arjun Mehta,38,Male,Myntra,Fashion,T-Shirt,Puma,3,1239,3717,378.39,3338.61,Net Banking,3.8
+Pooja Patil,48,Female,Amazon,Electronics,Smartphone,Samsung,2,19956,39912,2969.41,36942.59,Cash on Delivery,3.6
+Ritu Agarwal,56,Female,Flipkart,Home & Kitchen,Air Fryer,Prestige,1,12393,12393,2380.02,10012.98,Credit Card,4.1
+Ananya Iyer,20,Female,Amazon,Home & Kitchen,Air Fryer,Prestige,1,5137,5137,1022.99,4114.01,Net Banking,3.1
+Sonal Jain,29,Female,Amazon,Fashion,Jeans,Levis,1,3462,3462,831.69,2630.31,Debit Card,4.6
+Arjun Mehta,27,Male,Flipkart,Beauty,Face Cream,Nivea,3,1359,4077,518.44,3558.56,Cash on Delivery,3.9
+Aditya Verma,23,Male,Myntra,Electronics,Headphones,Sony,4,5757,23028,5758.4,17269.6,Credit Card,4.8
+Sneha Rao,34,Female,Amazon,Beauty,Perfume,Fogg,4,2398,9592,1722.02,7869.98,Credit Card,3.6
+Sonal Jain,42,Female,Flipkart,Electronics,Headphones,Sony,4,14945,59780,15162.26,44617.74,Debit Card,3.1
+Amit Singh,27,Male,Flipkart,Electronics,Bluetooth Speaker,JBL,3,10086,30258,3821.4,26436.6,UPI,3.7
+Rahul Khanna,42,Male,Amazon,Beauty,Face Cream,Nivea,3,672,2016,224.7,1791.3,Cash on Delivery,4.5
+Sai Kulkarni,46,Male,Amazon,Beauty,Face Cream,Nivea,3,1063,3189,722.98,2466.02,Credit Card,4.0
+Aditya Verma,44,Male,Amazon,Beauty,Lipstick,Maybelline,2,620,1240,326.88,913.12,UPI,3.9
+Kavya Nair,21,Female,Flipkart,Fashion,Jacket,H&M,4,5159,20636,2422.83,18213.17,Credit Card,3.5
+Aarav Sharma,52,Male,Flipkart,Electronics,Bluetooth Speaker,JBL,2,11930,23860,4178.77,19681.23,Net Banking,3.7
+Sai Kulkarni,22,Male,Amazon,Electronics,Smart Watch,Noise,4,14509,58036,16147.56,41888.44,Debit Card,3.5
+Aarav Sharma,21,Male,Myntra,Fashion,T-Shirt,Puma,1,2487,2487,233.24,2253.76,Cash on Delivery,4.3
+Priya Malhotra,30,Female,Amazon,Home & Kitchen,Mixer Grinder,Philips,4,7127,28508,1741.11,26766.89,Credit Card,3.3
+Sneha Rao,51,Female,Amazon,Beauty,Face Cream,Nivea,2,1330,2660,261.55,2398.45,Credit Card,4.8
+Rahul Khanna,19,Male,Myntra,Home & Kitchen,Air Fryer,Prestige,4,14528,58112,5163.42,52948.58,Debit Card,5.0
+Nikhil Bansal,38,Male,Myntra,Beauty,Shampoo,Loreal,3,1272,3816,377.12,3438.88,Credit Card,3.2
+Kavya Nair,23,Female,Flipkart,Electronics,Bluetooth Speaker,JBL,4,4556,18224,3111.72,15112.28,Net Banking,4.5
+Sneha Rao,24,Female,Myntra,Fashion,Dress,Zara,3,2134,6402,750.19,5651.81,Debit Card,3.6
+Shubham Mishra,20,Male,Flipkart,Electronics,Headphones,Sony,4,13718,54872,7011.75,47860.25,Net Banking,3.8
+Shubham Mishra,40,Male,Flipkart,Home & Kitchen,Mixer Grinder,Philips,3,4766,14298,3195.49,11102.51,Credit Card,3.7
+Sonal Jain,45,Female,Amazon,Electronics,Headphones,Sony,2,12262,24524,4894.95,19629.05,Net Banking,3.5
+Sneha Rao,53,Female,Myntra,Fashion,T-Shirt,Puma,4,1403,5612,374.48,5237.52,Debit Card,3.9
+Amit Singh,22,Male,Amazon,Home & Kitchen,Air Fryer,Prestige,3,13370,40110,9149.48,30960.52,Net Banking,4.8
+Nikhil Bansal,41,Male,Flipkart,Electronics,Bluetooth Speaker,JBL,4,3664,14656,1411.96,13244.04,Net Banking,3.1
+Rahul Khanna,37,Male,Flipkart,Home & Kitchen,Mixer Grinder,Philips,4,4958,19832,1145.5,18686.5,Credit Card,3.6
+Rahul Khanna,41,Male,Flipkart,Beauty,Shampoo,Loreal,2,1070,2140,130.3,2009.7,Cash on Delivery,4.3
+Arjun Mehta,23,Male,Flipkart,Electronics,Bluetooth Speaker,JBL,3,7894,23682,5158.48,18523.52,Cash on Delivery,4.1
+Rohit Deshmukh,23,Male,Flipkart,Electronics,Smart Watch,Noise,4,2904,11616,1070.66,10545.34,Net Banking,3.1
+Rahul Khanna,43,Male,Flipkart,Electronics,Laptop,Dell,4,62683,250732,58984.26,191747.74,UPI,4.6
+Priya Malhotra,20,Female,Myntra,Home & Kitchen,Cookware Set,Hawkins,3,10444,31332,5047.93,26284.07,UPI,4.4
+Aditya Verma,31,Male,Flipkart,Electronics,Smartphone,Samsung,3,13945,41835,4935.34,36899.66,Cash on Delivery,3.2
+Rahul Khanna,25,Male,Flipkart,Home & Kitchen,Mixer Grinder,Philips,3,2599,7797,1268.02,6528.98,Debit Card,3.3
+Vivaan Patel,28,Male,Flipkart,Electronics,Headphones,Sony,4,11776,47104,7139.37,39964.63,Cash on Delivery,4.8
+Pooja Patil,49,Female,Amazon,Electronics,Smart Watch,Noise,3,13187,39561,5749.71,33811.29,Credit Card,4.1
+Pooja Patil,47,Female,Myntra,Beauty,Perfume,Fogg,3,1289,3867,234.49,3632.51,Cash on Delivery,3.2
+Rohit Deshmukh,45,Male,Amazon,Fashion,Dress,Zara,1,7110,7110,602.36,6507.64,UPI,3.9
+Karan Kapoor,32,Male,Amazon,Home & Kitchen,Electric Kettle,Bajaj,2,2919,5838,1662.17,4175.83,Cash on Delivery,4.7
+Sai Kulkarni,53,Male,Myntra,Fashion,T-Shirt,Puma,3,1446,4338,999.52,3338.48,Debit Card,5.0
+Kavya Nair,48,Female,Flipkart,Beauty,Sunscreen,Neutrogena,3,2348,7044,523.46,6520.54,Net Banking,3.2
+Aditya Verma,45,Male,Flipkart,Electronics,Smartphone,Samsung,1,35085,35085,3648.12,31436.88,Net Banking,3.2
+Aditya Verma,24,Male,Myntra,Electronics,Smartphone,Samsung,3,43949,131847,16908.07,114938.93,UPI,4.8
+Amit Singh,23,Male,Flipkart,Beauty,Lipstick,Maybelline,4,1995,7980,1434.62,6545.38,UPI,4.6
+Aarav Sharma,43,Male,Amazon,Beauty,Lipstick,Maybelline,3,1889,5667,720.19,4946.81,Cash on Delivery,4.1
+Kavya Nair,59,Female,Flipkart,Electronics,Bluetooth Speaker,JBL,4,2440,9760,2448.78,7311.22,Net Banking,3.8
+Ananya Iyer,30,Female,Amazon,Fashion,Dress,Zara,2,3492,6984,761.74,6222.26,Credit Card,3.7
+Rahul Khanna,18,Male,Flipkart,Fashion,Jacket,H&M,2,6167,12334,1464.12,10869.88,Debit Card,4.0
+Aditya Verma,43,Male,Myntra,Electronics,Smartphone,Samsung,3,44388,133164,39412.03,93751.97,Cash on Delivery,3.7
+Nikhil Bansal,50,Male,Myntra,Fashion,Dress,Zara,3,4561,13683,1338.79,12344.21,Net Banking,3.7
+Neha Joshi,46,Female,Amazon,Home & Kitchen,Mixer Grinder,Philips,1,4142,4142,436.01,3705.99,Credit Card,3.2
+Ananya Iyer,38,Female,Myntra,Beauty,Face Cream,Nivea,1,1044,1044,207.34,836.66,Credit Card,4.6
+Shubham Mishra,41,Male,Flipkart,Home & Kitchen,Air Fryer,Prestige,2,12396,24792,3093.17,21698.83,Credit Card,3.9
+Sai Kulkarni,26,Male,Myntra,Home & Kitchen,Cookware Set,Hawkins,3,9278,27834,4309.97,23524.03,Debit Card,3.5
+Aditya Verma,57,Male,Flipkart,Fashion,Dress,Zara,2,6649,13298,2795.21,10502.79,Debit Card,4.3
+Arjun Mehta,53,Male,Flipkart,Fashion,Jacket,H&M,2,5286,10572,1868.39,8703.61,Cash on Delivery,4.2
+Amit Singh,23,Male,Myntra,Fashion,Sneakers,Nike,1,11632,11632,3220.6,8411.4,Net Banking,4.1
+Sai Kulkarni,33,Male,Myntra,Electronics,Smart Watch,Noise,1,12777,12777,3131.59,9645.41,UPI,5.0
+Ananya Iyer,20,Female,Amazon,Beauty,Perfume,Fogg,2,2129,4258,1098.37,3159.63,Debit Card,3.3
+Rahul Khanna,23,Male,Myntra,Electronics,Bluetooth Speaker,JBL,3,5875,17625,3033.47,14591.53,Net Banking,4.1
+Karan Kapoor,27,Male,Myntra,Home & Kitchen,Air Fryer,Prestige,1,12331,12331,2903.0,9428.0,Net Banking,3.5
+Neha Joshi,33,Female,Flipkart,Fashion,T-Shirt,Puma,4,1484,5936,511.54,5424.46,Cash on Delivery,4.6
+Sneha Rao,43,Female,Myntra,Beauty,Sunscreen,Neutrogena,1,754,754,40.5,713.5,UPI,3.2
+Ritu Agarwal,41,Female,Amazon,Beauty,Shampoo,Loreal,2,577,1154,310.32,843.68,UPI,4.9
+Aditya Verma,27,Male,Flipkart,Home & Kitchen,Cookware Set,Hawkins,4,8767,35068,9912.06,25155.94,Cash on Delivery,4.3
+Vihaan Gupta,32,Male,Amazon,Beauty,Sunscreen,Neutrogena,2,1548,3096,532.93,2563.07,Debit Card,4.6
+Priya Malhotra,33,Female,Myntra,Fashion,Dress,Zara,3,6715,20145,1268.77,18876.23,Debit Card,3.1
+Priya Malhotra,48,Female,Amazon,Beauty,Lipstick,Maybelline,4,1543,6172,1157.04,5014.96,Cash on Delivery,3.1
+Aditya Verma,21,Male,Amazon,Beauty,Shampoo,Loreal,4,1624,6496,1082.0,5414.0,Debit Card,3.8
+Kavya Nair,31,Female,Flipkart,Home & Kitchen,Mixer Grinder,Philips,2,3073,6146,1625.64,4520.36,Credit Card,3.5
+Ananya Iyer,28,Female,Myntra,Beauty,Lipstick,Maybelline,2,1357,2714,171.91,2542.09,Cash on Delivery,4.6
+Vihaan Gupta,54,Male,Amazon,Fashion,Jeans,Levis,1,3054,3054,342.63,2711.37,Debit Card,4.6
+Nikhil Bansal,18,Male,Flipkart,Beauty,Perfume,Fogg,4,1328,5312,1219.97,4092.03,Cash on Delivery,3.1
+Pooja Patil,47,Female,Flipkart,Electronics,Laptop,Dell,1,40959,40959,4685.51,36273.49,Cash on Delivery,4.3
+Vivaan Patel,31,Male,Amazon,Electronics,Headphones,Sony,4,6533,26132,3501.55,22630.45,UPI,4.3
+Sneha Rao,33,Female,Amazon,Electronics,Headphones,Sony,2,14060,28120,6930.67,21189.33,UPI,4.5
+Amit Singh,42,Male,Myntra,Electronics,Smart Watch,Noise,2,13558,27116,3438.91,23677.09,Debit Card,5.0
