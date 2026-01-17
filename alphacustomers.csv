@@ -1,0 +1,56 @@
+customer_id,full_name,dob,age,gender,mobile,email,aadhaar,pan,address,created_at,updated_at
+1,Vijay Kale,1992-08-15,33,male,9876543210,vijay.kale@gmail.com,123456789012,ABCDE1234F,"123, MG Road, Pune, Maharashtra",2025-10-03 16:35:58,2025-10-03 16:35:58
+2,Amit Hari Bachchan,1941-10-11,80,male,7122245637,bigb@gmail.com,665512338722,ANDAB1234A,"Pratiksha Juhu 
+Mumbai
+Maharashtra",2025-10-05 15:35:58,2025-10-05 15:35:58
+3,Ravindra Patil,1985-04-12,40,male,9876500001,ravi.patil@example.com,123456789013,ABCDE1235F,"221, Tilak Nagar, Delhi",2022-01-15 10:25:00,2025-10-07 04:19:22
+4,Priya Nair,1990-09-23,35,female,9876500002,priya.nair@example.com,123456789014,ABCDE1236F,"44, MG Road, Kochi, Kerala",2021-05-20 14:40:00,2025-10-07 04:19:22
+5,Amit Verma,1995-07-11,30,male,9876500003,amit.verma@example.com,123456789015,ABCDE1237F,"77, Civil Lines, Lucknow, UP",2023-07-01 09:00:00,2025-10-07 04:19:22
+6,Sneha Kulkarni,1988-03-05,37,female,9876500004,sneha.kulkarni@example.com,123456789016,ABCDE1238F,"10, FC Road, Pune, Maharashtra",2022-08-11 16:15:00,2025-10-07 04:19:22
+7,Ravi Patel,1978-12-19,46,male,9876500005,ravi.patel@example.com,123456789017,ABCDE1239F,"55, Ashram Road, Ahmedabad, Gujarat",2020-03-08 11:30:00,2025-10-07 04:19:23
+8,Anjali Gupta,1999-11-02,25,female,9876500006,anjali.gupta@example.com,123456789018,ABCDE1240F,"22, Park Street, Kolkata, WB",2024-04-14 18:45:00,2025-10-07 04:19:23
+9,Vikas Yadav,1982-06-15,43,male,9876500007,vikas.yadav@example.com,123456789019,ABCDE1241F,"67, Charbagh, Lucknow, UP",2023-01-25 09:20:00,2025-10-07 04:19:23
+10,Deepa Reddy,1994-08-29,31,female,9876500008,deepa.reddy@example.com,123456789020,ABCDE1242F,"12, Banjara Hills, Hyderabad, Telangana",2021-10-05 13:55:00,2025-10-07 04:19:23
+11,Karan Singh,1989-01-10,36,male,9876500009,karan.singh@example.com,123456789021,ABCDE1243F,"89, Sector 17, Chandigarh",2022-11-19 20:10:00,2025-10-07 04:19:23
+12,Meena Deshmukh,1996-12-30,28,female,9876500010,meena.deshmukh@example.com,123456789022,ABCDE1244F,"31, Sitabuldi, Nagpur, Maharashtra",2024-02-22 07:50:00,2025-10-07 04:19:24
+13,Suresh Kumar,1983-09-14,42,male,9876500011,suresh.kumar@example.com,123456789023,ABCDE1245F,"45, Anna Nagar, Chennai, Tamil Nadu",2023-09-18 15:25:00,2025-10-07 04:19:24
+14,Neha Bansal,1991-02-07,34,female,9876500012,neha.bansal@example.com,123456789024,ABCDE1246F,"14, Connaught Place, Delhi",2020-12-30 10:10:00,2025-10-07 04:19:24
+15,Alok Mishra,1986-05-20,39,male,9876500013,alok.mishra@example.com,123456789025,ABCDE1247F,"19, Hazratganj, Lucknow, UP",2021-07-07 19:00:00,2025-10-07 04:19:24
+16,Pooja Joshi,1993-11-27,31,female,9876500014,pooja.joshi@example.com,123456789026,ABCDE1248F,"90, Race Course Road, Indore, MP",2022-05-13 14:35:00,2025-10-07 04:19:24
+17,Arjun Mehta,1977-08-09,48,male,9876500015,arjun.mehta@example.com,123456789027,ABCDE1249F,"42, Ellis Bridge, Ahmedabad, Gujarat",2021-03-29 11:20:00,2025-10-07 04:19:24
+18,Divya Menon,1998-04-18,27,female,9876500016,divya.menon@example.com,123456789028,ABCDE1250F,"56, Marine Drive, Kochi, Kerala",2024-06-10 16:00:00,2025-10-07 04:19:25
+19,Sanjay Chauhan,1981-10-25,44,male,9876500017,sanjay.chauhan@example.com,123456789029,ABCDE1251F,"22, Rani Bagh, Jaipur, Rajasthan",2020-08-17 09:40:00,2025-10-07 04:19:25
+20,Shalini Roy,1992-03-03,33,female,9876500018,shalini.roy@example.com,123456789030,ABCDE1252F,"77, Ballygunge, Kolkata, WB",2022-09-09 17:55:00,2025-10-07 04:19:25
+21,Manish Khanna,1987-06-21,38,male,9876500019,manish.khanna@example.com,123456789031,ABCDE1253F,"55, Patel Nagar, Delhi",2023-05-06 12:05:00,2025-10-07 04:19:25
+22,Aarti Chavan,1995-01-16,30,female,9876500020,aarti.chavan@example.com,123456789032,ABCDE1254F,"34, Shivaji Nagar, Pune, Maharashtra",2021-11-23 08:30:00,2025-10-07 04:19:25
+23,Gaurav Sinha,1984-07-12,41,male,9876500021,gaurav.sinha@example.com,123456789033,ABCDE1255F,"22, Fraser Town, Bangalore, Karnataka",2022-03-18 19:15:00,2025-10-07 04:19:25
+24,Kavita Pillai,1990-12-08,35,female,9876500022,kavita.pillai@example.com,123456789034,ABCDE1256F,"19, Gandhi Road, Thiruvananthapuram, Kerala",2023-04-12 13:25:00,2025-10-07 04:19:26
+25,Rohit Malhotra,1982-02-17,43,male,9876500023,rohit.malhotra@example.com,123456789035,ABCDE1257F,"11, Karol Bagh, Delhi",2020-06-21 10:05:00,2025-10-07 04:19:26
+26,Swati Desai,1997-09-14,28,female,9876500024,swati.desai@example.com,123456789036,ABCDE1258F,"28, Law Garden, Ahmedabad, Gujarat",2024-01-05 16:50:00,2025-10-07 04:19:26
+27,Harish Iyer,1980-05-01,45,male,9876500025,harish.iyer@example.com,123456789037,ABCDE1259F,"65, T Nagar, Chennai, Tamil Nadu",2021-02-11 11:35:00,2025-10-07 04:28:03
+28,Ritika Bhatt,1991-11-09,34,female,9876500026,ritika.bhatt@example.com,123456789038,ABCDE1260F,"39, Gomti Nagar, Lucknow, UP",2022-07-27 14:00:00,2025-10-07 04:28:03
+29,Ajit Kapoor,1979-08-22,46,male,9876500027,ajit.kapoor@example.com,123456789039,ABCDE1261F,"88, Andheri East, Mumbai, Maharashtra",2023-08-19 17:20:00,2025-10-07 04:28:03
+30,Sunita Sharma,1994-04-06,31,female,9876500028,sunita.sharma@example.com,123456789040,ABCDE1262F,"54, Rajouri Garden, Delhi",2024-03-16 08:10:00,2025-10-07 04:28:03
+31,Nikhil Saxena,1985-10-13,40,male,9876500029,nikhil.saxena@example.com,123456789041,ABCDE1263F,"21, Indira Nagar, Bangalore, Karnataka",2020-10-22 18:55:00,2025-10-07 04:28:03
+32,Rupali Ghosh,1993-02-19,32,female,9876500030,rupali.ghosh@example.com,123456789042,ABCDE1264F,"76, Salt Lake, Kolkata, WB",2021-06-15 09:15:00,2025-10-07 04:28:04
+33,Ashok Jain,1988-12-27,36,male,9876500031,ashok.jain@example.com,123456789043,ABCDE1265F,"35, Malviya Nagar, Jaipur, Rajasthan",2022-04-01 13:40:00,2025-10-07 04:28:04
+34,Madhuri Patil,1995-07-08,30,female,9876500032,madhuri.patil@example.com,123456789044,ABCDE1266F,"10, Laxmi Road, Pune, Maharashtra",2024-09-05 07:55:00,2025-10-07 04:28:04
+35,Vinod Kumar,1981-03-17,44,male,9876500033,vinod.kumar@example.com,123456789045,ABCDE1267F,"59, Sarafa Bazaar, Indore, MP",2023-12-21 19:05:00,2025-10-07 04:28:04
+36,Sonia George,1992-05-11,33,female,9876500034,sonia.george@example.com,123456789046,ABCDE1268F,"25, MG Road, Kochi, Kerala",2022-02-14 15:25:00,2025-10-07 04:28:04
+37,Ajay Thakur,1984-11-20,41,male,9876500035,ajay.thakur@example.com,123456789047,ABCDE1269F,"81, Model Town, Ludhiana, Punjab",2021-09-07 12:00:00,2025-10-07 04:28:05
+38,Kirti Anand,1997-08-28,28,female,9876500036,kirti.anand@example.com,123456789048,ABCDE1270F,"18, Alkapuri, Vadodara, Gujarat",2024-05-09 11:10:00,2025-10-07 04:28:05
+39,Mohit Choudhary,1989-06-02,36,male,9876500037,mohit.choudhary@example.com,123456789049,ABCDE1271F,"44, Raja Park, Jaipur, Rajasthan",2020-07-26 08:45:00,2025-10-07 04:28:05
+40,Lakshmi Krishnan,1990-01-25,35,female,9876500038,lakshmi.krishnan@example.com,123456789050,ABCDE1272F,"73, Mylapore, Chennai, Tamil Nadu",2021-12-12 17:50:00,2025-10-07 04:28:05
+41,Rajeev Ranjan,1982-09-30,43,male,9876500039,rajeev.ranjan@example.com,123456789051,ABCDE1273F,"67, Boring Road, Patna, Bihar",2023-06-18 14:30:00,2025-10-07 04:28:05
+42,Seema Kaur,1994-11-13,31,female,9876500040,seema.kaur@example.com,123456789052,ABCDE1274F,"33, Sector 15, Chandigarh",2022-10-23 09:55:00,2025-10-07 04:28:05
+43,Prakash Dubey,1986-04-22,39,male,9876500041,prakash.dubey@example.com,123456789053,ABCDE1275F,"11, MP Nagar, Bhopal, MP",2021-04-02 16:20:00,2025-10-07 04:28:06
+44,Rashmi Saxena,1993-07-19,32,female,9876500042,rashmi.saxena@example.com,123456789054,ABCDE1276F,"55, Kankarbagh, Patna, Bihar",2024-07-13 18:05:00,2025-10-07 04:28:06
+45,Devendra Joshi,1979-05-27,46,male,9876500043,devendra.joshi@example.com,123456789055,ABCDE1277F,"29, Ring Road, Surat, Gujarat",2023-02-28 11:45:00,2025-10-07 04:28:06
+46,Nandita Mukherjee,1996-09-04,29,female,9876500044,nandita.mukherjee@example.com,123456789056,ABCDE1278F,"64, Shyambazar, Kolkata, WB",2020-11-06 13:10:00,2025-10-07 04:28:06
+47,Ashwin Shetty,1987-02-16,38,male,9876500045,ashwin.shetty@example.com,123456789057,ABCDE1279F,"80, Jayanagar, Bangalore, Karnataka",2021-08-24 07:20:00,2025-10-07 04:28:06
+48,Parul Arora,1991-10-28,34,female,9876500046,parul.arora@example.com,123456789058,ABCDE1280F,"23, Greater Kailash, Delhi",2022-05-19 12:40:00,2025-10-07 04:28:07
+49,Ramesh Pillai,1983-01-06,42,male,9876500047,ramesh.pillai@example.com,123456789059,ABCDE1281F,"37, MG Road, Thiruvananthapuram, Kerala",2024-03-28 15:30:00,2025-10-07 04:28:07
+50,Shweta Goyal,1995-12-15,29,female,9876500048,shweta.goyal@example.com,123456789060,ABCDE1282F,"71, Vaishali Nagar, Jaipur, Rajasthan",2022-06-14 18:25:00,2025-10-07 04:28:07
+51,Naveen Reddy,1980-07-01,45,male,9876500049,naveen.reddy@example.com,123456789061,ABCDE1283F,"14, Jubilee Hills, Hyderabad, Telangana",2023-11-09 09:15:00,2025-10-07 04:28:07
+52,Ankita Kadam,1992-02-22,33,female,9876500050,ankita.kadam@example.com,123456789062,ABCDE1284F,"85, Model Town, Delhi",2021-01-18 19:50:00,2025-10-07 04:28:07
+53,Virgil Van Dijk,1991-06-06,30,male,9028297564,vvd@gmail.com,333412347654,EDZYM3245A,Amsterdam,2025-11-01 03:59:42,2025-11-01 03:59:42
