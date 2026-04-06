@@ -1,0 +1,510 @@
+txn_id,customer_id,account_id,amount,txn_type,payment_mode,category,subcategory,merchant_name,txn_date,city,state,country,description,created_at
+1,5,3,1250.75,DEBIT,UPI,FOOD,Restaurant,Zomato,05-02-2025 14:30,Nagpur,Maharashtra,India,Dinner at Barbeque Nation,10-12-2025 12:12
+2,5,3,2300,DEBIT,UPI,SHOPPING,Shirt,Myntra,10-12-2025 17:26,Nagpur,Maharashtra,India,online shopping,11-12-2025 11:59
+3,5,3,100,DEBIT,UPI,TRAVEL,Metro,Mumbai Metro,10-12-2025 17:35,Mumbai,Maharashtra,India,for transport,11-12-2025 12:06
+4,17,15,599,DEBIT,WALLET,SUBSCRIPTIONS,Mobile Recharge,Airtel,09-12-2025 18:03,Kolhapur,Maharashtra,India,internet pack,11-12-2025 12:34
+5,1,51,7321.72,DEBIT,WALLET,OTHERS,Pet Care,Pet Clinic,25-10-2025 00:20,Jaipur,Rajasthan,India,Payment for Pet Care at Pet Clinic.,12-12-2025 11:43
+6,2,52,3521.25,DEBIT,WALLET,FOOD,Groceries,Saravana Bhavan,15-10-2025 03:31,Jaipur,Rajasthan,India,Payment for Groceries at Saravana Bhavan.,12-12-2025 11:43
+7,3,1,4932.38,DEBIT,AUTO_DEBIT,SUBSCRIPTIONS,Gym Membership,Cult.fit/Anytime Fitness,01-12-2025 05:56,Jaipur,Rajasthan,India,Payment for Gym Membership at Cult.fit/Anytime Fitness.,12-12-2025 11:43
+8,4,2,36409.77,DEBIT,AUTO_DEBIT,EDUCATION,Tuition Fees,University Book Store,13-10-2025 22:51,Chennai,Tamil Nadu,India,Payment for Tuition Fees at University Book Store.,12-12-2025 11:43
+9,5,3,4903.4,DEBIT,UPI,OTHERS,Donation,Pet Clinic,18-08-2025 01:13,Jaipur,Rajasthan,India,Payment for Donation at Pet Clinic.,12-12-2025 11:43
+10,6,4,15596.06,DEBIT,CASH,SHOPPING,Electronics,Amazon India/Myntra,22-10-2025 23:35,Pune,Maharashtra,India,Payment for Electronics at Amazon India/Myntra.,12-12-2025 11:43
+11,7,5,3468.5,DEBIT,CARD,SHOPPING,Books,Croma/Reliance Digital,28-10-2025 06:35,Jaipur,Rajasthan,India,Payment for Books at Croma/Reliance Digital.,12-12-2025 11:43
+12,8,6,368.24,DEBIT,CASH,OTHERS,Gifts,Pet Clinic,20-10-2025 22:22,Hyderabad,Telangana,India,Payment for Gifts at Pet Clinic.,12-12-2025 11:43
+13,9,7,20223.2,DEBIT,WALLET,TRAVEL,Local Sightseeing,Indigo/Air India,12-12-2025 06:55,Pune,Maharashtra,India,Payment for Local Sightseeing at Indigo/Air India.,12-12-2025 11:43
+14,10,8,1609.98,DEBIT,UPI,TRANSPORT,Cab,IOCL Pump,28-06-2025 11:08,Mumbai,Maharashtra,India,Payment for Cab at IOCL Pump.,12-12-2025 11:43
+15,11,9,52625.47,DEBIT,AUTO_DEBIT,FINANCE,Investment,HDFC Bank/SBI,07-08-2025 16:29,Chennai,Tamil Nadu,India,Payment for Investment at HDFC Bank/SBI.,12-12-2025 11:43
+16,12,10,335.4,DEBIT,AUTO_DEBIT,OTHERS,Gifts,NGO India,23-07-2025 13:40,Pune,Maharashtra,India,Payment for Gifts at NGO India.,12-12-2025 11:43
+17,13,11,687.47,DEBIT,WALLET,FOOD,Online Delivery,Starbucks,24-07-2025 03:25,Mumbai,Maharashtra,India,Payment for Online Delivery at Starbucks.,12-12-2025 11:43
+18,14,12,18666.51,DEBIT,CARD,FINANCE,Loan EMI,Zerodha/Groww,02-09-2025 10:39,Jaipur,Rajasthan,India,Payment for Loan EMI at Zerodha/Groww.,12-12-2025 11:43
+19,15,13,38997.77,DEBIT,WALLET,FINANCE,Credit Card Payment,Zerodha/Groww,27-06-2025 03:51,Hyderabad,Telangana,India,Payment for Credit Card Payment at Zerodha/Groww.,12-12-2025 11:43
+20,16,14,2269.08,DEBIT,CARD,SUBSCRIPTIONS,Newspaper,Times of India,18-10-2025 04:40,Hyderabad,Telangana,India,Payment for Newspaper at Times of India.,12-12-2025 11:43
+21,17,15,992.63,DEBIT,CARD,TRANSPORT,Fuel,Ola/Uber,29-09-2025 23:10,Mumbai,Maharashtra,India,Payment for Fuel at Ola/Uber.,12-12-2025 11:43
+22,18,16,2338.79,DEBIT,UPI,TRANSPORT,Cab,IOCL Pump,27-11-2025 15:32,Kolkata,West Bengal,India,Payment for Cab at IOCL Pump.,12-12-2025 11:43
+23,19,17,14154.62,DEBIT,UPI,HEALTHCARE,Insurance Premium,Practo/Local Clinic,24-10-2025 09:50,Pune,Maharashtra,India,Payment for Insurance Premium at Practo/Local Clinic.,12-12-2025 11:43
+24,20,18,20684.56,DEBIT,WALLET,TRAVEL,Train,OYO/Goibibo,16-09-2025 22:50,Pune,Maharashtra,India,Payment for Train at OYO/Goibibo.,12-12-2025 11:43
+25,21,19,4230.37,DEBIT,NET_BANKING,FOOD,Groceries,Saravana Bhavan,21-07-2025 03:59,Bengaluru,Karnataka,India,Payment for Groceries at Saravana Bhavan.,12-12-2025 11:43
+26,22,20,26057.67,DEBIT,CARD,TRAVEL,Flight,IRCTC,09-12-2025 14:47,Chennai,Tamil Nadu,India,Payment for Flight at IRCTC.,12-12-2025 11:43
+27,23,21,19842.93,DEBIT,CARD,HOUSING,Internet,Airtel Broadband/Jio Fiber,21-11-2025 07:54,Mumbai,Maharashtra,India,Payment for Internet at Airtel Broadband/Jio Fiber.,12-12-2025 11:43
+28,24,22,9359,DEBIT,CARD,EDUCATION,Online Course,Coursera/Udemy,30-06-2025 05:47,Chennai,Tamil Nadu,India,Payment for Online Course at Coursera/Udemy.,12-12-2025 11:43
+29,25,23,282.35,DEBIT,AUTO_DEBIT,SUBSCRIPTIONS,Newspaper,Cult.fit/Anytime Fitness,12-12-2025 00:43,Lucknow,Uttar Pradesh,India,Payment for Newspaper at Cult.fit/Anytime Fitness.,12-12-2025 11:43
+30,26,24,1638.18,DEBIT,UPI,OTHERS,Donation,Pet Clinic,11-11-2025 16:14,Lucknow,Uttar Pradesh,India,Payment for Donation at Pet Clinic.,12-12-2025 11:43
+31,27,25,870,DEBIT,CASH,TRANSPORT,Cab,Delhi Metro/BMTC,21-09-2025 03:38,Pune,Maharashtra,India,Payment for Cab at Delhi Metro/BMTC.,12-12-2025 11:43
+32,28,26,33223.21,DEBIT,CASH,EDUCATION,Online Course,University Book Store,21-06-2025 04:28,Hyderabad,Telangana,India,Payment for Online Course at University Book Store.,12-12-2025 11:43
+33,29,27,11608.25,DEBIT,CASH,EDUCATION,Course Material,University Book Store,16-10-2025 10:02,Lucknow,Uttar Pradesh,India,Payment for Course Material at University Book Store.,12-12-2025 11:43
+34,30,28,32280.2,DEBIT,NET_BANKING,HOUSING,Internet,Airtel Broadband/Jio Fiber,03-07-2025 18:01,Kolkata,West Bengal,India,Payment for Internet at Airtel Broadband/Jio Fiber.,12-12-2025 11:43
+35,31,29,12496.87,DEBIT,CARD,TRAVEL,Flight,IRCTC,18-06-2025 03:38,Mumbai,Maharashtra,India,Payment for Flight at IRCTC.,12-12-2025 11:43
+36,32,30,45363.7,DEBIT,WALLET,HOUSING,Rent,Airtel Broadband/Jio Fiber,04-09-2025 00:41,Hyderabad,Telangana,India,Payment for Rent at Airtel Broadband/Jio Fiber.,12-12-2025 11:43
+37,33,31,32027.19,DEBIT,CASH,HOUSING,Internet,BSES/TNEB/MSEDCL,28-08-2025 05:12,Chennai,Tamil Nadu,India,Payment for Internet at BSES/TNEB/MSEDCL.,12-12-2025 11:43
+38,34,32,37757.78,DEBIT,NET_BANKING,FINANCE,Credit Card Payment,HDFC Bank/SBI,29-09-2025 20:05,Delhi,Delhi,India,Payment for Credit Card Payment at HDFC Bank/SBI.,12-12-2025 11:43
+39,35,33,9876.57,DEBIT,CARD,HEALTHCARE,Pharmacy,Apollo Pharmacy,10-11-2025 07:24,Chennai,Tamil Nadu,India,Payment for Pharmacy at Apollo Pharmacy.,12-12-2025 11:43
+40,36,34,2718.65,DEBIT,NET_BANKING,TRANSPORT,Metro/Bus Pass,IOCL Pump,23-06-2025 21:05,Mumbai,Maharashtra,India,Payment for Metro/Bus Pass at IOCL Pump.,12-12-2025 11:43
+41,37,35,4216.29,DEBIT,UPI,SUBSCRIPTIONS,Newspaper,Netflix/Hotstar,02-10-2025 18:28,Kolkata,West Bengal,India,Payment for Newspaper at Netflix/Hotstar.,12-12-2025 11:43
+42,38,36,6554.17,DEBIT,WALLET,HEALTHCARE,Lab Test,LIC/HDFC Life,21-06-2025 00:48,Delhi,Delhi,India,Payment for Lab Test at LIC/HDFC Life.,12-12-2025 11:43
+43,39,37,20728,DEBIT,UPI,SHOPPING,Books,Zara/H&M,08-09-2025 00:27,Chennai,Tamil Nadu,India,Payment for Books at Zara/H&M.,12-12-2025 11:43
+44,40,38,18749.66,DEBIT,NET_BANKING,TRAVEL,Flight,Local Travel Agency,13-07-2025 22:18,Lucknow,Uttar Pradesh,India,Payment for Flight at Local Travel Agency.,12-12-2025 11:43
+45,41,39,426.01,DEBIT,CARD,OTHERS,Donation,Jawed Habib,16-06-2025 22:27,Bengaluru,Karnataka,India,Payment for Donation at Jawed Habib.,12-12-2025 11:43
+46,42,40,51177.93,DEBIT,CARD,FINANCE,Loan EMI,ICICI Bank/Axis Bank,23-10-2025 19:55,Delhi,Delhi,India,Payment for Loan EMI at ICICI Bank/Axis Bank.,12-12-2025 11:43
+47,43,41,47364.72,DEBIT,CASH,FINANCE,Loan EMI,Zerodha/Groww,07-10-2025 05:42,Pune,Maharashtra,India,Payment for Loan EMI at Zerodha/Groww.,12-12-2025 11:43
+48,44,42,5093.88,DEBIT,WALLET,HEALTHCARE,Pharmacy,Apollo Pharmacy,30-09-2025 03:57,Jaipur,Rajasthan,India,Payment for Pharmacy at Apollo Pharmacy.,12-12-2025 11:43
+49,45,43,6150.93,DEBIT,WALLET,FINANCE,Credit Card Payment,HDFC Bank/SBI,14-11-2025 23:43,Kolkata,West Bengal,India,Payment for Credit Card Payment at HDFC Bank/SBI.,12-12-2025 11:43
+50,46,44,11329.05,DEBIT,AUTO_DEBIT,HEALTHCARE,Lab Test,Apollo Pharmacy,28-06-2025 13:33,Delhi,Delhi,India,Payment for Lab Test at Apollo Pharmacy.,12-12-2025 11:43
+51,47,45,4137.44,DEBIT,CASH,FINANCE,Loan EMI,Zerodha/Groww,28-09-2025 03:43,Pune,Maharashtra,India,Payment for Loan EMI at Zerodha/Groww.,12-12-2025 11:43
+52,48,46,7483.63,DEBIT,UPI,OTHERS,Donation,Pet Clinic,16-09-2025 01:02,Ahmedabad,Gujarat,India,Payment for Donation at Pet Clinic.,12-12-2025 11:43
+53,49,47,12653.53,DEBIT,UPI,HEALTHCARE,Lab Test,LIC/HDFC Life,27-10-2025 21:15,Lucknow,Uttar Pradesh,India,Payment for Lab Test at LIC/HDFC Life.,12-12-2025 11:43
+54,50,48,2377.9,DEBIT,UPI,SUBSCRIPTIONS,Streaming,Netflix/Hotstar,26-08-2025 06:32,Mumbai,Maharashtra,India,Payment for Streaming at Netflix/Hotstar.,12-12-2025 11:43
+55,51,49,19618.4,DEBIT,AUTO_DEBIT,TRAVEL,Hotel,Local Travel Agency,08-12-2025 09:23,Chennai,Tamil Nadu,India,Payment for Hotel at Local Travel Agency.,12-12-2025 11:43
+56,52,50,41856.01,DEBIT,CARD,EDUCATION,Course Material,BYJU's/Vedantu,21-10-2025 22:01,Delhi,Delhi,India,Payment for Course Material at BYJU's/Vedantu.,12-12-2025 11:43
+57,53,53,2073.46,DEBIT,WALLET,HOUSING,Electricity Bill,Landlord,17-08-2025 20:46,Jaipur,Rajasthan,India,Payment for Electricity Bill at Landlord.,12-12-2025 11:43
+58,1,51,23633.91,DEBIT,CARD,FINANCE,Loan EMI,Zerodha/Groww,17-06-2025 01:40,Mumbai,Maharashtra,India,Payment for Loan EMI at Zerodha/Groww.,12-12-2025 11:43
+59,2,52,12350.58,DEBIT,CARD,HEALTHCARE,Pharmacy,Practo/Local Clinic,27-07-2025 13:31,Bengaluru,Karnataka,India,Payment for Pharmacy at Practo/Local Clinic.,12-12-2025 11:43
+60,3,1,26694.55,DEBIT,WALLET,EDUCATION,Course Material,BYJU's/Vedantu,15-09-2025 12:56,Jaipur,Rajasthan,India,Payment for Course Material at BYJU's/Vedantu.,12-12-2025 11:43
+61,4,2,14405.55,DEBIT,AUTO_DEBIT,TRAVEL,Flight,OYO/Goibibo,11-08-2025 07:32,Chennai,Tamil Nadu,India,Payment for Flight at OYO/Goibibo.,12-12-2025 11:43
+62,5,3,5302.35,DEBIT,AUTO_DEBIT,TRAVEL,Flight,Local Travel Agency,03-11-2025 16:16,Kolkata,West Bengal,India,Payment for Flight at Local Travel Agency.,12-12-2025 11:43
+63,6,4,17928.45,DEBIT,NET_BANKING,TRAVEL,Local Sightseeing,Indigo/Air India,13-11-2025 01:08,Delhi,Delhi,India,Payment for Local Sightseeing at Indigo/Air India.,12-12-2025 11:43
+64,7,5,500,DEBIT,UPI,FOOD,Coffee Shop,Zomato/Swiggy,18-10-2025 01:54,Bengaluru,Karnataka,India,Payment for Coffee Shop at Zomato/Swiggy.,12-12-2025 11:43
+65,8,6,3879.79,DEBIT,CARD,SUBSCRIPTIONS,Streaming,Microsoft 365,06-07-2025 09:22,Ahmedabad,Gujarat,India,Payment for Streaming at Microsoft 365.,12-12-2025 11:43
+66,9,7,30623.86,DEBIT,NET_BANKING,HOUSING,Internet,Landlord,14-10-2025 16:15,Mumbai,Maharashtra,India,Payment for Internet at Landlord.,12-12-2025 11:43
+67,10,8,36130.41,DEBIT,CASH,EDUCATION,Online Course,Coursera/Udemy,11-10-2025 11:32,Lucknow,Uttar Pradesh,India,Payment for Online Course at Coursera/Udemy.,12-12-2025 11:43
+68,11,9,1484.05,DEBIT,UPI,FOOD,Restaurant,Zomato/Swiggy,20-11-2025 18:03,Ahmedabad,Gujarat,India,Payment for Restaurant at Zomato/Swiggy.,12-12-2025 11:43
+69,12,10,4197.68,DEBIT,WALLET,SHOPPING,Clothing,Croma/Reliance Digital,14-08-2025 02:44,Delhi,Delhi,India,Payment for Clothing at Croma/Reliance Digital.,12-12-2025 11:43
+70,13,11,7620.28,DEBIT,CARD,HEALTHCARE,Pharmacy,Practo/Local Clinic,25-08-2025 09:25,Kolkata,West Bengal,India,Payment for Pharmacy at Practo/Local Clinic.,12-12-2025 11:43
+71,14,12,850.56,DEBIT,AUTO_DEBIT,TRANSPORT,Cab,NHAI Toll,25-06-2025 15:03,Bengaluru,Karnataka,India,Payment for Cab at NHAI Toll.,12-12-2025 11:43
+72,15,13,5518.78,DEBIT,UPI,SHOPPING,Online Shopping,Amazon India/Myntra,23-10-2025 04:30,Lucknow,Uttar Pradesh,India,Payment for Online Shopping at Amazon India/Myntra.,12-12-2025 11:43
+73,16,14,2736.63,DEBIT,CASH,FOOD,Online Delivery,Zomato/Swiggy,21-06-2025 21:05,Hyderabad,Telangana,India,Payment for Online Delivery at Zomato/Swiggy.,12-12-2025 11:43
+74,17,15,17279.46,DEBIT,CARD,TRAVEL,Train,IRCTC,02-09-2025 11:27,Ahmedabad,Gujarat,India,Payment for Train at IRCTC.,12-12-2025 11:43
+75,18,16,345.92,DEBIT,UPI,TRANSPORT,Metro/Bus Pass,Delhi Metro/BMTC,18-10-2025 17:11,Mumbai,Maharashtra,India,Payment for Metro/Bus Pass at Delhi Metro/BMTC.,12-12-2025 11:43
+76,19,17,22295.53,DEBIT,NET_BANKING,HOUSING,Electricity Bill,RWA,28-07-2025 17:50,Delhi,Delhi,India,Payment for Electricity Bill at RWA.,12-12-2025 11:43
+77,20,18,25470.92,DEBIT,UPI,HOUSING,Rent,Landlord,17-09-2025 19:18,Bengaluru,Karnataka,India,Payment for Rent at Landlord.,12-12-2025 11:43
+78,21,19,4199.11,DEBIT,AUTO_DEBIT,SHOPPING,Clothing,Zara/H&M,20-08-2025 16:51,Jaipur,Rajasthan,India,Payment for Clothing at Zara/H&M.,12-12-2025 11:43
+79,22,20,375.12,DEBIT,UPI,TRANSPORT,Toll,IOCL Pump,21-07-2025 16:47,Kolkata,West Bengal,India,Payment for Toll at IOCL Pump.,12-12-2025 11:43
+80,23,21,36901.81,DEBIT,CASH,EDUCATION,Tuition Fees,BYJU's/Vedantu,02-09-2025 02:44,Lucknow,Uttar Pradesh,India,Payment for Tuition Fees at BYJU's/Vedantu.,12-12-2025 11:43
+81,24,22,1152.09,DEBIT,CARD,FOOD,Coffee Shop,Reliance Smart,06-07-2025 01:21,Ahmedabad,Gujarat,India,Payment for Coffee Shop at Reliance Smart.,12-12-2025 11:44
+82,25,23,244.75,DEBIT,NET_BANKING,FOOD,Coffee Shop,Saravana Bhavan,01-08-2025 10:29,Delhi,Delhi,India,Payment for Coffee Shop at Saravana Bhavan.,12-12-2025 11:44
+83,26,24,3945.89,DEBIT,CASH,FOOD,Groceries,Saravana Bhavan,11-07-2025 19:25,Bengaluru,Karnataka,India,Payment for Groceries at Saravana Bhavan.,12-12-2025 11:44
+84,27,25,3603.2,DEBIT,UPI,SUBSCRIPTIONS,Streaming,Microsoft 365,02-09-2025 11:21,Kolkata,West Bengal,India,Payment for Streaming at Microsoft 365.,12-12-2025 11:44
+85,28,26,15383.95,DEBIT,CARD,HEALTHCARE,Doctor Visit,Apollo Pharmacy,09-10-2025 17:23,Chennai,Tamil Nadu,India,Payment for Doctor Visit at Apollo Pharmacy.,12-12-2025 11:44
+86,29,27,10292.83,DEBIT,CARD,HEALTHCARE,Doctor Visit,Practo/Local Clinic,25-06-2025 15:06,Lucknow,Uttar Pradesh,India,Payment for Doctor Visit at Practo/Local Clinic.,12-12-2025 11:44
+87,30,28,3690.62,DEBIT,CASH,SHOPPING,Online Shopping,Crossword,10-08-2025 13:42,Mumbai,Maharashtra,India,Payment for Online Shopping at Crossword.,12-12-2025 11:44
+88,31,29,20352.37,DEBIT,NET_BANKING,TRAVEL,Hotel,IRCTC,16-06-2025 02:40,Ahmedabad,Gujarat,India,Payment for Hotel at IRCTC.,12-12-2025 11:44
+89,32,30,43907.72,DEBIT,CASH,EDUCATION,Tuition Fees,Coursera/Udemy,18-06-2025 20:30,Pune,Maharashtra,India,Payment for Tuition Fees at Coursera/Udemy.,12-12-2025 11:44
+90,33,31,45131.63,DEBIT,CARD,FINANCE,Loan EMI,HDFC Bank/SBI,02-09-2025 02:37,Lucknow,Uttar Pradesh,India,Payment for Loan EMI at HDFC Bank/SBI.,12-12-2025 11:44
+91,34,32,8041.44,DEBIT,CARD,HEALTHCARE,Lab Test,Dr. Lal PathLabs,18-10-2025 19:15,Mumbai,Maharashtra,India,Payment for Lab Test at Dr. Lal PathLabs.,12-12-2025 11:44
+92,35,33,2596.12,DEBIT,UPI,FOOD,Restaurant,Reliance Smart,15-09-2025 01:21,Hyderabad,Telangana,India,Payment for Restaurant at Reliance Smart.,12-12-2025 11:44
+93,36,34,384.45,DEBIT,AUTO_DEBIT,TRANSPORT,Toll,Ola/Uber,17-09-2025 19:35,Ahmedabad,Gujarat,India,Payment for Toll at Ola/Uber.,12-12-2025 11:44
+94,37,35,16538.64,DEBIT,CASH,SHOPPING,Electronics,Zara/H&M,26-10-2025 13:46,Delhi,Delhi,India,Payment for Electronics at Zara/H&M.,12-12-2025 11:44
+95,38,36,16743.08,DEBIT,NET_BANKING,HOUSING,Maintenance,BSES/TNEB/MSEDCL,15-09-2025 04:53,Pune,Maharashtra,India,Payment for Maintenance at BSES/TNEB/MSEDCL.,12-12-2025 11:44
+96,39,37,358.59,DEBIT,CARD,TRANSPORT,Toll,Delhi Metro/BMTC,01-08-2025 10:14,Kolkata,West Bengal,India,Payment for Toll at Delhi Metro/BMTC.,12-12-2025 11:44
+97,40,38,12450.48,DEBIT,CARD,HEALTHCARE,Insurance Premium,LIC/HDFC Life,08-12-2025 17:30,Hyderabad,Telangana,India,Payment for Insurance Premium at LIC/HDFC Life.,12-12-2025 11:44
+98,41,39,21557.55,DEBIT,UPI,TRAVEL,Hotel,Indigo/Air India,27-07-2025 10:35,Lucknow,Uttar Pradesh,India,Payment for Hotel at Indigo/Air India.,12-12-2025 11:44
+99,42,40,4665.48,DEBIT,WALLET,SHOPPING,Online Shopping,Crossword,27-09-2025 16:32,Ahmedabad,Gujarat,India,Payment for Online Shopping at Crossword.,12-12-2025 11:44
+100,43,41,3965.86,DEBIT,NET_BANKING,SUBSCRIPTIONS,Software,Microsoft 365,24-09-2025 10:19,Kolkata,West Bengal,India,Payment for Software at Microsoft 365.,12-12-2025 11:44
+101,44,42,1950.41,DEBIT,UPI,TRANSPORT,Fuel,IOCL Pump,18-10-2025 10:48,Mumbai,Maharashtra,India,Payment for Fuel at IOCL Pump.,12-12-2025 11:44
+102,45,43,2355.07,DEBIT,CASH,FOOD,Online Delivery,Zomato/Swiggy,23-09-2025 15:47,Delhi,Delhi,India,Payment for Online Delivery at Zomato/Swiggy.,12-12-2025 11:44
+103,46,44,2090.87,DEBIT,CARD,FOOD,Restaurant,Reliance Smart,20-06-2025 18:31,Bengaluru,Karnataka,India,Payment for Restaurant at Reliance Smart.,12-12-2025 11:44
+104,47,45,4320.12,DEBIT,AUTO_DEBIT,SUBSCRIPTIONS,Gym Membership,Cult.fit/Anytime Fitness,25-09-2025 09:37,Lucknow,Uttar Pradesh,India,Payment for Gym Membership at Cult.fit/Anytime Fitness.,12-12-2025 11:44
+105,48,46,44453.3,DEBIT,NET_BANKING,FINANCE,Loan EMI,ICICI Bank/Axis Bank,01-08-2025 19:47,Pune,Maharashtra,India,Payment for Loan EMI at ICICI Bank/Axis Bank.,12-12-2025 11:44
+106,49,47,20317.93,DEBIT,CASH,HOUSING,Maintenance,RWA,17-09-2025 07:11,Hyderabad,Telangana,India,Payment for Maintenance at RWA.,12-12-2025 11:44
+107,50,48,2204.09,DEBIT,CARD,SUBSCRIPTIONS,Newspaper,Microsoft 365,27-07-2025 15:47,Chennai,Tamil Nadu,India,Payment for Newspaper at Microsoft 365.,12-12-2025 11:44
+108,51,49,34159.2,DEBIT,UPI,EDUCATION,Tuition Fees,BYJU's/Vedantu,17-10-2025 05:43,Jaipur,Rajasthan,India,Payment for Tuition Fees at BYJU's/Vedantu.,12-12-2025 11:44
+109,52,50,3612.01,DEBIT,WALLET,SHOPPING,Books,Croma/Reliance Digital,20-11-2025 23:25,Kolkata,West Bengal,India,Payment for Books at Croma/Reliance Digital.,12-12-2025 11:44
+110,53,53,1099.7,DEBIT,NET_BANKING,FOOD,Coffee Shop,Starbucks,17-09-2025 02:26,Ahmedabad,Gujarat,India,Payment for Coffee Shop at Starbucks.,12-12-2025 11:44
+111,1,51,25732.32,DEBIT,AUTO_DEBIT,HOUSING,Maintenance,BSES/TNEB/MSEDCL,18-10-2025 01:21,Lucknow,Uttar Pradesh,India,Payment for Maintenance at BSES/TNEB/MSEDCL.,12-12-2025 11:44
+112,2,52,3037.49,DEBIT,CASH,FOOD,Online Delivery,Zomato/Swiggy,27-07-2025 12:47,Mumbai,Maharashtra,India,Payment for Online Delivery at Zomato/Swiggy.,12-12-2025 11:44
+113,3,1,4169.83,DEBIT,CARD,FOOD,Groceries,Reliance Smart,24-07-2025 16:11,Delhi,Delhi,India,Payment for Groceries at Reliance Smart.,12-12-2025 11:44
+114,4,2,1112.42,DEBIT,UPI,TRANSPORT,Fuel,Delhi Metro/BMTC,02-09-2025 21:05,Bengaluru,Karnataka,India,Payment for Fuel at Delhi Metro/BMTC.,12-12-2025 11:44
+115,5,3,2150.94,DEBIT,WALLET,TRANSPORT,Cab,NHAI Toll,20-07-2025 20:00,Pune,Maharashtra,India,Payment for Cab at NHAI Toll.,12-12-2025 11:44
+116,6,4,4660.85,DEBIT,CASH,SUBSCRIPTIONS,Software,Netflix/Hotstar,27-08-2025 21:28,Hyderabad,Telangana,India,Payment for Software at Netflix/Hotstar.,12-12-2025 11:44
+117,7,5,11502.94,DEBIT,NET_BANKING,HEALTHCARE,Insurance Premium,Dr. Lal PathLabs,27-07-2025 00:01,Lucknow,Uttar Pradesh,India,Payment for Insurance Premium at Dr. Lal PathLabs.,12-12-2025 11:44
+118,8,6,2989.47,DEBIT,CARD,SHOPPING,Clothing,Zara/H&M,18-10-2025 17:09,Ahmedabad,Gujarat,India,Payment for Clothing at Zara/H&M.,12-12-2025 11:44
+119,9,7,2145.29,DEBIT,UPI,TRANSPORT,Cab,IOCL Pump,11-08-2025 19:40,Jaipur,Rajasthan,India,Payment for Cab at IOCL Pump.,12-12-2025 11:44
+120,10,8,37974.15,DEBIT,NET_BANKING,EDUCATION,Tuition Fees,Coursera/Udemy,17-09-2025 19:10,Kolkata,West Bengal,India,Payment for Tuition Fees at Coursera/Udemy.,12-12-2025 11:44
+121,11,9,15509.31,DEBIT,CASH,HOUSING,Maintenance,RWA,25-06-2025 15:46,Mumbai,Maharashtra,India,Payment for Maintenance at RWA.,12-12-2025 11:44
+122,12,10,34208.57,DEBIT,AUTO_DEBIT,EDUCATION,Course Material,University Book Store,23-09-2025 04:39,Delhi,Delhi,India,Payment for Course Material at University Book Store.,12-12-2025 11:44
+123,13,11,15049.88,DEBIT,WALLET,TRAVEL,Hotel,Local Travel Agency,24-07-2025 16:33,Bengaluru,Karnataka,India,Payment for Hotel at Local Travel Agency.,12-12-2025 11:44
+124,14,12,34267.89,DEBIT,UPI,HOUSING,Rent,Landlord,22-07-2025 05:43,Chennai,Tamil Nadu,India,Payment for Rent at Landlord.,12-12-2025 11:44
+125,15,13,36940.86,DEBIT,CARD,EDUCATION,Tuition Fees,BYJU's/Vedantu,06-07-2025 17:34,Lucknow,Uttar Pradesh,India,Payment for Tuition Fees at BYJU's/Vedantu.,12-12-2025 11:44
+126,16,14,1243.68,DEBIT,NET_BANKING,FOOD,Coffee Shop,Saravana Bhavan,21-10-2025 02:40,Ahmedabad,Gujarat,India,Payment for Coffee Shop at Saravana Bhavan.,12-12-2025 11:44
+127,17,15,1912.83,DEBIT,UPI,FOOD,Online Delivery,Reliance Smart,24-09-2025 19:22,Pune,Maharashtra,India,Payment for Online Delivery at Reliance Smart.,12-12-2025 11:44
+128,18,16,10825.84,DEBIT,WALLET,SHOPPING,Electronics,Croma/Reliance Digital,05-08-2025 21:05,Hyderabad,Telangana,India,Payment for Electronics at Croma/Reliance Digital.,12-12-2025 11:44
+129,19,17,10304.7,DEBIT,CASH,HEALTHCARE,Lab Test,Apollo Pharmacy,11-09-2025 11:27,Kolkata,West Bengal,India,Payment for Lab Test at Apollo Pharmacy.,12-12-2025 11:44
+130,20,18,2899.69,DEBIT,AUTO_DEBIT,SUBSCRIPTIONS,Gym Membership,Microsoft 365,02-07-2025 23:44,Chennai,Tamil Nadu,India,Payment for Gym Membership at Microsoft 365.,12-12-2025 11:44
+131,21,19,18585.11,DEBIT,CARD,TRAVEL,Train,OYO/Goibibo,18-10-2025 20:01,Delhi,Delhi,India,Payment for Train at OYO/Goibibo.,12-12-2025 11:44
+132,22,20,10118.06,DEBIT,UPI,HEALTHCARE,Doctor Visit,Dr. Lal PathLabs,01-07-2025 02:45,Jaipur,Rajasthan,India,Payment for Doctor Visit at Dr. Lal PathLabs.,12-12-2025 11:44
+133,23,21,1241.6,DEBIT,WALLET,TRANSPORT,Fuel,Ola/Uber,16-08-2025 19:42,Bengaluru,Karnataka,India,Payment for Fuel at Ola/Uber.,12-12-2025 11:44
+134,24,22,37769.17,DEBIT,CASH,FINANCE,Credit Card Payment,ICICI Bank/Axis Bank,23-07-2025 10:48,Pune,Maharashtra,India,Payment for Credit Card Payment at ICICI Bank/Axis Bank.,12-12-2025 11:44
+135,25,23,2115.11,DEBIT,NET_BANKING,SUBSCRIPTIONS,Software,Times of India,27-07-2025 10:49,Lucknow,Uttar Pradesh,India,Payment for Software at Times of India.,12-12-2025 11:44
+136,26,24,4873.91,DEBIT,CARD,SHOPPING,Clothing,Amazon India/Myntra,21-11-2025 16:35,Hyderabad,Telangana,India,Payment for Clothing at Amazon India/Myntra.,12-12-2025 11:44
+137,27,25,1023.23,DEBIT,UPI,FOOD,Coffee Shop,Starbucks,02-09-2025 02:49,Chennai,Tamil Nadu,India,Payment for Coffee Shop at Starbucks.,12-12-2025 11:44
+138,28,26,1963.07,DEBIT,WALLET,TRANSPORT,Cab,NHAI Toll,25-08-2025 15:37,Delhi,Delhi,India,Payment for Cab at NHAI Toll.,12-12-2025 11:44
+139,29,27,15509.68,DEBIT,CASH,TRAVEL,Local Sightseeing,IRCTC,21-06-2025 00:08,Bengaluru,Karnataka,India,Payment for Local Sightseeing at IRCTC.,12-12-2025 11:44
+140,30,28,2308.83,DEBIT,AUTO_DEBIT,FOOD,Online Delivery,Starbucks,21-10-2025 16:11,Jaipur,Rajasthan,India,Payment for Online Delivery at Starbucks.,12-12-2025 11:44
+141,31,29,10972.63,DEBIT,CARD,SHOPPING,Clothing,Zara/H&M,06-07-2025 05:43,Pune,Maharashtra,India,Payment for Clothing at Zara/H&M.,12-12-2025 11:44
+142,32,30,3478.78,DEBIT,UPI,SUBSCRIPTIONS,Streaming,Times of India,20-11-2025 19:35,Lucknow,Uttar Pradesh,India,Payment for Streaming at Times of India.,12-12-2025 11:44
+143,33,31,11500.59,DEBIT,NET_BANKING,HEALTHCARE,Insurance Premium,LIC/HDFC Life,29-08-2025 17:35,Ahmedabad,Gujarat,India,Payment for Insurance Premium at LIC/HDFC Life.,12-12-2025 11:44
+144,34,32,41983.84,DEBIT,CASH,EDUCATION,Online Course,BYJU's/Vedantu,20-08-2025 19:15,Kolkata,West Bengal,India,Payment for Online Course at BYJU's/Vedantu.,12-12-2025 11:44
+145,35,33,5563.89,DEBIT,WALLET,SUBSCRIPTIONS,Gym Membership,Cult.fit/Anytime Fitness,09-10-2025 21:05,Mumbai,Maharashtra,India,Payment for Gym Membership at Cult.fit/Anytime Fitness.,12-12-2025 11:44
+146,36,34,1732.12,DEBIT,CARD,TRANSPORT,Cab,IOCL Pump,28-07-2025 01:21,Delhi,Delhi,India,Payment for Cab at IOCL Pump.,12-12-2025 11:44
+147,37,35,1910.82,DEBIT,UPI,TRANSPORT,Fuel,IOCL Pump,25-06-2025 10:11,Bengaluru,Karnataka,India,Payment for Fuel at IOCL Pump.,12-12-2025 11:44
+148,38,36,1098.39,DEBIT,NET_BANKING,FOOD,Coffee Shop,Zomato/Swiggy,07-07-2025 19:20,Chennai,Tamil Nadu,India,Payment for Coffee Shop at Zomato/Swiggy.,12-12-2025 11:44
+149,39,37,2402.04,DEBIT,CASH,FOOD,Restaurant,Saravana Bhavan,16-08-2025 19:40,Lucknow,Uttar Pradesh,India,Payment for Restaurant at Saravana Bhavan.,12-12-2025 11:44
+150,40,38,3592.83,DEBIT,AUTO_DEBIT,SUBSCRIPTIONS,Software,Netflix/Hotstar,28-06-2025 06:47,Ahmedabad,Gujarat,India,Payment for Software at Netflix/Hotstar.,12-12-2025 11:44
+151,41,39,2759.5,DEBIT,WALLET,FOOD,Groceries,Reliance Smart,27-06-2025 06:47,Jaipur,Rajasthan,India,Payment for Groceries at Reliance Smart.,12-12-2025 11:44
+152,42,40,1103.52,DEBIT,CARD,TRANSPORT,Metro/Bus Pass,Delhi Metro/BMTC,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Metro/Bus Pass at Delhi Metro/BMTC.,12-12-2025 11:44
+153,43,41,1825.92,DEBIT,UPI,FOOD,Online Delivery,Reliance Smart,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Online Delivery at Reliance Smart.,12-12-2025 11:44
+154,44,42,19183.99,DEBIT,NET_BANKING,HOUSING,Internet,Landlord,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Internet at Landlord.,12-12-2025 11:44
+155,45,43,2705.8,DEBIT,CASH,SHOPPING,Online Shopping,Croma/Reliance Digital,28-07-2025 07:12,Mumbai,Maharashtra,India,Payment for Online Shopping at Croma/Reliance Digital.,12-12-2025 11:44
+156,46,44,7861.94,DEBIT,AUTO_DEBIT,SHOPPING,Clothing,Zara/H&M,16-07-2025 02:49,Delhi,Delhi,India,Payment for Clothing at Zara/H&M.,12-12-2025 11:44
+157,47,45,24022.09,DEBIT,WALLET,TRAVEL,Flight,IRCTC,18-10-2025 20:38,Bengaluru,Karnataka,India,Payment for Flight at IRCTC.,12-12-2025 11:44
+158,48,46,3959.08,DEBIT,CARD,SUBSCRIPTIONS,Newspaper,Netflix/Hotstar,08-09-2025 11:34,Chennai,Tamil Nadu,India,Payment for Newspaper at Netflix/Hotstar.,12-12-2025 11:44
+159,49,47,2899.7,DEBIT,UPI,SHOPPING,Books,Crossword,08-09-2025 14:02,Lucknow,Uttar Pradesh,India,Payment for Books at Crossword.,12-12-2025 11:44
+160,50,48,2943.43,DEBIT,NET_BANKING,TRANSPORT,Cab,Ola/Uber,06-11-2025 21:05,Ahmedabad,Gujarat,India,Payment for Cab at Ola/Uber.,12-12-2025 11:44
+161,51,49,3547.41,DEBIT,CASH,TRANSPORT,Metro/Bus Pass,Delhi Metro/BMTC,06-09-2025 01:21,Pune,Maharashtra,India,Payment for Metro/Bus Pass at Delhi Metro/BMTC.,12-12-2025 11:44
+162,52,50,37798.81,DEBIT,AUTO_DEBIT,FINANCE,Credit Card Payment,HDFC Bank/SBI,02-09-2025 20:30,Hyderabad,Telangana,India,Payment for Credit Card Payment at HDFC Bank/SBI.,12-12-2025 11:44
+163,53,53,16801.37,DEBIT,CARD,TRAVEL,Hotel,Indigo/Air India,21-09-2025 16:35,Kolkata,West Bengal,India,Payment for Hotel at Indigo/Air India.,12-12-2025 11:44
+164,1,51,18831.62,DEBIT,UPI,EDUCATION,Course Material,University Book Store,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Course Material at University Book Store.,12-12-2025 11:44
+165,2,52,1100.08,DEBIT,WALLET,TRANSPORT,Fuel,Ola/Uber,24-07-2025 16:15,Delhi,Delhi,India,Payment for Fuel at Ola/Uber.,12-12-2025 11:44
+166,3,1,17332.93,DEBIT,CASH,HOUSING,Maintenance,BSES/TNEB/MSEDCL,18-10-2025 10:49,Bengaluru,Karnataka,India,Payment for Maintenance at BSES/TNEB/MSEDCL.,12-12-2025 11:44
+167,4,2,1654.51,DEBIT,AUTO_DEBIT,TRANSPORT,Cab,IOCL Pump,01-08-2025 19:40,Pune,Maharashtra,India,Payment for Cab at IOCL Pump.,12-12-2025 11:44
+168,5,3,1243.34,DEBIT,CARD,TRANSPORT,Fuel,Delhi Metro/BMTC,24-09-2025 09:37,Hyderabad,Telangana,India,Payment for Fuel at Delhi Metro/BMTC.,12-12-2025 11:44
+169,6,4,14259.6,DEBIT,UPI,HEALTHCARE,Insurance Premium,LIC/HDFC Life,01-08-2025 10:48,Kolkata,West Bengal,India,Payment for Insurance Premium at LIC/HDFC Life.,12-12-2025 11:44
+170,7,5,4199.11,DEBIT,NET_BANKING,SHOPPING,Clothing,Amazon India/Myntra,09-12-2025 17:35,Chennai,Tamil Nadu,India,Payment for Clothing at Amazon India/Myntra.,12-12-2025 11:44
+171,8,6,345.92,DEBIT,CASH,TRANSPORT,Metro/Bus Pass,Delhi Metro/BMTC,02-09-2025 16:35,Lucknow,Uttar Pradesh,India,Payment for Metro/Bus Pass at Delhi Metro/BMTC.,12-12-2025 11:44
+172,9,7,2308.83,DEBIT,AUTO_DEBIT,FOOD,Online Delivery,Starbucks,27-07-2025 10:49,Ahmedabad,Gujarat,India,Payment for Online Delivery at Starbucks.,12-12-2025 11:44
+173,10,8,11502.94,DEBIT,WALLET,HEALTHCARE,Insurance Premium,Practo/Local Clinic,09-10-2025 21:05,Jaipur,Rajasthan,India,Payment for Insurance Premium at Practo/Local Clinic.,12-12-2025 11:44
+174,11,9,16801.37,DEBIT,CARD,TRAVEL,Hotel,OYO/Goibibo,14-08-2025 13:30,Pune,Maharashtra,India,Payment for Hotel at OYO/Goibibo.,12-12-2025 11:44
+175,12,10,1243.68,DEBIT,UPI,FOOD,Coffee Shop,Starbucks,20-11-2025 19:01,Hyderabad,Telangana,India,Payment for Coffee Shop at Starbucks.,12-12-2025 11:44
+176,13,11,1825.92,DEBIT,NET_BANKING,FOOD,Online Delivery,Reliance Smart,02-09-2025 21:05,Kolkata,West Bengal,India,Payment for Online Delivery at Reliance Smart.,12-12-2025 11:44
+177,14,12,3959.08,DEBIT,CASH,SUBSCRIPTIONS,Newspaper,Times of India,25-06-2025 10:11,Mumbai,Maharashtra,India,Payment for Newspaper at Times of India.,12-12-2025 11:44
+178,15,13,2705.8,DEBIT,AUTO_DEBIT,SHOPPING,Online Shopping,Amazon India/Myntra,20-08-2025 19:15,Delhi,Delhi,India,Payment for Online Shopping at Amazon India/Myntra.,12-12-2025 11:44
+179,16,14,1103.52,DEBIT,WALLET,TRANSPORT,Metro/Bus Pass,Delhi Metro/BMTC,28-07-2025 01:21,Bengaluru,Karnataka,India,Payment for Metro/Bus Pass at Delhi Metro/BMTC.,12-12-2025 11:44
+180,17,15,10972.63,DEBIT,CARD,SHOPPING,Clothing,Zara/H&M,28-06-2025 06:47,Pune,Maharashtra,India,Payment for Clothing at Zara/H&M.,12-12-2025 11:44
+181,18,16,3478.78,DEBIT,UPI,SUBSCRIPTIONS,Streaming,Netflix/Hotstar,06-11-2025 21:05,Hyderabad,Telangana,India,Payment for Streaming at Netflix/Hotstar.,12-12-2025 11:44
+182,19,17,2145.29,DEBIT,NET_BANKING,TRANSPORT,Cab,IOCL Pump,21-10-2025 16:11,Lucknow,Uttar Pradesh,India,Payment for Cab at IOCL Pump.,12-12-2025 11:44
+183,20,18,7861.94,DEBIT,CASH,SHOPPING,Clothing,Amazon India/Myntra,28-07-2025 07:12,Ahmedabad,Gujarat,India,Payment for Clothing at Amazon India/Myntra.,12-12-2025 11:44
+184,21,19,24022.09,DEBIT,AUTO_DEBIT,TRAVEL,Flight,Local Travel Agency,16-07-2025 02:49,Jaipur,Rajasthan,India,Payment for Flight at Local Travel Agency.,12-12-2025 11:44
+185,22,20,2402.04,DEBIT,WALLET,FOOD,Restaurant,Reliance Smart,16-08-2025 19:40,Kolkata,West Bengal,India,Payment for Restaurant at Reliance Smart.,12-12-2025 11:44
+186,23,21,1098.39,DEBIT,CARD,FOOD,Coffee Shop,Zomato/Swiggy,07-07-2025 19:20,Mumbai,Maharashtra,India,Payment for Coffee Shop at Zomato/Swiggy.,12-12-2025 11:44
+187,24,22,1732.12,DEBIT,UPI,TRANSPORT,Cab,Ola/Uber,27-06-2025 06:47,Delhi,Delhi,India,Payment for Cab at Ola/Uber.,12-12-2025 11:44
+188,25,23,3592.83,DEBIT,NET_BANKING,SUBSCRIPTIONS,Software,Microsoft 365,06-09-2025 01:21,Bengaluru,Karnataka,India,Payment for Software at Microsoft 365.,12-12-2025 11:44
+189,26,24,5563.89,DEBIT,CASH,SUBSCRIPTIONS,Gym Membership,Microsoft 365,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Gym Membership at Microsoft 365.,12-12-2025 11:44
+190,27,25,41983.84,DEBIT,AUTO_DEBIT,EDUCATION,Online Course,Coursera/Udemy,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Online Course at Coursera/Udemy.,12-12-2025 11:44
+191,28,26,11500.59,DEBIT,WALLET,HEALTHCARE,Insurance Premium,Practo/Local Clinic,01-08-2025 16:40,Lucknow,Uttar Pradesh,India,Payment for Insurance Premium at Practo/Local Clinic.,12-12-2025 11:44
+192,29,27,34267.89,DEBIT,CARD,HOUSING,Rent,Airtel Broadband/Jio Fiber,28-07-2025 07:11,Ahmedabad,Gujarat,India,Payment for Rent at Airtel Broadband/Jio Fiber.,12-12-2025 11:44
+193,30,28,15049.88,DEBIT,UPI,TRAVEL,Hotel,Local Travel Agency,24-07-2025 16:15,Jaipur,Rajasthan,India,Payment for Hotel at Local Travel Agency.,12-12-2025 11:44
+194,31,29,34208.57,DEBIT,NET_BANKING,EDUCATION,Course Material,BYJU's/Vedantu,18-10-2025 10:49,Kolkata,West Bengal,India,Payment for Course Material at BYJU's/Vedantu.,12-12-2025 11:44
+195,32,30,15509.31,DEBIT,CASH,HOUSING,Maintenance,BSES/TNEB/MSEDCL,02-09-2025 16:35,Mumbai,Maharashtra,India,Payment for Maintenance at BSES/TNEB/MSEDCL.,12-12-2025 11:44
+196,33,31,3037.49,DEBIT,AUTO_DEBIT,FOOD,Online Delivery,Zomato/Swiggy,27-07-2025 10:49,Delhi,Delhi,India,Payment for Online Delivery at Zomato/Swiggy.,12-12-2025 11:44
+197,34,32,4169.83,DEBIT,WALLET,FOOD,Groceries,Reliance Smart,06-09-2025 01:21,Bengaluru,Karnataka,India,Payment for Groceries at Reliance Smart.,12-12-2025 11:44
+198,35,33,25732.32,DEBIT,CARD,HOUSING,Maintenance,RWA,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Maintenance at RWA.,12-12-2025 11:44
+199,36,34,1112.42,DEBIT,UPI,TRANSPORT,Fuel,IOCL Pump,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Fuel at IOCL Pump.,12-12-2025 11:44
+200,37,35,2150.94,DEBIT,NET_BANKING,TRANSPORT,Cab,Ola/Uber,01-08-2025 16:40,Lucknow,Uttar Pradesh,India,Payment for Cab at Ola/Uber.,12-12-2025 11:44
+201,38,36,2899.7,DEBIT,CASH,SHOPPING,Books,Amazon India/Myntra,28-07-2025 07:11,Ahmedabad,Gujarat,India,Payment for Books at Amazon India/Myntra.,12-12-2025 11:44
+202,39,37,4873.91,DEBIT,AUTO_DEBIT,SHOPPING,Clothing,Croma/Reliance Digital,24-07-2025 16:15,Jaipur,Rajasthan,India,Payment for Clothing at Croma/Reliance Digital.,12-12-2025 11:44
+203,40,38,2115.11,DEBIT,WALLET,SUBSCRIPTIONS,Software,Times of India,18-10-2025 10:49,Kolkata,West Bengal,India,Payment for Software at Times of India.,12-12-2025 11:44
+204,41,39,37769.17,DEBIT,CARD,FINANCE,Credit Card Payment,ICICI Bank/Axis Bank,02-09-2025 16:35,Mumbai,Maharashtra,India,Payment for Credit Card Payment at ICICI Bank/Axis Bank.,12-12-2025 11:44
+205,42,40,10118.06,DEBIT,UPI,HEALTHCARE,Doctor Visit,Practo/Local Clinic,27-07-2025 10:49,Delhi,Delhi,India,Payment for Doctor Visit at Practo/Local Clinic.,12-12-2025 11:44
+206,43,41,18585.11,DEBIT,NET_BANKING,TRAVEL,Train,IRCTC,06-09-2025 01:21,Bengaluru,Karnataka,India,Payment for Train at IRCTC.,12-12-2025 11:44
+207,44,42,2899.69,DEBIT,CASH,SUBSCRIPTIONS,Gym Membership,Cult.fit/Anytime Fitness,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Gym Membership at Cult.fit/Anytime Fitness.,12-12-2025 11:44
+208,45,43,10304.7,DEBIT,AUTO_DEBIT,HEALTHCARE,Lab Test,Dr. Lal PathLabs,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Lab Test at Dr. Lal PathLabs.,12-12-2025 11:44
+209,46,44,10825.84,DEBIT,WALLET,SHOPPING,Electronics,Croma/Reliance Digital,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Electronics at Croma/Reliance Digital.,12-12-2025 11:44
+210,47,45,1912.83,DEBIT,CARD,FOOD,Online Delivery,Zomato/Swiggy,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Online Delivery at Zomato/Swiggy.,12-12-2025 11:44
+211,48,46,1654.51,DEBIT,UPI,TRANSPORT,Cab,Ola/Uber,24-07-2025 16:15,Delhi,Delhi,India,Payment for Cab at Ola/Uber.,12-12-2025 11:44
+212,49,47,17332.93,DEBIT,NET_BANKING,HOUSING,Maintenance,RWA,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Maintenance at RWA.,12-12-2025 11:44
+213,50,48,18831.62,DEBIT,CASH,EDUCATION,Course Material,University Book Store,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Course Material at University Book Store.,12-12-2025 11:44
+214,51,49,1100.08,DEBIT,AUTO_DEBIT,TRANSPORT,Fuel,IOCL Pump,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Fuel at IOCL Pump.,12-12-2025 11:44
+215,52,50,37974.15,DEBIT,WALLET,EDUCATION,Tuition Fees,Coursera/Udemy,01-08-2025 16:40,Lucknow,Uttar Pradesh,India,Payment for Tuition Fees at Coursera/Udemy.,12-12-2025 11:44
+216,53,53,2989.47,DEBIT,CARD,SHOPPING,Clothing,Zara/H&M,28-07-2025 07:11,Ahmedabad,Gujarat,India,Payment for Clothing at Zara/H&M.,12-12-2025 11:44
+217,1,51,4660.85,DEBIT,UPI,SUBSCRIPTIONS,Software,Microsoft 365,24-07-2025 16:15,Jaipur,Rajasthan,India,Payment for Software at Microsoft 365.,12-12-2025 11:44
+218,2,52,2150.94,DEBIT,NET_BANKING,TRANSPORT,Cab,Ola/Uber,02-09-2025 16:35,Kolkata,West Bengal,India,Payment for Cab at Ola/Uber.,12-12-2025 11:44
+219,3,1,1112.42,DEBIT,CASH,TRANSPORT,Fuel,IOCL Pump,19-11-2025 19:01,Mumbai,Maharashtra,India,Payment for Fuel at IOCL Pump.,12-12-2025 11:44
+220,4,2,25732.32,DEBIT,AUTO_DEBIT,HOUSING,Maintenance,BSES/TNEB/MSEDCL,14-10-2025 13:30,Delhi,Delhi,India,Payment for Maintenance at BSES/TNEB/MSEDCL.,12-12-2025 11:44
+221,5,3,4169.83,DEBIT,WALLET,FOOD,Groceries,Saravana Bhavan,01-08-2025 16:40,Bengaluru,Karnataka,India,Payment for Groceries at Saravana Bhavan.,12-12-2025 11:44
+222,6,4,3037.49,DEBIT,CARD,FOOD,Online Delivery,Reliance Smart,28-07-2025 07:11,Pune,Maharashtra,India,Payment for Online Delivery at Reliance Smart.,12-12-2025 11:44
+223,7,5,15509.31,DEBIT,UPI,HOUSING,Maintenance,RWA,24-07-2025 16:15,Hyderabad,Telangana,India,Payment for Maintenance at RWA.,12-12-2025 11:44
+224,8,6,34208.57,DEBIT,NET_BANKING,EDUCATION,Course Material,University Book Store,02-09-2025 16:35,Lucknow,Uttar Pradesh,India,Payment for Course Material at University Book Store.,12-12-2025 11:44
+225,9,7,15049.88,DEBIT,CASH,TRAVEL,Hotel,Indigo/Air India,19-11-2025 19:01,Ahmedabad,Gujarat,India,Payment for Hotel at Indigo/Air India.,12-12-2025 11:44
+226,10,8,34267.89,DEBIT,AUTO_DEBIT,HOUSING,Rent,Landlord,14-10-2025 13:30,Jaipur,Rajasthan,India,Payment for Rent at Landlord.,12-12-2025 11:44
+227,11,9,11500.59,DEBIT,WALLET,HEALTHCARE,Insurance Premium,LIC/HDFC Life,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Insurance Premium at LIC/HDFC Life.,12-12-2025 11:44
+228,12,10,41983.84,DEBIT,CARD,EDUCATION,Online Course,BYJU's/Vedantu,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Online Course at BYJU's/Vedantu.,12-12-2025 11:44
+229,13,11,5563.89,DEBIT,UPI,SUBSCRIPTIONS,Gym Membership,Microsoft 365,24-07-2025 16:15,Delhi,Delhi,India,Payment for Gym Membership at Microsoft 365.,12-12-2025 11:44
+230,14,12,3592.83,DEBIT,NET_BANKING,SUBSCRIPTIONS,Software,Netflix/Hotstar,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Software at Netflix/Hotstar.,12-12-2025 11:44
+231,15,13,2115.11,DEBIT,CASH,SUBSCRIPTIONS,Software,Times of India,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Software at Times of India.,12-12-2025 11:44
+232,16,14,37769.17,DEBIT,AUTO_DEBIT,FINANCE,Credit Card Payment,ICICI Bank/Axis Bank,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Credit Card Payment at ICICI Bank/Axis Bank.,12-12-2025 11:44
+233,17,15,2899.69,DEBIT,WALLET,SUBSCRIPTIONS,Gym Membership,Cult.fit/Anytime Fitness,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Gym Membership at Cult.fit/Anytime Fitness.,12-12-2025 11:44
+234,18,16,10118.06,DEBIT,CARD,HEALTHCARE,Doctor Visit,Apollo Pharmacy,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Doctor Visit at Apollo Pharmacy.,12-12-2025 11:44
+235,19,17,1732.12,DEBIT,UPI,TRANSPORT,Cab,Ola/Uber,24-07-2025 16:15,Delhi,Delhi,India,Payment for Cab at Ola/Uber.,12-12-2025 11:44
+236,20,18,1098.39,DEBIT,NET_BANKING,FOOD,Coffee Shop,Starbucks,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Coffee Shop at Starbucks.,12-12-2025 11:44
+237,21,19,2402.04,DEBIT,CASH,FOOD,Restaurant,Saravana Bhavan,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Restaurant at Saravana Bhavan.,12-12-2025 11:44
+238,22,20,7861.94,DEBIT,AUTO_DEBIT,SHOPPING,Clothing,Zara/H&M,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Clothing at Zara/H&M.,12-12-2025 11:44
+239,23,21,24022.09,DEBIT,WALLET,TRAVEL,Flight,OYO/Goibibo,01-08-2025 16:40,Lucknow,Uttar Pradesh,India,Payment for Flight at OYO/Goibibo.,12-12-2025 11:44
+240,24,22,18585.11,DEBIT,CARD,TRAVEL,Train,Local Travel Agency,28-07-2025 07:11,Ahmedabad,Gujarat,India,Payment for Train at Local Travel Agency.,12-12-2025 11:44
+241,25,23,10304.7,DEBIT,UPI,HEALTHCARE,Lab Test,Dr. Lal PathLabs,24-07-2025 16:15,Jaipur,Rajasthan,India,Payment for Lab Test at Dr. Lal PathLabs.,12-12-2025 11:44
+242,26,24,45131.63,DEBIT,NET_BANKING,FINANCE,Loan EMI,HDFC Bank/SBI,02-09-2025 16:35,Kolkata,West Bengal,India,Payment for Loan EMI at HDFC Bank/SBI.,12-12-2025 11:44
+243,27,25,1912.83,DEBIT,CASH,FOOD,Online Delivery,Reliance Smart,19-11-2025 19:01,Mumbai,Maharashtra,India,Payment for Online Delivery at Reliance Smart.,12-12-2025 11:44
+244,28,26,10825.84,DEBIT,AUTO_DEBIT,SHOPPING,Electronics,Amazon India/Myntra,14-10-2025 13:30,Delhi,Delhi,India,Payment for Electronics at Amazon India/Myntra.,12-12-2025 11:44
+245,29,27,2705.8,DEBIT,WALLET,SHOPPING,Online Shopping,Croma/Reliance Digital,01-08-2025 16:40,Bengaluru,Karnataka,India,Payment for Online Shopping at Croma/Reliance Digital.,12-12-2025 11:44
+246,30,28,1103.52,DEBIT,CARD,TRANSPORT,Metro/Bus Pass,NHAI Toll,28-07-2025 07:11,Pune,Maharashtra,India,Payment for Metro/Bus Pass at NHAI Toll.,12-12-2025 11:44
+247,31,29,3959.08,DEBIT,UPI,SUBSCRIPTIONS,Newspaper,Netflix/Hotstar,24-07-2025 16:15,Hyderabad,Telangana,India,Payment for Newspaper at Netflix/Hotstar.,12-12-2025 11:44
+248,32,30,1825.92,DEBIT,NET_BANKING,FOOD,Online Delivery,Zomato/Swiggy,02-09-2025 16:35,Lucknow,Uttar Pradesh,India,Payment for Online Delivery at Zomato/Swiggy.,12-12-2025 11:44
+249,33,31,1243.68,DEBIT,CASH,FOOD,Coffee Shop,Reliance Smart,19-11-2025 19:01,Ahmedabad,Gujarat,India,Payment for Coffee Shop at Reliance Smart.,12-12-2025 11:44
+250,34,32,16801.37,DEBIT,AUTO_DEBIT,TRAVEL,Hotel,Indigo/Air India,14-10-2025 13:30,Jaipur,Rajasthan,India,Payment for Hotel at Indigo/Air India.,12-12-2025 11:44
+251,35,33,1100.08,DEBIT,WALLET,TRANSPORT,Fuel,Delhi Metro/BMTC,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Fuel at Delhi Metro/BMTC.,12-12-2025 11:44
+252,36,34,18831.62,DEBIT,CARD,EDUCATION,Course Material,BYJU's/Vedantu,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Course Material at BYJU's/Vedantu.,12-12-2025 11:44
+253,37,35,17332.93,DEBIT,UPI,HOUSING,Maintenance,RWA,24-07-2025 16:15,Delhi,Delhi,India,Payment for Maintenance at RWA.,12-12-2025 11:44
+254,38,36,1654.51,DEBIT,NET_BANKING,TRANSPORT,Cab,IOCL Pump,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Cab at IOCL Pump.,12-12-2025 11:44
+255,39,37,1912.83,DEBIT,CASH,FOOD,Online Delivery,Zomato/Swiggy,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Online Delivery at Zomato/Swiggy.,12-12-2025 11:44
+256,40,38,10825.84,DEBIT,AUTO_DEBIT,SHOPPING,Electronics,Croma/Reliance Digital,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Electronics at Croma/Reliance Digital.,12-12-2025 11:44
+257,41,39,10304.7,DEBIT,WALLET,HEALTHCARE,Lab Test,Apollo Pharmacy,01-08-2025 16:40,Lucknow,Uttar Pradesh,India,Payment for Lab Test at Apollo Pharmacy.,12-12-2025 11:44
+258,42,40,2899.69,DEBIT,CARD,SUBSCRIPTIONS,Gym Membership,Microsoft 365,28-07-2025 07:11,Ahmedabad,Gujarat,India,Payment for Gym Membership at Microsoft 365.,12-12-2025 11:44
+259,43,41,18585.11,DEBIT,UPI,TRAVEL,Train,OYO/Goibibo,24-07-2025 16:15,Jaipur,Rajasthan,India,Payment for Train at OYO/Goibibo.,12-12-2025 11:44
+260,44,42,24022.09,DEBIT,NET_BANKING,TRAVEL,Flight,IRCTC,02-09-2025 16:35,Kolkata,West Bengal,India,Payment for Flight at IRCTC.,12-12-2025 11:44
+261,45,43,7861.94,DEBIT,CASH,SHOPPING,Clothing,Zara/H&M,19-11-2025 19:01,Mumbai,Maharashtra,India,Payment for Clothing at Zara/H&M.,12-12-2025 11:44
+262,46,44,2402.04,DEBIT,AUTO_DEBIT,FOOD,Restaurant,Reliance Smart,14-10-2025 13:30,Delhi,Delhi,India,Payment for Restaurant at Reliance Smart.,12-12-2025 11:44
+263,47,45,1098.39,DEBIT,WALLET,FOOD,Coffee Shop,Zomato/Swiggy,01-08-2025 16:40,Bengaluru,Karnataka,India,Payment for Coffee Shop at Zomato/Swiggy.,12-12-2025 11:44
+264,48,46,1732.12,DEBIT,CARD,TRANSPORT,Cab,Ola/Uber,28-07-2025 07:11,Pune,Maharashtra,India,Payment for Cab at Ola/Uber.,12-12-2025 11:44
+265,49,47,3592.83,DEBIT,UPI,SUBSCRIPTIONS,Software,Netflix/Hotstar,24-07-2025 16:15,Hyderabad,Telangana,India,Payment for Software at Netflix/Hotstar.,12-12-2025 11:44
+266,50,48,2115.11,DEBIT,NET_BANKING,SUBSCRIPTIONS,Software,Microsoft 365,02-09-2025 16:35,Lucknow,Uttar Pradesh,India,Payment for Software at Microsoft 365.,12-12-2025 11:44
+267,51,49,37769.17,DEBIT,CASH,FINANCE,Credit Card Payment,HDFC Bank/SBI,19-11-2025 19:01,Ahmedabad,Gujarat,India,Payment for Credit Card Payment at HDFC Bank/SBI.,12-12-2025 11:44
+268,52,50,10118.06,DEBIT,AUTO_DEBIT,HEALTHCARE,Doctor Visit,Dr. Lal PathLabs,14-10-2025 13:30,Jaipur,Rajasthan,India,Payment for Doctor Visit at Dr. Lal PathLabs.,12-12-2025 11:44
+269,53,53,45131.63,DEBIT,WALLET,FINANCE,Loan EMI,ICICI Bank/Axis Bank,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Loan EMI at ICICI Bank/Axis Bank.,12-12-2025 11:44
+270,1,51,1243.68,DEBIT,CARD,FOOD,Coffee Shop,Reliance Smart,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Coffee Shop at Reliance Smart.,12-12-2025 11:44
+271,2,52,1825.92,DEBIT,UPI,FOOD,Online Delivery,Zomato/Swiggy,24-07-2025 16:15,Delhi,Delhi,India,Payment for Online Delivery at Zomato/Swiggy.,12-12-2025 11:44
+272,3,1,3959.08,DEBIT,NET_BANKING,SUBSCRIPTIONS,Newspaper,Times of India,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Newspaper at Times of India.,12-12-2025 11:44
+273,4,2,1103.52,DEBIT,CASH,TRANSPORT,Metro/Bus Pass,Delhi Metro/BMTC,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Metro/Bus Pass at Delhi Metro/BMTC.,12-12-2025 11:44
+274,5,3,2705.8,DEBIT,AUTO_DEBIT,SHOPPING,Online Shopping,Amazon India/Myntra,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Online Shopping at Amazon India/Myntra.,12-12-2025 11:44
+275,6,4,10825.84,DEBIT,WALLET,SHOPPING,Electronics,Croma/Reliance Digital,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Electronics at Croma/Reliance Digital.,12-12-2025 11:44
+276,7,5,1912.83,DEBIT,CARD,FOOD,Online Delivery,Reliance Smart,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Online Delivery at Reliance Smart.,12-12-2025 11:44
+277,8,6,24022.09,DEBIT,UPI,TRAVEL,Flight,IRCTC,24-07-2025 16:15,Delhi,Delhi,India,Payment for Flight at IRCTC.,12-12-2025 11:44
+278,9,7,18585.11,DEBIT,NET_BANKING,TRAVEL,Train,OYO/Goibibo,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Train at OYO/Goibibo.,12-12-2025 11:44
+279,10,8,2899.69,DEBIT,CASH,SUBSCRIPTIONS,Gym Membership,Cult.fit/Anytime Fitness,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Gym Membership at Cult.fit/Anytime Fitness.,12-12-2025 11:44
+280,11,9,10304.7,DEBIT,AUTO_DEBIT,HEALTHCARE,Lab Test,Dr. Lal PathLabs,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Lab Test at Dr. Lal PathLabs.,12-12-2025 11:44
+281,12,10,10118.06,DEBIT,WALLET,HEALTHCARE,Doctor Visit,Practo/Local Clinic,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Doctor Visit at Practo/Local Clinic.,12-12-2025 11:44
+282,13,11,37769.17,DEBIT,CARD,FINANCE,Credit Card Payment,ICICI Bank/Axis Bank,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Credit Card Payment at ICICI Bank/Axis Bank.,12-12-2025 11:44
+283,14,12,2115.11,DEBIT,UPI,SUBSCRIPTIONS,Software,Microsoft 365,24-07-2025 16:15,Delhi,Delhi,India,Payment for Software at Microsoft 365.,12-12-2025 11:44
+284,15,13,3592.83,DEBIT,NET_BANKING,SUBSCRIPTIONS,Software,Times of India,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Software at Times of India.,12-12-2025 11:44
+285,16,14,1732.12,DEBIT,CASH,TRANSPORT,Cab,IOCL Pump,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Cab at IOCL Pump.,12-12-2025 11:44
+286,17,15,2402.04,DEBIT,AUTO_DEBIT,FOOD,Restaurant,Saravana Bhavan,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Restaurant at Saravana Bhavan.,12-12-2025 11:44
+287,18,16,1098.39,DEBIT,WALLET,FOOD,Coffee Shop,Reliance Smart,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Coffee Shop at Reliance Smart.,12-12-2025 11:44
+288,19,17,1100.08,DEBIT,CARD,TRANSPORT,Fuel,Ola/Uber,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Fuel at Ola/Uber.,12-12-2025 11:44
+289,20,18,18831.62,DEBIT,UPI,EDUCATION,Course Material,University Book Store,24-07-2025 16:15,Delhi,Delhi,India,Payment for Course Material at University Book Store.,12-12-2025 11:44
+290,21,19,1654.51,DEBIT,NET_BANKING,TRANSPORT,Cab,Ola/Uber,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Cab at Ola/Uber.,12-12-2025 11:44
+291,22,20,17332.93,DEBIT,CASH,HOUSING,Maintenance,BSES/TNEB/MSEDCL,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Maintenance at BSES/TNEB/MSEDCL.,12-12-2025 11:44
+292,23,21,34267.89,DEBIT,AUTO_DEBIT,HOUSING,Rent,Landlord,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Rent at Landlord.,12-12-2025 11:44
+293,24,22,15049.88,DEBIT,WALLET,TRAVEL,Hotel,Local Travel Agency,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Hotel at Local Travel Agency.,12-12-2025 11:44
+294,25,23,15509.31,DEBIT,CARD,HOUSING,Maintenance,RWA,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Maintenance at RWA.,12-12-2025 11:44
+295,26,24,34208.57,DEBIT,UPI,EDUCATION,Course Material,BYJU's/Vedantu,24-07-2025 16:15,Delhi,Delhi,India,Payment for Course Material at BYJU's/Vedantu.,12-12-2025 11:44
+296,27,25,41983.84,DEBIT,NET_BANKING,EDUCATION,Online Course,Coursera/Udemy,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Online Course at Coursera/Udemy.,12-12-2025 11:44
+297,28,26,11500.59,DEBIT,CASH,HEALTHCARE,Insurance Premium,LIC/HDFC Life,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Insurance Premium at LIC/HDFC Life.,12-12-2025 11:44
+298,29,27,5563.89,DEBIT,AUTO_DEBIT,SUBSCRIPTIONS,Gym Membership,Microsoft 365,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Gym Membership at Microsoft 365.,12-12-2025 11:44
+299,30,28,4169.83,DEBIT,WALLET,FOOD,Groceries,Saravana Bhavan,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Groceries at Saravana Bhavan.,12-12-2025 11:44
+300,31,29,3037.49,DEBIT,CARD,FOOD,Online Delivery,Reliance Smart,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Online Delivery at Reliance Smart.,12-12-2025 11:44
+301,32,30,25732.32,DEBIT,UPI,HOUSING,Maintenance,BSES/TNEB/MSEDCL,24-07-2025 16:15,Delhi,Delhi,India,Payment for Maintenance at BSES/TNEB/MSEDCL.,12-12-2025 11:44
+302,33,31,1112.42,DEBIT,NET_BANKING,TRANSPORT,Fuel,IOCL Pump,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Fuel at IOCL Pump.,12-12-2025 11:44
+303,34,32,2150.94,DEBIT,CASH,TRANSPORT,Cab,Ola/Uber,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Cab at Ola/Uber.,12-12-2025 11:44
+304,35,33,4660.85,DEBIT,AUTO_DEBIT,SUBSCRIPTIONS,Software,Netflix/Hotstar,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Software at Netflix/Hotstar.,12-12-2025 11:44
+305,36,34,2989.47,DEBIT,WALLET,SHOPPING,Clothing,Zara/H&M,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Clothing at Zara/H&M.,12-12-2025 11:44
+306,37,35,18831.62,DEBIT,CARD,EDUCATION,Course Material,University Book Store,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Course Material at University Book Store.,12-12-2025 11:44
+307,38,36,17332.93,DEBIT,UPI,HOUSING,Maintenance,BSES/TNEB/MSEDCL,24-07-2025 16:15,Delhi,Delhi,India,Payment for Maintenance at BSES/TNEB/MSEDCL.,12-12-2025 11:44
+308,39,37,1654.51,DEBIT,NET_BANKING,TRANSPORT,Cab,IOCL Pump,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Cab at IOCL Pump.,12-12-2025 11:44
+309,40,38,1912.83,DEBIT,CASH,FOOD,Online Delivery,Zomato/Swiggy,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Online Delivery at Zomato/Swiggy.,12-12-2025 11:44
+310,41,39,10825.84,DEBIT,AUTO_DEBIT,SHOPPING,Electronics,Croma/Reliance Digital,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Electronics at Croma/Reliance Digital.,12-12-2025 11:44
+311,42,40,10304.7,DEBIT,WALLET,HEALTHCARE,Lab Test,Dr. Lal PathLabs,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Lab Test at Dr. Lal PathLabs.,12-12-2025 11:44
+312,43,41,2899.69,DEBIT,CARD,SUBSCRIPTIONS,Gym Membership,Cult.fit/Anytime Fitness,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Gym Membership at Cult.fit/Anytime Fitness.,12-12-2025 11:44
+313,44,42,18585.11,DEBIT,UPI,TRAVEL,Train,IRCTC,24-07-2025 16:15,Delhi,Delhi,India,Payment for Train at IRCTC.,12-12-2025 11:44
+314,45,43,24022.09,DEBIT,NET_BANKING,TRAVEL,Flight,OYO/Goibibo,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Flight at OYO/Goibibo.,12-12-2025 11:44
+315,46,44,7861.94,DEBIT,CASH,SHOPPING,Clothing,Amazon India/Myntra,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Clothing at Amazon India/Myntra.,12-12-2025 11:44
+316,47,45,2402.04,DEBIT,AUTO_DEBIT,FOOD,Restaurant,Saravana Bhavan,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Restaurant at Saravana Bhavan.,12-12-2025 11:44
+317,48,46,1098.39,DEBIT,WALLET,FOOD,Coffee Shop,Starbucks,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Coffee Shop at Starbucks.,12-12-2025 11:44
+318,49,47,1732.12,DEBIT,CARD,TRANSPORT,Cab,Ola/Uber,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Cab at Ola/Uber.,12-12-2025 11:44
+319,50,48,1654.51,DEBIT,UPI,TRANSPORT,Cab,IOCL Pump,24-07-2025 16:15,Delhi,Delhi,India,Payment for Cab at IOCL Pump.,12-12-2025 11:44
+320,51,49,4169.83,DEBIT,NET_BANKING,FOOD,Groceries,Reliance Smart,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Groceries at Reliance Smart.,12-12-2025 11:44
+321,52,50,3037.49,DEBIT,CASH,FOOD,Online Delivery,Zomato/Swiggy,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Online Delivery at Zomato/Swiggy.,12-12-2025 11:44
+322,53,53,1112.42,DEBIT,AUTO_DEBIT,TRANSPORT,Fuel,Delhi Metro/BMTC,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Fuel at Delhi Metro/BMTC.,12-12-2025 11:44
+323,1,51,2150.94,DEBIT,WALLET,TRANSPORT,Cab,NHAI Toll,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Cab at NHAI Toll.,12-12-2025 11:44
+324,2,52,25732.32,DEBIT,CARD,HOUSING,Maintenance,RWA,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Maintenance at RWA.,12-12-2025 11:44
+325,3,1,15509.31,DEBIT,UPI,HOUSING,Maintenance,BSES/TNEB/MSEDCL,24-07-2025 16:15,Delhi,Delhi,India,Payment for Maintenance at BSES/TNEB/MSEDCL.,12-12-2025 11:44
+326,4,2,34208.57,DEBIT,NET_BANKING,EDUCATION,Course Material,University Book Store,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Course Material at University Book Store.,12-12-2025 11:44
+327,5,3,15049.88,DEBIT,CASH,TRAVEL,Hotel,Indigo/Air India,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Hotel at Indigo/Air India.,12-12-2025 11:44
+328,6,4,34267.89,DEBIT,AUTO_DEBIT,HOUSING,Rent,Airtel Broadband/Jio Fiber,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Rent at Airtel Broadband/Jio Fiber.,12-12-2025 11:44
+329,7,5,11500.59,DEBIT,WALLET,HEALTHCARE,Insurance Premium,Practo/Local Clinic,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Insurance Premium at Practo/Local Clinic.,12-12-2025 11:44
+330,8,6,41983.84,DEBIT,CARD,EDUCATION,Online Course,BYJU's/Vedantu,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Online Course at BYJU's/Vedantu.,12-12-2025 11:44
+331,9,7,5563.89,DEBIT,UPI,SUBSCRIPTIONS,Gym Membership,Cult.fit/Anytime Fitness,24-07-2025 16:15,Delhi,Delhi,India,Payment for Gym Membership at Cult.fit/Anytime Fitness.,12-12-2025 11:44
+332,10,8,4660.85,DEBIT,NET_BANKING,SUBSCRIPTIONS,Software,Microsoft 365,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Software at Microsoft 365.,12-12-2025 11:44
+333,11,9,2989.47,DEBIT,CASH,SHOPPING,Clothing,Zara/H&M,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Clothing at Zara/H&M.,12-12-2025 11:44
+334,12,10,37769.17,DEBIT,AUTO_DEBIT,FINANCE,Credit Card Payment,HDFC Bank/SBI,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Credit Card Payment at HDFC Bank/SBI.,12-12-2025 11:44
+335,13,11,2115.11,DEBIT,WALLET,SUBSCRIPTIONS,Software,Netflix/Hotstar,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Software at Netflix/Hotstar.,12-12-2025 11:44
+336,14,12,3592.83,DEBIT,CARD,SUBSCRIPTIONS,Software,Times of India,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Software at Times of India.,12-12-2025 11:44
+337,15,13,2402.04,DEBIT,UPI,FOOD,Restaurant,Reliance Smart,24-07-2025 16:15,Delhi,Delhi,India,Payment for Restaurant at Reliance Smart.,12-12-2025 11:44
+338,16,14,1098.39,DEBIT,NET_BANKING,FOOD,Coffee Shop,Zomato/Swiggy,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Coffee Shop at Zomato/Swiggy.,12-12-2025 11:44
+339,17,15,1732.12,DEBIT,CASH,TRANSPORT,Cab,Ola/Uber,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Cab at Ola/Uber.,12-12-2025 11:44
+340,18,16,1654.51,DEBIT,AUTO_DEBIT,TRANSPORT,Cab,IOCL Pump,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Cab at IOCL Pump.,12-12-2025 11:44
+341,19,17,18831.62,DEBIT,WALLET,EDUCATION,Course Material,BYJU's/Vedantu,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Course Material at BYJU's/Vedantu.,12-12-2025 11:44
+342,20,18,1100.08,DEBIT,CARD,TRANSPORT,Fuel,Delhi Metro/BMTC,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Fuel at Delhi Metro/BMTC.,12-12-2025 11:44
+343,21,19,16801.37,DEBIT,UPI,TRAVEL,Hotel,Local Travel Agency,24-07-2025 16:15,Delhi,Delhi,India,Payment for Hotel at Local Travel Agency.,12-12-2025 11:44
+344,22,20,1243.68,DEBIT,NET_BANKING,FOOD,Coffee Shop,Starbucks,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Coffee Shop at Starbucks.,12-12-2025 11:44
+345,23,21,1825.92,DEBIT,CASH,FOOD,Online Delivery,Reliance Smart,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Online Delivery at Reliance Smart.,12-12-2025 11:44
+346,24,22,3959.08,DEBIT,AUTO_DEBIT,SUBSCRIPTIONS,Newspaper,Netflix/Hotstar,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Newspaper at Netflix/Hotstar.,12-12-2025 11:44
+347,25,23,1103.52,DEBIT,WALLET,TRANSPORT,Metro/Bus Pass,NHAI Toll,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Metro/Bus Pass at NHAI Toll.,12-12-2025 11:44
+348,26,24,2705.8,DEBIT,CARD,SHOPPING,Online Shopping,Croma/Reliance Digital,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Online Shopping at Croma/Reliance Digital.,12-12-2025 11:44
+349,27,25,10825.84,DEBIT,UPI,SHOPPING,Electronics,Amazon India/Myntra,24-07-2025 16:15,Delhi,Delhi,India,Payment for Electronics at Amazon India/Myntra.,12-12-2025 11:44
+350,28,26,1912.83,DEBIT,NET_BANKING,FOOD,Online Delivery,Zomato/Swiggy,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Online Delivery at Zomato/Swiggy.,12-12-2025 11:44
+351,29,27,24022.09,DEBIT,CASH,TRAVEL,Flight,IRCTC,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Flight at IRCTC.,12-12-2025 11:44
+352,30,28,18585.11,DEBIT,AUTO_DEBIT,TRAVEL,Train,OYO/Goibibo,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Train at OYO/Goibibo.,12-12-2025 11:44
+353,31,29,2899.69,DEBIT,WALLET,SUBSCRIPTIONS,Gym Membership,Cult.fit/Anytime Fitness,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Gym Membership at Cult.fit/Anytime Fitness.,12-12-2025 11:44
+354,32,30,10304.7,DEBIT,CARD,HEALTHCARE,Lab Test,Dr. Lal PathLabs,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Lab Test at Dr. Lal PathLabs.,12-12-2025 11:44
+355,33,31,10118.06,DEBIT,UPI,HEALTHCARE,Doctor Visit,Practo/Local Clinic,24-07-2025 16:15,Delhi,Delhi,India,Payment for Doctor Visit at Practo/Local Clinic.,12-12-2025 11:44
+356,34,32,37769.17,DEBIT,NET_BANKING,FINANCE,Credit Card Payment,HDFC Bank/SBI,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Credit Card Payment at HDFC Bank/SBI.,12-12-2025 11:44
+357,35,33,1100.08,DEBIT,CASH,TRANSPORT,Fuel,Ola/Uber,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Fuel at Ola/Uber.,12-12-2025 11:44
+358,36,34,18831.62,DEBIT,AUTO_DEBIT,EDUCATION,Course Material,University Book Store,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Course Material at University Book Store.,12-12-2025 11:44
+359,37,35,17332.93,DEBIT,WALLET,HOUSING,Maintenance,RWA,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Maintenance at RWA.,12-12-2025 11:44
+360,38,36,1654.51,DEBIT,CARD,TRANSPORT,Cab,IOCL Pump,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Cab at IOCL Pump.,12-12-2025 11:44
+361,39,37,1912.83,DEBIT,UPI,FOOD,Online Delivery,Reliance Smart,24-07-2025 16:15,Delhi,Delhi,India,Payment for Online Delivery at Reliance Smart.,12-12-2025 11:44
+362,40,38,2402.04,DEBIT,NET_BANKING,FOOD,Restaurant,Saravana Bhavan,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Restaurant at Saravana Bhavan.,12-12-2025 11:44
+363,41,39,1098.39,DEBIT,CASH,FOOD,Coffee Shop,Zomato/Swiggy,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Coffee Shop at Zomato/Swiggy.,12-12-2025 11:45
+364,42,40,7861.94,DEBIT,AUTO_DEBIT,SHOPPING,Clothing,Zara/H&M,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Clothing at Zara/H&M.,12-12-2025 11:45
+365,43,41,24022.09,DEBIT,WALLET,TRAVEL,Flight,OYO/Goibibo,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Flight at OYO/Goibibo.,12-12-2025 11:45
+366,44,42,18585.11,DEBIT,CARD,TRAVEL,Train,Local Travel Agency,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Train at Local Travel Agency.,12-12-2025 11:45
+367,45,43,2899.69,DEBIT,UPI,SUBSCRIPTIONS,Gym Membership,Microsoft 365,24-07-2025 16:15,Delhi,Delhi,India,Payment for Gym Membership at Microsoft 365.,12-12-2025 11:45
+368,46,44,10304.7,DEBIT,NET_BANKING,HEALTHCARE,Lab Test,Apollo Pharmacy,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Lab Test at Apollo Pharmacy.,12-12-2025 11:45
+369,47,45,10118.06,DEBIT,CASH,HEALTHCARE,Doctor Visit,Dr. Lal PathLabs,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Doctor Visit at Dr. Lal PathLabs.,12-12-2025 11:45
+370,48,46,37769.17,DEBIT,AUTO_DEBIT,FINANCE,Credit Card Payment,ICICI Bank/Axis Bank,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Credit Card Payment at ICICI Bank/Axis Bank.,12-12-2025 11:45
+371,49,47,2115.11,DEBIT,WALLET,SUBSCRIPTIONS,Software,Times of India,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Software at Times of India.,12-12-2025 11:45
+372,50,48,3592.83,DEBIT,CARD,SUBSCRIPTIONS,Software,Netflix/Hotstar,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Software at Netflix/Hotstar.,12-12-2025 11:45
+373,51,49,1732.12,DEBIT,UPI,TRANSPORT,Cab,Ola/Uber,24-07-2025 16:15,Delhi,Delhi,India,Payment for Cab at Ola/Uber.,12-12-2025 11:45
+374,52,50,2402.04,DEBIT,NET_BANKING,FOOD,Restaurant,Saravana Bhavan,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Restaurant at Saravana Bhavan.,12-12-2025 11:45
+375,53,53,1098.39,DEBIT,CASH,FOOD,Coffee Shop,Reliance Smart,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Coffee Shop at Reliance Smart.,12-12-2025 11:45
+376,1,51,1654.51,DEBIT,AUTO_DEBIT,TRANSPORT,Cab,IOCL Pump,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Cab at IOCL Pump.,12-12-2025 11:45
+377,2,52,18831.62,DEBIT,WALLET,EDUCATION,Course Material,University Book Store,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Course Material at University Book Store.,12-12-2025 11:45
+378,3,1,1100.08,DEBIT,CARD,TRANSPORT,Fuel,Ola/Uber,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Fuel at Ola/Uber.,12-12-2025 11:45
+379,4,2,17332.93,DEBIT,UPI,HOUSING,Maintenance,RWA,24-07-2025 16:15,Delhi,Delhi,India,Payment for Maintenance at RWA.,12-12-2025 11:45
+380,5,3,34267.89,DEBIT,NET_BANKING,HOUSING,Rent,Landlord,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Rent at Landlord.,12-12-2025 11:45
+381,6,4,15049.88,DEBIT,CASH,TRAVEL,Hotel,OYO/Goibibo,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Hotel at OYO/Goibibo.,12-12-2025 11:45
+382,7,5,34208.57,DEBIT,AUTO_DEBIT,EDUCATION,Course Material,BYJU's/Vedantu,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Course Material at BYJU's/Vedantu.,12-12-2025 11:45
+383,8,6,15509.31,DEBIT,WALLET,HOUSING,Maintenance,BSES/TNEB/MSEDCL,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Maintenance at BSES/TNEB/MSEDCL.,12-12-2025 11:45
+384,9,7,25732.32,DEBIT,CARD,HOUSING,Maintenance,RWA,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Maintenance at RWA.,12-12-2025 11:45
+385,10,8,3037.49,DEBIT,UPI,FOOD,Online Delivery,Zomato/Swiggy,24-07-2025 16:15,Delhi,Delhi,India,Payment for Online Delivery at Zomato/Swiggy.,12-12-2025 11:45
+386,11,9,4169.83,DEBIT,NET_BANKING,FOOD,Groceries,Saravana Bhavan,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Groceries at Saravana Bhavan.,12-12-2025 11:45
+387,12,10,1112.42,DEBIT,CASH,TRANSPORT,Fuel,Ola/Uber,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Fuel at Ola/Uber.,12-12-2025 11:45
+388,13,11,2150.94,DEBIT,AUTO_DEBIT,TRANSPORT,Cab,NHAI Toll,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Cab at NHAI Toll.,12-12-2025 11:45
+389,14,12,4660.85,DEBIT,WALLET,SUBSCRIPTIONS,Software,Microsoft 365,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Software at Microsoft 365.,12-12-2025 11:45
+390,15,13,2989.47,DEBIT,CARD,SHOPPING,Clothing,Zara/H&M,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Clothing at Zara/H&M.,12-12-2025 11:45
+391,16,14,18831.62,DEBIT,UPI,EDUCATION,Course Material,University Book Store,24-07-2025 16:15,Delhi,Delhi,India,Payment for Course Material at University Book Store.,12-12-2025 11:45
+392,18,16,1654.51,DEBIT,NET_BANKING,TRANSPORT,Cab,IOCL Pump,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Cab at IOCL Pump.,12-12-2025 11:45
+393,19,17,1912.83,DEBIT,CASH,FOOD,Online Delivery,Zomato/Swiggy,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Online Delivery at Zomato/Swiggy.,12-12-2025 11:45
+394,20,18,2402.04,DEBIT,AUTO_DEBIT,FOOD,Restaurant,Reliance Smart,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Restaurant at Reliance Smart.,12-12-2025 11:45
+395,21,19,1098.39,DEBIT,WALLET,FOOD,Coffee Shop,Starbucks,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Coffee Shop at Starbucks.,12-12-2025 11:45
+396,22,20,1732.12,DEBIT,CARD,TRANSPORT,Cab,Ola/Uber,24-07-2025 16:15,Delhi,Delhi,India,Payment for Cab at Ola/Uber.,12-12-2025 11:45
+397,23,21,1100.08,DEBIT,UPI,TRANSPORT,Fuel,Delhi Metro/BMTC,02-09-2025 16:35,Bengaluru,Karnataka,India,Payment for Fuel at Delhi Metro/BMTC.,12-12-2025 11:45
+398,24,22,10304.7,DEBIT,NET_BANKING,HEALTHCARE,Lab Test,Dr. Lal PathLabs,19-11-2025 19:01,Pune,Maharashtra,India,Payment for Lab Test at Dr. Lal PathLabs.,12-12-2025 11:45
+399,25,23,2899.69,DEBIT,CASH,SUBSCRIPTIONS,Gym Membership,Cult.fit/Anytime Fitness,14-10-2025 13:30,Hyderabad,Telangana,India,Payment for Gym Membership at Cult.fit/Anytime Fitness.,12-12-2025 11:45
+400,26,24,18585.11,DEBIT,AUTO_DEBIT,TRAVEL,Train,Local Travel Agency,01-08-2025 16:40,Kolkata,West Bengal,India,Payment for Train at Local Travel Agency.,12-12-2025 11:45
+401,27,25,24022.09,DEBIT,WALLET,TRAVEL,Flight,OYO/Goibibo,28-07-2025 07:11,Mumbai,Maharashtra,India,Payment for Flight at OYO/Goibibo.,12-12-2025 11:45
+402,13,11,1500.75,DEBIT,UPI,FOOD,Restaurant,Swiggy,05-02-2025 14:30,Amravati,Maharashtra,India,Dinner at Mcdonalds,12-12-2025 16:13
+403,48,46,450,DEBIT,NET_BANKING,SUBSCRIPTIONS,OTT,Netflix,12-12-2025 21:48,Amravati,Maharashtra,India,Netflix premium for 3 months,12-12-2025 16:19
+404,3,1,45000,CREDIT,NEFT,INCOME,Salary,HDFC Payroll,01-12-2025 09:00,Mumbai,Maharashtra,India,Monthly salary credit,01-12-2025 09:05
+405,3,1,5000,CREDIT,IMPS,TRANSFER,Fund Transfer,PhonePe,15-12-2025 11:30,Mumbai,Maharashtra,India,Transfer from friend,15-12-2025 11:31
+406,4,2,85000,CREDIT,NEFT,INCOME,Salary,SBI Payroll,01-12-2025 09:15,Pune,Maharashtra,India,Monthly salary credit,01-12-2025 09:20
+407,4,2,12000,CREDIT,RTGS,TRANSFER,Business Receipt,Client Payment,10-12-2025 15:00,Pune,Maharashtra,India,Client invoice payment,10-12-2025 15:05
+408,5,3,38000,CREDIT,NEFT,INCOME,Salary,ICICI Payroll,01-12-2025 08:45,Nagpur,Maharashtra,India,Monthly salary credit,01-12-2025 08:50
+409,5,3,3500,CREDIT,UPI,TRANSFER,Refund,Zomato,08-12-2025 10:20,Nagpur,Maharashtra,India,Order refund,08-12-2025 10:21
+410,6,4,55000,CREDIT,NEFT,INCOME,Salary,PNB Payroll,01-12-2025 09:30,Delhi,Delhi,India,Monthly salary credit,01-12-2025 09:35
+411,6,4,8000,CREDIT,IMPS,TRANSFER,Fund Transfer,Google Pay,18-12-2025 14:00,Delhi,Delhi,India,Received from family,18-12-2025 14:01
+412,7,5,22000,CREDIT,NEFT,INCOME,Salary,BOI Payroll,01-12-2025 10:00,Bengaluru,Karnataka,India,Monthly salary credit,01-12-2025 10:05
+413,7,5,1500,CREDIT,UPI,TRANSFER,Cashback,Paytm,05-12-2025 13:15,Bengaluru,Karnataka,India,Cashback received,05-12-2025 13:16
+414,8,6,95000,CREDIT,NEFT,INCOME,Salary,Axis Payroll,01-12-2025 09:00,Hyderabad,Telangana,India,Monthly salary credit,01-12-2025 09:05
+415,8,6,15000,CREDIT,RTGS,TRANSFER,Rental Income,Tenant,03-12-2025 11:00,Hyderabad,Telangana,India,Monthly rent received,03-12-2025 11:05
+416,9,7,42000,CREDIT,NEFT,INCOME,Salary,HDFC Payroll,01-12-2025 08:30,Chennai,Tamil Nadu,India,Monthly salary credit,01-12-2025 08:35
+417,9,7,7500,CREDIT,IMPS,TRANSFER,Fund Transfer,BHIM UPI,12-12-2025 16:45,Chennai,Tamil Nadu,India,Received from colleague,12-12-2025 16:46
+418,10,8,60000,CREDIT,NEFT,INCOME,Salary,SBI Payroll,01-12-2025 09:45,Kolkata,West Bengal,India,Monthly salary credit,01-12-2025 09:50
+419,10,8,9000,CREDIT,NEFT,TRANSFER,Insurance Maturity,LIC,20-12-2025 12:00,Kolkata,West Bengal,India,LIC policy maturity,20-12-2025 12:05
+420,11,9,35000,CREDIT,NEFT,INCOME,Salary,ICICI Payroll,01-12-2025 09:00,Ahmedabad,Gujarat,India,Monthly salary credit,01-12-2025 09:05
+421,11,9,4200,CREDIT,UPI,TRANSFER,Refund,Flipkart,09-12-2025 10:30,Ahmedabad,Gujarat,India,Product return refund,09-12-2025 10:31
+422,12,10,70000,CREDIT,NEFT,INCOME,Salary,PNB Payroll,01-12-2025 09:15,Jaipur,Rajasthan,India,Monthly salary credit,01-12-2025 09:20
+423,12,10,11000,CREDIT,IMPS,TRANSFER,Freelance Payment,Upwork,14-12-2025 17:00,Jaipur,Rajasthan,India,Freelance project payment,14-12-2025 17:05
+424,13,11,30000,CREDIT,NEFT,INCOME,Salary,HDFC Payroll,01-12-2025 08:00,Surat,Gujarat,India,Monthly salary credit,01-12-2025 08:05
+425,13,11,2500,CREDIT,UPI,TRANSFER,Cashback,Amazon Pay,07-12-2025 09:45,Surat,Gujarat,India,Cashback on purchase,07-12-2025 09:46
+426,14,12,62000,CREDIT,NEFT,INCOME,Salary,SBI Payroll,01-12-2025 09:30,Lucknow,Uttar Pradesh,India,Monthly salary credit,01-12-2025 09:35
+427,14,12,18000,CREDIT,RTGS,TRANSFER,Rental Income,Tenant,02-12-2025 10:00,Lucknow,Uttar Pradesh,India,Monthly rent received,02-12-2025 10:05
+428,15,13,27000,CREDIT,NEFT,INCOME,Salary,ICICI Payroll,01-12-2025 09:00,Bhopal,Madhya Pradesh,India,Monthly salary credit,01-12-2025 09:05
+429,15,13,3000,CREDIT,UPI,TRANSFER,Fund Transfer,PhonePe,16-12-2025 14:30,Bhopal,Madhya Pradesh,India,Received from sister,16-12-2025 14:31
+430,16,14,105000,CREDIT,NEFT,INCOME,Salary,Axis Payroll,01-12-2025 08:45,Indore,Madhya Pradesh,India,Monthly salary credit,01-12-2025 08:50
+431,16,14,25000,CREDIT,RTGS,TRANSFER,Business Receipt,Client Payment,11-12-2025 13:00,Indore,Madhya Pradesh,India,Consulting fee received,11-12-2025 13:05
+432,17,15,18000,CREDIT,NEFT,INCOME,Salary,BOB Payroll,01-12-2025 10:15,Kolhapur,Maharashtra,India,Monthly salary credit,01-12-2025 10:20
+433,17,15,4500,CREDIT,IMPS,TRANSFER,Fund Transfer,Google Pay,13-12-2025 12:00,Kolhapur,Maharashtra,India,Received from brother,13-12-2025 12:01
+434,18,16,40000,CREDIT,NEFT,INCOME,Salary,HDFC Payroll,01-12-2025 09:00,Nashik,Maharashtra,India,Monthly salary credit,01-12-2025 09:05
+435,18,16,6500,CREDIT,NEFT,TRANSFER,Dividend,HDFC Mutual Fund,05-12-2025 11:00,Nashik,Maharashtra,India,Mutual fund dividend payout,05-12-2025 11:05
+436,19,17,130000,CREDIT,NEFT,INCOME,Salary,SBI Payroll,01-12-2025 08:30,Varanasi,Uttar Pradesh,India,Monthly salary credit,01-12-2025 08:35
+437,19,17,20000,CREDIT,RTGS,TRANSFER,Rental Income,Tenant,01-12-2025 10:00,Varanasi,Uttar Pradesh,India,Monthly rent received,01-12-2025 10:05
+438,20,18,55000,CREDIT,NEFT,INCOME,Salary,PNB Payroll,01-12-2025 09:00,Patna,Bihar,India,Monthly salary credit,01-12-2025 09:05
+439,20,18,8500,CREDIT,IMPS,TRANSFER,Freelance Payment,Fiverr,17-12-2025 15:30,Patna,Bihar,India,Freelance design payment,17-12-2025 15:35
+440,21,19,65000,CREDIT,NEFT,INCOME,Salary,ICICI Payroll,01-12-2025 09:15,Coimbatore,Tamil Nadu,India,Monthly salary credit,01-12-2025 09:20
+441,21,19,10000,CREDIT,UPI,TRANSFER,Refund,MakeMyTrip,06-12-2025 08:30,Coimbatore,Tamil Nadu,India,Flight cancellation refund,06-12-2025 08:31
+442,22,20,29000,CREDIT,NEFT,INCOME,Salary,Axis Payroll,01-12-2025 09:30,Vijayawada,Andhra Pradesh,India,Monthly salary credit,01-12-2025 09:35
+443,22,20,5500,CREDIT,IMPS,TRANSFER,Fund Transfer,BHIM UPI,19-12-2025 16:00,Vijayawada,Andhra Pradesh,India,Received from friend,19-12-2025 16:01
+444,23,21,25000,CREDIT,NEFT,INCOME,Salary,BOI Payroll,01-12-2025 08:00,Rajkot,Gujarat,India,Monthly salary credit,01-12-2025 08:05
+445,23,21,3200,CREDIT,UPI,TRANSFER,Cashback,Paytm,10-12-2025 11:00,Rajkot,Gujarat,India,Cashback on bill payment,10-12-2025 11:01
+446,24,22,78000,CREDIT,NEFT,INCOME,Salary,HDFC Payroll,01-12-2025 09:45,Madurai,Tamil Nadu,India,Monthly salary credit,01-12-2025 09:50
+447,24,22,14000,CREDIT,RTGS,TRANSFER,Business Receipt,Client Payment,08-12-2025 14:00,Madurai,Tamil Nadu,India,Project payment received,08-12-2025 14:05
+448,25,23,20000,CREDIT,NEFT,INCOME,Salary,SBI Payroll,01-12-2025 10:00,Meerut,Uttar Pradesh,India,Monthly salary credit,01-12-2025 10:05
+449,25,23,2800,CREDIT,UPI,TRANSFER,Refund,Swiggy,11-12-2025 13:20,Meerut,Uttar Pradesh,India,Order refund received,11-12-2025 13:21
+450,26,24,36000,CREDIT,NEFT,INCOME,Salary,ICICI Payroll,01-12-2025 08:15,Faridabad,Haryana,India,Monthly salary credit,01-12-2025 08:20
+451,26,24,7000,CREDIT,IMPS,TRANSFER,Fund Transfer,PhonePe,14-12-2025 10:30,Faridabad,Haryana,India,Received from parents,14-12-2025 10:31
+452,27,25,60000,CREDIT,NEFT,INCOME,Salary,PNB Payroll,01-12-2025 09:00,Agra,Uttar Pradesh,India,Monthly salary credit,01-12-2025 09:05
+453,27,25,9500,CREDIT,NEFT,TRANSFER,Insurance Maturity,SBI Life,22-12-2025 11:00,Agra,Uttar Pradesh,India,Policy maturity amount,22-12-2025 11:05
+454,28,26,26000,CREDIT,NEFT,INCOME,Salary,Axis Payroll,01-12-2025 09:30,Guwahati,Assam,India,Monthly salary credit,01-12-2025 09:35
+455,28,26,4000,CREDIT,UPI,TRANSFER,Cashback,Amazon Pay,03-12-2025 12:45,Guwahati,Assam,India,Cashback on order,03-12-2025 12:46
+456,29,27,82000,CREDIT,NEFT,INCOME,Salary,HDFC Payroll,01-12-2025 08:30,Chandigarh,Chandigarh,India,Monthly salary credit,01-12-2025 08:35
+457,29,27,16000,CREDIT,RTGS,TRANSFER,Rental Income,Tenant,04-12-2025 09:00,Chandigarh,Chandigarh,India,Monthly rent received,04-12-2025 09:05
+458,30,28,19000,CREDIT,NEFT,INCOME,Salary,SBI Payroll,01-12-2025 10:15,Amritsar,Punjab,India,Monthly salary credit,01-12-2025 10:20
+459,30,28,3800,CREDIT,UPI,TRANSFER,Refund,IRCTC,09-12-2025 15:00,Amritsar,Punjab,India,Train ticket refund,09-12-2025 15:01
+460,31,29,72000,CREDIT,NEFT,INCOME,Salary,ICICI Payroll,01-12-2025 09:00,Dehradun,Uttarakhand,India,Monthly salary credit,01-12-2025 09:05
+461,31,29,13000,CREDIT,IMPS,TRANSFER,Freelance Payment,Toptal,16-12-2025 17:30,Dehradun,Uttarakhand,India,Freelance consulting payment,16-12-2025 17:35
+462,32,30,15000,CREDIT,NEFT,INCOME,Salary,PNB Payroll,01-12-2025 09:45,Raipur,Chhattisgarh,India,Monthly salary credit,01-12-2025 09:50
+463,32,30,2200,CREDIT,UPI,TRANSFER,Fund Transfer,Google Pay,20-12-2025 14:00,Raipur,Chhattisgarh,India,Received from colleague,20-12-2025 14:01
+464,33,31,35000,CREDIT,NEFT,INCOME,Salary,Axis Payroll,01-12-2025 08:00,Jodhpur,Rajasthan,India,Monthly salary credit,01-12-2025 08:05
+465,33,31,6000,CREDIT,NEFT,TRANSFER,Dividend,Axis Mutual Fund,07-12-2025 10:00,Jodhpur,Rajasthan,India,Mutual fund dividend,07-12-2025 10:05
+466,34,32,99000,CREDIT,NEFT,INCOME,Salary,HDFC Payroll,01-12-2025 09:00,Thiruvananthapuram,Kerala,India,Monthly salary credit,01-12-2025 09:05
+467,34,32,22000,CREDIT,RTGS,TRANSFER,Business Receipt,Client Payment,12-12-2025 13:00,Thiruvananthapuram,Kerala,India,Business invoice payment,12-12-2025 13:05
+468,35,33,55000,CREDIT,NEFT,INCOME,Salary,SBI Payroll,01-12-2025 08:45,Kochi,Kerala,India,Monthly salary credit,01-12-2025 08:50
+469,35,33,8800,CREDIT,IMPS,TRANSFER,Fund Transfer,BHIM UPI,18-12-2025 11:00,Kochi,Kerala,India,Received from brother,18-12-2025 11:01
+470,36,34,22000,CREDIT,NEFT,INCOME,Salary,ICICI Payroll,01-12-2025 10:00,Visakhapatnam,Andhra Pradesh,India,Monthly salary credit,01-12-2025 10:05
+471,36,34,4500,CREDIT,UPI,TRANSFER,Refund,Nykaa,13-12-2025 09:30,Visakhapatnam,Andhra Pradesh,India,Product return refund,13-12-2025 09:31
+472,37,35,52000,CREDIT,NEFT,INCOME,Salary,PNB Payroll,01-12-2025 09:00,Mysuru,Karnataka,India,Monthly salary credit,01-12-2025 09:05
+473,37,35,10500,CREDIT,RTGS,TRANSFER,Rental Income,Tenant,05-12-2025 10:00,Mysuru,Karnataka,India,Monthly rent received,05-12-2025 10:05
+474,38,36,75000,CREDIT,NEFT,INCOME,Salary,BOB Payroll,01-12-2025 08:30,Hubli,Karnataka,India,Monthly salary credit,01-12-2025 08:35
+475,38,36,17000,CREDIT,IMPS,TRANSFER,Freelance Payment,Freelancer,15-12-2025 16:00,Hubli,Karnataka,India,Web development payment,15-12-2025 16:05
+476,39,37,42000,CREDIT,NEFT,INCOME,Salary,HDFC Payroll,01-12-2025 09:15,Mangaluru,Karnataka,India,Monthly salary credit,01-12-2025 09:20
+477,39,37,7200,CREDIT,UPI,TRANSFER,Cashback,PhonePe,10-12-2025 12:30,Mangaluru,Karnataka,India,Cashback on recharge,10-12-2025 12:31
+478,40,38,18000,CREDIT,NEFT,INCOME,Salary,SBI Payroll,01-12-2025 10:30,Aurangabad,Maharashtra,India,Monthly salary credit,01-12-2025 10:35
+479,40,38,3000,CREDIT,IMPS,TRANSFER,Fund Transfer,PhonePe,17-12-2025 13:00,Aurangabad,Maharashtra,India,Received from friend,17-12-2025 13:01
+480,41,39,108000,CREDIT,NEFT,INCOME,Salary,ICICI Payroll,01-12-2025 08:00,Pune,Maharashtra,India,Monthly salary credit,01-12-2025 08:05
+481,41,39,30000,CREDIT,RTGS,TRANSFER,Business Receipt,Client Payment,09-12-2025 14:00,Pune,Maharashtra,India,Consulting fees received,09-12-2025 14:05
+482,42,40,14000,CREDIT,NEFT,INCOME,Salary,Axis Payroll,01-12-2025 09:30,Nashik,Maharashtra,India,Monthly salary credit,01-12-2025 09:35
+483,42,40,2000,CREDIT,UPI,TRANSFER,Refund,BookMyShow,06-12-2025 17:30,Nashik,Maharashtra,India,Ticket cancellation refund,06-12-2025 17:31
+484,43,41,88000,CREDIT,NEFT,INCOME,Salary,PNB Payroll,01-12-2025 09:00,Noida,Uttar Pradesh,India,Monthly salary credit,01-12-2025 09:05
+485,43,41,19000,CREDIT,RTGS,TRANSFER,Rental Income,Tenant,03-12-2025 11:00,Noida,Uttar Pradesh,India,Monthly rent received,03-12-2025 11:05
+486,44,42,10000,CREDIT,NEFT,INCOME,Salary,HDFC Payroll,01-12-2025 10:00,Gurgaon,Haryana,India,Monthly salary credit,01-12-2025 10:05
+487,44,42,1800,CREDIT,UPI,TRANSFER,Cashback,Paytm,12-12-2025 10:00,Gurgaon,Haryana,India,Cashback on utility bill,12-12-2025 10:01
+488,45,43,32000,CREDIT,NEFT,INCOME,Salary,SBI Payroll,01-12-2025 08:45,Bhubaneswar,Odisha,India,Monthly salary credit,01-12-2025 08:50
+489,45,43,5800,CREDIT,IMPS,TRANSFER,Fund Transfer,Google Pay,14-12-2025 15:30,Bhubaneswar,Odisha,India,Received from cousin,14-12-2025 15:31
+490,46,44,39000,CREDIT,NEFT,INCOME,Salary,ICICI Payroll,01-12-2025 09:15,Trivandrum,Kerala,India,Monthly salary credit,01-12-2025 09:20
+491,46,44,12000,CREDIT,NEFT,TRANSFER,Insurance Maturity,Max Life,21-12-2025 12:00,Trivandrum,Kerala,India,Policy maturity payout,21-12-2025 12:05
+492,47,45,78000,CREDIT,NEFT,INCOME,Salary,Axis Payroll,01-12-2025 08:00,Mangaluru,Karnataka,India,Monthly salary credit,01-12-2025 08:05
+493,47,45,14500,CREDIT,RTGS,TRANSFER,Business Receipt,Client Payment,10-12-2025 13:00,Mangaluru,Karnataka,India,Project completion payment,10-12-2025 13:05
+494,48,46,33000,CREDIT,NEFT,INCOME,Salary,BOI Payroll,01-12-2025 09:30,Kozhikode,Kerala,India,Monthly salary credit,01-12-2025 09:35
+495,48,46,6500,CREDIT,IMPS,TRANSFER,Freelance Payment,Fiverr,19-12-2025 16:30,Kozhikode,Kerala,India,Graphic design payment,19-12-2025 16:35
+496,49,49,69000,CREDIT,NEFT,INCOME,Salary,HDFC Payroll,01-12-2025 09:00,Guntur,Andhra Pradesh,India,Monthly salary credit,01-12-2025 09:05
+497,49,49,11000,CREDIT,RTGS,TRANSFER,Rental Income,Tenant,02-12-2025 10:30,Guntur,Andhra Pradesh,India,Monthly rent received,02-12-2025 10:35
+498,50,47,90000,CREDIT,NEFT,INCOME,Salary,SBI Payroll,01-12-2025 08:30,Tirupati,Andhra Pradesh,India,Monthly salary credit,01-12-2025 08:35
+499,50,47,21000,CREDIT,IMPS,TRANSFER,Freelance Payment,Upwork,13-12-2025 17:00,Tirupati,Andhra Pradesh,India,Software development payment,13-12-2025 17:05
+500,51,50,48000,CREDIT,NEFT,INCOME,Salary,ICICI Payroll,01-12-2025 09:45,Salem,Tamil Nadu,India,Monthly salary credit,01-12-2025 09:50
+501,51,50,9200,CREDIT,UPI,TRANSFER,Cashback,Amazon Pay,08-12-2025 11:30,Salem,Tamil Nadu,India,Festival cashback reward,08-12-2025 11:31
+502,52,48,45000,CREDIT,NEFT,INCOME,Salary,PNB Payroll,01-12-2025 09:00,Erode,Tamil Nadu,India,Monthly salary credit,01-12-2025 09:05
+503,52,48,8000,CREDIT,NEFT,TRANSFER,Dividend,SBI Mutual Fund,06-12-2025 10:00,Erode,Tamil Nadu,India,Quarterly dividend received,06-12-2025 10:05
+504,1,51,32000,CREDIT,NEFT,INCOME,Salary,HDFC Payroll,01-12-2025 09:00,Jaipur,Rajasthan,India,Monthly salary credit,01-12-2025 09:05
+505,1,51,6000,CREDIT,IMPS,TRANSFER,Fund Transfer,PhonePe,16-12-2025 14:00,Jaipur,Rajasthan,India,Received from spouse,16-12-2025 14:01
+506,2,52,250000,CREDIT,NEFT,INCOME,Salary,Axis Payroll,01-12-2025 08:00,Mumbai,Maharashtra,India,Monthly salary credit,01-12-2025 08:05
+507,2,52,45000,CREDIT,RTGS,TRANSFER,Business Receipt,Client Payment,11-12-2025 14:00,Mumbai,Maharashtra,India,Annual bonus received,11-12-2025 14:05
+508,53,53,62000,CREDIT,NEFT,INCOME,Salary,Axis Payroll,01-12-2025 09:30,Pune,Maharashtra,India,Monthly salary credit,01-12-2025 09:35
+509,53,53,11500,CREDIT,IMPS,TRANSFER,Freelance Payment,Upwork,18-12-2025 16:00,Pune,Maharashtra,India,Freelance IT project payment,18-12-2025 16:05
