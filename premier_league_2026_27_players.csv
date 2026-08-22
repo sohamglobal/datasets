@@ -1,0 +1,600 @@
+﻿player_name,jersey_number,age,country,club,position
+Benjamin White,,28.0,England,Arsenal,Defender
+Cristhian Mosquera,,22.0,Spain,Arsenal,Defender
+Gabriel dos Santos Magalhães,,28.0,Brazil,Arsenal,Defender
+Jurriën Timber,,25.0,Netherlands,Arsenal,Defender
+Piero Hincapié,,24.0,Ecuador,Arsenal,Defender
+Riccardo Calafiori,,24.0,Italy,Arsenal,Defender
+William Saliba,,25.0,France,Arsenal,Defender
+Gabriel Fernando de Jesus,,29.0,Brazil,Arsenal,Forward
+Kai Havertz,,27.0,Germany,Arsenal,Forward
+Viktor Gyökeres,,28.0,Sweden,Arsenal,Forward
+David Raya Martín,,30.0,Spain,Arsenal,Goalkeeper
+Illan Meslier,,26.0,France,Arsenal,Goalkeeper
+Kepa Arrizabalaga Revuelta,,31.0,Spain,Arsenal,Goalkeeper
+Bruno Guimarães Rodriguez Moura,,28.0,Brazil,Arsenal,Midfielder
+Bukayo Saka,,24.0,England,Arsenal,Midfielder
+Christos Tzolis,,24.0,Greece,Arsenal,Midfielder
+Declan Rice,,27.0,England,Arsenal,Midfielder
+Eberechi Eze,,28.0,England,Arsenal,Midfielder
+Ethan Nwaneri,,19.0,England,Arsenal,Midfielder
+Fábio Ferreira Vieira,,26.0,Portugal,Arsenal,Midfielder
+Gabriel Martinelli Silva,,25.0,Brazil,Arsenal,Midfielder
+Martin Ødegaard,,27.0,Norway,Arsenal,Midfielder
+Martín Zubimendi Ibáñez,,27.0,Spain,Arsenal,Midfielder
+Max Dowman,,16.0,England,Arsenal,Midfielder
+Mikel Merino Zazón,,30.0,Spain,Arsenal,Midfielder
+Myles Lewis-Skelly,,19.0,England,Arsenal,Midfielder
+Noni Madueke,,24.0,England,Arsenal,Midfielder
+Reiss Nelson,,26.0,England,Arsenal,Midfielder
+Andrés García,,,,Aston Villa,Defender
+Ezri Konsa Ngoyo,,28.0,England,Aston Villa,Defender
+Ian Maatsen,,24.0,Netherlands,Aston Villa,Defender
+Kosta Nedeljkovic,,20.0,Serbia,Aston Villa,Defender
+Lucas Digne,,33.0,France,Aston Villa,Defender
+Matteo Ruggeri,,24.0,Italy,Aston Villa,Defender
+Matty Cash,,29.0,Poland,Aston Villa,Defender
+Pau Torres,,29.0,Spain,Aston Villa,Defender
+Tyrone Mings,,33.0,England,Aston Villa,Defender
+Victor Lindelöf,,32.0,Sweden,Aston Villa,Defender
+Brian Madjo,,17.0,England,Aston Villa,Forward
+Ollie Watkins,,30.0,England,Aston Villa,Forward
+Tammy Abraham,,28.0,England,Aston Villa,Forward
+Emiliano Martínez Romero,,33.0,Argentina,Aston Villa,Goalkeeper
+Marco Bizot,,35.0,Netherlands,Aston Villa,Goalkeeper
+Zion Suzuki,,24.0,Japan,Aston Villa,Goalkeeper
+Alejandro Garnacho Ferreyra,,22.0,Argentina,Aston Villa,Midfielder
+Alysson Edward Franco da Rocha dos Santos,,20.0,Brazil,Aston Villa,Midfielder
+Amadou Onana,,25.0,Belgium,Aston Villa,Midfielder
+Boubacar Kamara,,26.0,France,Aston Villa,Midfielder
+Bradley Burrowes,,18.0,England,Aston Villa,Midfielder
+Emiliano Buendía Stati,,29.0,Argentina,Aston Villa,Midfielder
+George Hemmings,,19.0,England,Aston Villa,Midfielder
+Joao Gomes,,25.0,Brazil,Aston Villa,Midfielder
+Johan Manzambi,,20.0,Switzerland,Aston Villa,Midfielder
+John McGinn,,31.0,Scotland,Aston Villa,Midfielder
+Lamare Bogarde,,22.0,Netherlands,Aston Villa,Midfielder
+Leon Bailey,,29.0,Jamaica,Aston Villa,Midfielder
+Ross Barkley,,32.0,England,Aston Villa,Midfielder
+Samuel Iling-Junior,,22.0,England,Aston Villa,Midfielder
+Adam Smith,,35.0,England,Bournemouth,Defender
+Adrien Truffert,,24.0,France,Bournemouth,Defender
+António João Pereira de Albuquerque Tavares da Silva,,22.0,Portugal,Bournemouth,Defender
+Bafodé Diakité,,25.0,France,Bournemouth,Defender
+James Hill,,24.0,England,Bournemouth,Defender
+Juanlu Sánchez,,23.0,Spain,Bournemouth,Defender
+Julio Soler Barreto,,21.0,Argentina,Bournemouth,Defender
+Julián Araujo Zúñiga,,25.0,Mexico,Bournemouth,Defender
+Veljko Milosavljevic,,19.0,Serbia,Bournemouth,Defender
+Enes Ünal,,29.0,Turkey,Bournemouth,Forward
+Francisco Evanilson de Lima Barbosa,,26.0,Brazil,Bournemouth,Forward
+Álvaro Rodríguez,,22.0,Uruguay,Bournemouth,Forward
+Fraser Forster,,38.0,England,Bournemouth,Goalkeeper
+Will Dennis,,26.0,England,Bournemouth,Goalkeeper
+Đorđe Petrović,,26.0,Serbia,Bournemouth,Goalkeeper
+Alex Scott,,23.0,England,Bournemouth,Midfielder
+Alex Tóth,,20.0,Hungary,Bournemouth,Midfielder
+Amine Adli,,26.0,Morocco,Bournemouth,Midfielder
+Ben Gannon-Doak,,20.0,Scotland,Bournemouth,Midfielder
+David Brooks,,29.0,Wales,Bournemouth,Midfielder
+Junior Kroupi,,20.0,France,Bournemouth,Midfielder
+Justin Kluivert,,27.0,Netherlands,Bournemouth,Midfielder
+Lewis Cook,,29.0,England,Bournemouth,Midfielder
+Marcus Tavernier,,27.0,England,Bournemouth,Midfielder
+Rayan Vitor Simplício Rocha,,20.0,Brazil,Bournemouth,Midfielder
+Ryan Christie,,31.0,Scotland,Bournemouth,Midfielder
+Tyler Adams,,27.0,USA,Bournemouth,Midfielder
+Aaron Hickey,,24.0,Scotland,Brentford,Defender
+Ethan Pinnock,,33.0,Jamaica,Brentford,Defender
+Jannik Schuster,,20.0,Austria,Brentford,Defender
+Kim Ji-soo,,21.0,South Korea,Brentford,Defender
+Kristoffer Ajer,,28.0,Norway,Brentford,Defender
+Michael Kayode,,22.0,Italy,Brentford,Defender
+Nathan Collins,,25.0,Ireland,Brentford,Defender
+Rico Henry,,29.0,Jamaica,Brentford,Defender
+Sepp van den Berg,,24.0,Netherlands,Brentford,Defender
+Callum Wilson,,34.0,England,Brentford,Forward
+Igor Thiago Nascimento Rodrigues,,25.0,Brazil,Brentford,Forward
+Kaye Furo,,19.0,Belgium,Brentford,Forward
+Caoimhín Kelleher,,27.0,Ireland,Brentford,Goalkeeper
+Hákon Rafn Valdimarsson,,24.0,Iceland,Brentford,Goalkeeper
+Antoni Milambo,,21.0,Netherlands,Brentford,Midfielder
+Dango Ouattara,,24.0,Burkina Faso,Brentford,Midfielder
+Fábio Freitas Gouveia Carvalho,,23.0,Portugal,Brentford,Midfielder
+Jaidon Anthony,,26.0,England,Brentford,Midfielder
+Josh Dasilva,,27.0,England,Brentford,Midfielder
+Keane Lewis-Potter,,25.0,England,Brentford,Midfielder
+Kevin Schade,,24.0,Germany,Brentford,Midfielder
+Mamadou Sangaré,,24.0,Mali,Brentford,Midfielder
+Mathias Jensen,,30.0,Denmark,Brentford,Midfielder
+Mikkel Damsgaard,,26.0,Denmark,Brentford,Midfielder
+Vitaly Janelt,,28.0,Germany,Brentford,Midfielder
+Yehor Yarmoliuk,,22.0,Ukraine,Brentford,Midfielder
+Diego Coppola,,,,Brighton,Defender
+Ferdi Kadıoğlu,,26.0,Turkey,Brighton,Defender
+Igor Julio dos Santos de Paulo,,28.0,Brazil,Brighton,Defender
+João Pedro Loureiro da Costa,,26.0,Portugal,Brighton,Defender
+Lewis Dunk,,34.0,England,Brighton,Defender
+Luka Vušković,,19.0,Croatia,Brighton,Defender
+Mats Wieffer,,26.0,Netherlands,Brighton,Defender
+Maxim De Cuyper,,25.0,Belgium,Brighton,Defender
+Michael Svoboda,,27.0,Austria,Brighton,Defender
+Olivier Boscagli,,28.0,France,Brighton,Defender
+Pascal Struijk,,27.0,Netherlands,Brighton,Defender
+Charalampos Kostoulas,,19.0,Greece,Brighton,Forward
+Evan Ferguson,,21.0,Ireland,Brighton,Forward
+Georginio Rutter,,24.0,France,Brighton,Forward
+Promise David,,25.0,Canada,Brighton,Forward
+Stefanos Tzimas,,20.0,Greece,Brighton,Forward
+Bart Verbruggen,,24.0,Netherlands,Brighton,Goalkeeper
+Jason Steele,,36.0,England,Brighton,Goalkeeper
+Carlos Baleba,,22.0,Cameroon,Brighton,Midfielder
+Diego Gómez Amarilla,,23.0,Paraguay,Brighton,Midfielder
+Facundo Buonanotte,,21.0,Argentina,Brighton,Midfielder
+Harry Howell,,,,Brighton,Midfielder
+Jack Hinshelwood,,21.0,England,Brighton,Midfielder
+Matt O'Riley,,25.0,Denmark,Brighton,Midfielder
+Mitoma Kaoru,,29.0,Japan,Brighton,Midfielder
+Nehemiah Oriola,,,,Brighton,Midfielder
+Pascal Groß,,35.0,Germany,Brighton,Midfielder
+Tom Watson,,20.0,England,Brighton,Midfielder
+Yankuba Minteh,,22.0,Gambia,Brighton,Midfielder
+Yasin Ayari,,22.0,Sweden,Brighton,Midfielder
+Zadok Yohanna,,19.0,Nigeria,Brighton,Midfielder
+Aaron Anselmino,,21.0,Argentina,Chelsea,Defender
+Axel Disasi,,28.0,France,Chelsea,Defender
+Benoît Badiashile Mukinayi,,25.0,France,Chelsea,Defender
+Jorrel Hato,,20.0,Netherlands,Chelsea,Defender
+Josh Acheampong,,20.0,England,Chelsea,Defender
+Levi Samuels Colwill,,23.0,England,Chelsea,Defender
+Malo Gusto,,23.0,France,Chelsea,Defender
+Mamadou Sarr,,20.0,Senegal,Chelsea,Defender
+Marco Palestra,,21.0,Italy,Chelsea,Defender
+Maxence Lacroix,,26.0,France,Chelsea,Defender
+Pep Chavarría,,28.0,Spain,Chelsea,Defender
+Reece James,,26.0,England,Chelsea,Defender
+Tosin Adarabioyo,,28.0,England,Chelsea,Defender
+Trevoh Chalobah,,27.0,England,Chelsea,Defender
+Wesley Fofana,,25.0,France,Chelsea,Defender
+Danny Welbeck,,35.0,England,Chelsea,Forward
+Emmanuel Emegha,,23.0,Netherlands,Chelsea,Forward
+João Pedro Junqueira de Jesus,,24.0,Brazil,Chelsea,Forward
+Liam Delap,,23.0,England,Chelsea,Forward
+Marc Guiu Paz,,20.0,Spain,Chelsea,Forward
+Nicolas Jackson,,25.0,Senegal,Chelsea,Forward
+Shumaira Mheuka,,,,Chelsea,Forward
+Filip Jörgensen,,24.0,Denmark,Chelsea,Goalkeeper
+Mike Penders,,21.0,Belgium,Chelsea,Goalkeeper
+Robert Lynch Sánchez,,28.0,Spain,Chelsea,Goalkeeper
+Cole Palmer,,24.0,England,Chelsea,Midfielder
+Dário Luís Essugo,,21.0,Portugal,Chelsea,Midfielder
+Enzo Fernández,,25.0,Argentina,Chelsea,Midfielder
+Estêvão Almeida de Oliveira Gonçalves,,19.0,Brazil,Chelsea,Midfielder
+Geovany Quenda,,19.0,Portugal,Chelsea,Midfielder
+Jamie Bynoe-Gittens,,22.0,England,Chelsea,Midfielder
+Jordan Henderson,,36.0,England,Chelsea,Midfielder
+Moisés Caicedo Corozo,,24.0,Ecuador,Chelsea,Midfielder
+Morgan Rogers,,24.0,England,Chelsea,Midfielder
+Mykhailo Mudryk,,25.0,Ukraine,Chelsea,Midfielder
+Pedro Lomba Neto,,26.0,Portugal,Chelsea,Midfielder
+Roméo Lavia,,22.0,Belgium,Chelsea,Midfielder
+Valentín Barco,,22.0,Argentina,Chelsea,Midfielder
+Aurèle Amenda,,23.0,Switzerland,Coventry City,Defender
+Bobby Thomas,,25.0,England,Coventry City,Defender
+Jake Bidwell,,33.0,England,Coventry City,Defender
+Jay Dasilva,,28.0,Wales,Coventry City,Defender
+Joel Latibeaudiere,,26.0,Jamaica,Coventry City,Defender
+Kaine Kesler-Hayden,,23.0,England,Coventry City,Defender
+Liam Kitching,,26.0,England,Coventry City,Defender
+Luke Woolfenden,,27.0,England,Coventry City,Defender
+Miguel Brau,,24.0,Spain,Coventry City,Defender
+Milan van Ewijk,,25.0,Netherlands,Coventry City,Defender
+Brandon Thomas-Asante,,27.0,Ghana,Coventry City,Forward
+Ellis Simms,,25.0,England,Coventry City,Forward
+Haji Wright,,28.0,USA,Coventry City,Forward
+Jahnoah Markelo,,23.0,Suriname,Coventry City,Forward
+Norman Bassette,,,,Coventry City,Forward
+Sidiki Cherif,,19.0,France,Coventry City,Forward
+Taiwo Awoniyi,,29.0,Nigeria,Coventry City,Forward
+Ben Wilson,,34.0,England,Coventry City,Goalkeeper
+Carl Rushworth,,25.0,England,Coventry City,Goalkeeper
+Oliver Dovin,,24.0,Sweden,Coventry City,Goalkeeper
+Caleb Yirenkyi,,20.0,Ghana,Coventry City,Midfielder
+Ephron Mason-Clark,,26.0,Jamaica,Coventry City,Midfielder
+Frank Onyeka,,28.0,Nigeria,Coventry City,Midfielder
+George Shepherd,,,,Coventry City,Midfielder
+Gustavo Hamer,,29.0,Netherlands,Coventry City,Midfielder
+Jack Rudoni,,25.0,England,Coventry City,Midfielder
+Josh Eccles,,26.0,England,Coventry City,Midfielder
+Kaine Andrews,,20.0,Wales,Coventry City,Midfielder
+Loum Tchaouna,,22.0,France,Coventry City,Midfielder
+Matt Grimes,,31.0,England,Coventry City,Midfielder
+Raphael Borges Rodrigues,,22.0,Australia,Coventry City,Midfielder
+Tatsuhiro Sakamoto,,29.0,Japan,Coventry City,Midfielder
+Victor Torp,,27.0,Denmark,Coventry City,Midfielder
+Anan Khalaili,,21.0,Israel,Crystal Palace,Defender
+Borna Sosa,,28.0,Croatia,Crystal Palace,Defender
+Chadi Riad Dnanou,,23.0,Morocco,Crystal Palace,Defender
+Chris Richards,,26.0,USA,Crystal Palace,Defender
+Daniel Muñoz Mejía,,30.0,Colombia,Crystal Palace,Defender
+Jaydee Canvot,,20.0,France,Crystal Palace,Defender
+Oscar Mingueza,,27.0,Spain,Crystal Palace,Defender
+Rio Cardines,,20.0,Trinidad and Tobago,Crystal Palace,Defender
+Takehiro Tomiyasu,,27.0,Japan,Crystal Palace,Defender
+Tyrick Mitchell,,26.0,England,Crystal Palace,Defender
+Christantus Uche,,,,Crystal Palace,Forward
+Eddie Nketiah,,27.0,England,Crystal Palace,Forward
+Jean-Philippe Mateta,,29.0,France,Crystal Palace,Forward
+Jørgen Strand Larsen,,26.0,Norway,Crystal Palace,Forward
+Dean Henderson,,29.0,England,Crystal Palace,Goalkeeper
+Remi Matthews,,32.0,England,Crystal Palace,Goalkeeper
+Walter Benítez,,33.0,Argentina,Crystal Palace,Goalkeeper
+Adam Wharton,,22.0,England,Crystal Palace,Midfielder
+Cheick Doucouré,,26.0,Mali,Crystal Palace,Midfielder
+Daichi Kamada,,30.0,Japan,Crystal Palace,Midfielder
+Dwight McNeil,,26.0,England,Crystal Palace,Midfielder
+Evann Guessand,,25.0,Ivory Coast,Crystal Palace,Midfielder
+Ismaïla Sarr,,28.0,Senegal,Crystal Palace,Midfielder
+Jefferson Lerma Solís,,31.0,Colombia,Crystal Palace,Midfielder
+Jesurun Rak-Sakyi,,23.0,Ghana,Crystal Palace,Midfielder
+Joél Drakes-Thomas,,17.0,England,Crystal Palace,Midfielder
+Justin Devenny,,22.0,Northern Ireland,Crystal Palace,Midfielder
+Matheus França de Oliveira,,22.0,Brazil,Crystal Palace,Midfielder
+Romain Esse,,21.0,England,Crystal Palace,Midfielder
+Will Hughes,,31.0,England,Crystal Palace,Midfielder
+Yéremy Pino Santos,,23.0,Spain,Crystal Palace,Midfielder
+Zavier Gozo,,19.0,USA,Crystal Palace,Midfielder
+Adam Aznou,,20.0,Morocco,Everton,Defender
+Jake O'Brien,,25.0,Ireland,Everton,Defender
+James Tarkowski,,33.0,England,Everton,Defender
+Jarrad Branthwaite,,24.0,England,Everton,Defender
+Michael Keane,,33.0,England,Everton,Defender
+Nathan Patterson,,24.0,Scotland,Everton,Defender
+Vitalii Mykolenko,,27.0,Ukraine,Everton,Defender
+Norberto Bercique Gomes Betuncal,,28.0,Guinea-Bissau,Everton,Forward
+Thierno Barry,,23.0,France,Everton,Forward
+Jordan Pickford,,32.0,England,Everton,Goalkeeper
+Mark Travers,,27.0,Ireland,Everton,Goalkeeper
+Tom King,,31.0,Wales,Everton,Goalkeeper
+Brennan Johnson,,25.0,Wales,Everton,Midfielder
+Carlos Alcaraz Durán,,23.0,Argentina,Everton,Midfielder
+Christian Nørgaard,,32.0,Denmark,Everton,Midfielder
+Harrison Armstrong,,19.0,England,Everton,Midfielder
+Hayden Hackney,,24.0,England,Everton,Midfielder
+Iliman Ndiaye,,26.0,Senegal,Everton,Midfielder
+James Garner,,25.0,England,Everton,Midfielder
+Kiernan Dewsbury-Hall,,27.0,England,Everton,Midfielder
+Merlin Röhl,,24.0,Germany,Everton,Midfielder
+Tim Iroegbunam,,23.0,England,Everton,Midfielder
+Tyler Dibling,,20.0,England,Everton,Midfielder
+Tyrique George,,20.0,England,Everton,Midfielder
+Antonee Robinson,,29.0,USA,Fulham,Defender
+Calvin Bassey,,26.0,Nigeria,Fulham,Defender
+Joachim Andersen,,30.0,Denmark,Fulham,Defender
+Jorge Cuenca Barreno,,26.0,Spain,Fulham,Defender
+Kenny Tete,,30.0,Netherlands,Fulham,Defender
+Ryan Sessegnon,,26.0,England,Fulham,Defender
+Timothy Castagne,,30.0,Belgium,Fulham,Defender
+Gonzalo García,,22.0,Spain,Fulham,Forward
+Jonah Kusi-Asare,,19.0,Sweden,Fulham,Forward
+Rodrigo Muniz Carvalho,,25.0,Brazil,Fulham,Forward
+Alfie McNally,,,,Fulham,Goalkeeper
+Benjamin Lecomte,,35.0,France,Fulham,Goalkeeper
+Bernd Leno,,34.0,Germany,Fulham,Goalkeeper
+Alex Iwobi,,30.0,Nigeria,Fulham,Midfielder
+César Palacios,,21.0,Spain,Fulham,Midfielder
+Emile Smith Rowe,,26.0,England,Fulham,Midfielder
+Harrison Reed,,31.0,England,Fulham,Midfielder
+Josh King,,19.0,England,Fulham,Midfielder
+Kevin Santos Lopes de Macedo,,23.0,Brazil,Fulham,Midfielder
+Oscar Bobb,,23.0,Norway,Fulham,Midfielder
+Sander Berge,,28.0,Norway,Fulham,Midfielder
+Shea Charles,,22.0,Northern Ireland,Fulham,Midfielder
+Tom Cairney,,35.0,Scotland,Fulham,Midfielder
+Cathal McCarthy,,,,Hull City,Defender
+Charlie Hughes,,22.0,England,Hull City,Defender
+Cody Drameh,,24.0,England,Hull City,Defender
+John Egan,,33.0,Ireland,Hull City,Defender
+Lewie Coyle,,30.0,England,Hull City,Defender
+Lucas Herrington,,18.0,Australia,Hull City,Defender
+Matt Targett,,30.0,England,Hull City,Defender
+Matty Jacob,,25.0,England,Hull City,Defender
+Nobel Mendy,,21.0,Senegal,Hull City,Defender
+Paddy McNair,,31.0,Northern Ireland,Hull City,Defender
+Ryan Giles,,26.0,England,Hull City,Defender
+Semi Ajayi,,32.0,Nigeria,Hull City,Defender
+Enis Destan,,24.0,Turkey,Hull City,Forward
+Mason Burstow,,23.0,England,Hull City,Forward
+Oli McBurnie,,30.0,Scotland,Hull City,Forward
+Dillon Phillips,,31.0,England,Hull City,Goalkeeper
+Harvey Cartwright,,24.0,England,Hull City,Goalkeeper
+Jack Butland,,33.0,England,Hull City,Goalkeeper
+Konstantinos Tzolakis,,23.0,Greece,Hull City,Goalkeeper
+Thimothée Lo-Tutala,,23.0,France,Hull City,Goalkeeper
+Abdülkadir Ömür,,27.0,Turkey,Hull City,Midfielder
+Abu Kamara,,23.0,England,Hull City,Midfielder
+Darko Gyabi,,22.0,England,Hull City,Midfielder
+David Akintola,,30.0,Nigeria,Hull City,Midfielder
+Eliot Matazo,,24.0,Belgium,Hull City,Midfielder
+Elliot Stroud,,24.0,Sweden,Hull City,Midfielder
+Hidemasa Morita,,31.0,Japan,Hull City,Midfielder
+Jens Hjertø-Dahl,,20.0,Norway,Hull City,Midfielder
+Joe Gelhardt,,24.0,England,Hull City,Midfielder
+Kieran Dowell,,28.0,England,Hull City,Midfielder
+Liam Millar,,26.0,Canada,Hull City,Midfielder
+Lucas Gourna-Douath,,23.0,France,Hull City,Midfielder
+Matt Crooks,,32.0,England,Hull City,Midfielder
+Mohamed Belloumi,,24.0,Algeria,Hull City,Midfielder
+Regan Slater,,26.0,England,Hull City,Midfielder
+Óscar Zambrano,,22.0,Ecuador,Hull City,Midfielder
+Abdoul Ouattara,,20.0,Ivory Coast,Ipswich Town,Defender
+Ben Johnson,,26.0,England,Ipswich Town,Defender
+Cédric Kipré,,29.0,Ivory Coast,Ipswich Town,Defender
+Dara O'Shea,,27.0,Ireland,Ipswich Town,Defender
+Darnell Furlong,,30.0,England,Ipswich Town,Defender
+Issa Diop,,29.0,Morocco,Ipswich Town,Defender
+Jacob Greaves,,25.0,England,Ipswich Town,Defender
+Leif Davis,,26.0,England,Ipswich Town,Defender
+Ali Al-Hamadi,,24.0,Iraq,Ipswich Town,Forward
+Chuba Akpom,,30.0,England,Ipswich Town,Forward
+Emersonn Correia da Silva,,22.0,Brazil,Ipswich Town,Forward
+George Hirst,,27.0,Scotland,Ipswich Town,Forward
+Sindre Walle Egeli,,20.0,Norway,Ipswich Town,Forward
+Alex Palmer,,30.0,England,Ipswich Town,Goalkeeper
+Christian Walton,,30.0,England,Ipswich Town,Goalkeeper
+David Button,,37.0,England,Ipswich Town,Goalkeeper
+Kayne van Oevelen,,23.0,Netherlands,Ipswich Town,Goalkeeper
+Kjell Scherpen,,26.0,Netherlands,Ipswich Town,Goalkeeper
+Abdul Fatawu,,22.0,Ghana,Ipswich Town,Midfielder
+Anis Mehmeti,,25.0,Albania,Ipswich Town,Midfielder
+Azor Matusiwa,,28.0,Netherlands,Ipswich Town,Midfielder
+Chiedozie Ogbene,,29.0,Ireland,Ipswich Town,Midfielder
+Daizen Maeda,,28.0,Japan,Ipswich Town,Midfielder
+Florentino Ibrain Morris Luís,,27.0,Portugal,Ipswich Town,Midfielder
+Jack Clarke,,25.0,England,Ipswich Town,Midfielder
+Jack Taylor,,28.0,Ireland,Ipswich Town,Midfielder
+Jaden Philogene,,24.0,England,Ipswich Town,Midfielder
+Julio Enciso,,22.0,Paraguay,Ipswich Town,Midfielder
+Kasey McAteer,,24.0,Ireland,Ipswich Town,Midfielder
+Marcelino Núñez,,26.0,Chile,Ipswich Town,Midfielder
+Sam Szmodics,,30.0,Ireland,Ipswich Town,Midfielder
+Saša Lukić,,30.0,Serbia,Ipswich Town,Midfielder
+Wes Burns,,31.0,Wales,Ipswich Town,Midfielder
+Gabriel Gudmundsson,,27.0,Sweden,Leeds,Defender
+Jaka Bijol,,27.0,Slovenia,Leeds,Defender
+James Justin,,28.0,England,Leeds,Defender
+Jayden Bogle,,26.0,England,Leeds,Defender
+Joe Rodon,,28.0,Wales,Leeds,Defender
+Nico Elvedi,,29.0,Switzerland,Leeds,Defender
+Sebastiaan Bornauw,,27.0,Belgium,Leeds,Defender
+Tarik Muharemović,,23.0,Bosnia-Herzegovina,Leeds,Defender
+Dominic Calvert-Lewin,,29.0,England,Leeds,Forward
+Joël Piroe,,27.0,Suriname,Leeds,Forward
+Lukas Nmecha,,27.0,Germany,Leeds,Forward
+Mateo Joseph Fernández-Regatillo,,22.0,Spain,Leeds,Forward
+James Trafford,,23.0,England,Leeds,Goalkeeper
+Lucas Estella Perri,,28.0,Brazil,Leeds,Goalkeeper
+Anton Stach,,27.0,Germany,Leeds,Midfielder
+Brenden Aaronson,,25.0,USA,Leeds,Midfielder
+Daniel James,,28.0,Wales,Leeds,Midfielder
+Ethan Ampadu,,25.0,Wales,Leeds,Midfielder
+Harry Wilson,,29.0,Wales,Leeds,Midfielder
+Ilia Gruev,,26.0,Bulgaria,Leeds,Midfielder
+Jack Harrison,,29.0,England,Leeds,Midfielder
+Noah Okafor,,26.0,Switzerland,Leeds,Midfielder
+Sean Longstaff,,28.0,England,Leeds,Midfielder
+Tanaka Ao,,27.0,Japan,Leeds,Midfielder
+Wilfried Gnonto,,22.0,Italy,Leeds,Midfielder
+Calvin Ramsay,,23.0,Scotland,Liverpool,Defender
+Conor Bradley,,23.0,Northern Ireland,Liverpool,Defender
+Giovanni Leoni,,19.0,Italy,Liverpool,Defender
+Jeremie Frimpong,,25.0,Netherlands,Liverpool,Defender
+Jeremy Jacquet,,21.0,France,Liverpool,Defender
+Joe Gomez,,29.0,England,Liverpool,Defender
+Kostas Tsimikas,,30.0,Greece,Liverpool,Defender
+Milos Kerkez,,22.0,Hungary,Liverpool,Defender
+Ronald Araujo,,27.0,Uruguay,Liverpool,Defender
+Virgil van Dijk,,35.0,Netherlands,Liverpool,Defender
+Wellity Lucky,,,,Liverpool,Defender
+Alexander Isak,,26.0,Sweden,Liverpool,Forward
+Hugo Ekitiké,,24.0,France,Liverpool,Forward
+Jayden Danns,,,,Liverpool,Forward
+Alisson Becker,,33.0,Brazil,Liverpool,Goalkeeper
+Armin Pecsi,,,,Liverpool,Goalkeeper
+Freddie Woodman,,29.0,England,Liverpool,Goalkeeper
+Giorgi Mamardashvili,,25.0,Georgia,Liverpool,Goalkeeper
+Harvey Davies,,22.0,England,Liverpool,Goalkeeper
+Vitezslav Jaros,,25.0,Czech Republic,Liverpool,Goalkeeper
+Alexis Mac Allister,,27.0,Argentina,Liverpool,Midfielder
+Cody Gakpo,,27.0,Netherlands,Liverpool,Midfielder
+Curtis Jones,,25.0,England,Liverpool,Midfielder
+Dominik Szoboszlai,,25.0,Hungary,Liverpool,Midfielder
+Endo Wataru,,33.0,Japan,Liverpool,Midfielder
+Federico Chiesa,,28.0,Italy,Liverpool,Midfielder
+Florian Wirtz,,23.0,Germany,Liverpool,Midfielder
+Harvey Elliott,,23.0,England,Liverpool,Midfielder
+James McConnell,,21.0,England,Liverpool,Midfielder
+Lewis Koumas,,20.0,Wales,Liverpool,Midfielder
+Rio Ngumoha,,17.0,England,Liverpool,Midfielder
+Ryan Gravenberch,,24.0,Netherlands,Liverpool,Midfielder
+Stefan Bajčetić Maquieira,,21.0,Spain,Liverpool,Midfielder
+Trey Nyoni,,19.0,England,Liverpool,Midfielder
+Victor Munoz,,23.0,Spain,Liverpool,Midfielder
+Abdukodir Khusanov,,22.0,Uzbekistan,Man City,Defender
+Joško Gvardiol,,24.0,Croatia,Man City,Defender
+Marc Guéhi,,26.0,England,Man City,Defender
+Matheus Nunes,,27.0,Portugal,Man City,Defender
+Max Alleyne,,21.0,England,Man City,Defender
+Nico O'Reilly,,21.0,England,Man City,Defender
+Rayan Aït-Nouri,,25.0,Algeria,Man City,Defender
+Rico Lewis,,21.0,England,Man City,Defender
+Rúben dos Santos Gato Alves Dias,,29.0,Portugal,Man City,Defender
+Vitor de Oliveira Nunes dos Reis,,20.0,Brazil,Man City,Defender
+Erling Haaland,,26.0,Norway,Man City,Forward
+Omar Marmoush,,27.0,Egypt,Man City,Forward
+Gerónimo Rulli,,34.0,Argentina,Man City,Goalkeeper
+Gianluigi Donnarumma,,27.0,Italy,Man City,Goalkeeper
+Marcus Bettinelli,,34.0,England,Man City,Goalkeeper
+Antoine Semenyo,,26.0,Ghana,Man City,Midfielder
+Claudio Echeverri,,20.0,Argentina,Man City,Midfielder
+Divine Mukasa,,19.0,England,Man City,Midfielder
+Elliot Anderson,,23.0,England,Man City,Midfielder
+Jack Grealish,,30.0,England,Man City,Midfielder
+Jeremy Monga,,17.0,England,Man City,Midfielder
+Jérémy Doku,,24.0,Belgium,Man City,Midfielder
+Kalvin Phillips,,30.0,England,Man City,Midfielder
+Mateo Kovačić,,32.0,Croatia,Man City,Midfielder
+Nico González Iglesias,,24.0,Spain,Man City,Midfielder
+Phil Foden,,26.0,England,Man City,Midfielder
+Rayan Cherki,,23.0,France,Man City,Midfielder
+Rodrigo 'Rodri' Hernandez Cascante,,30.0,Spain,Man City,Midfielder
+Sávio Moreira de Oliveira,,22.0,Brazil,Man City,Midfielder
+Tijjani Reijnders,,28.0,Netherlands,Man City,Midfielder
+Ayden Heaven,,19.0,England,Man Utd,Defender
+Diogo Dalot Teixeira,,27.0,Portugal,Man Utd,Defender
+Harry Amass,,19.0,England,Man Utd,Defender
+Harry Maguire,,33.0,England,Man Utd,Defender
+Leny Yoro,,20.0,France,Man Utd,Defender
+Lisandro Martínez,,28.0,Argentina,Man Utd,Defender
+Luke Shaw,,31.0,England,Man Utd,Defender
+Matthijs de Ligt,,27.0,Netherlands,Man Utd,Defender
+Noussair Mazraoui,,28.0,Morocco,Man Utd,Defender
+Tyler Fredricson,,21.0,England,Man Utd,Defender
+Benjamin Sesko,,23.0,Slovenia,Man Utd,Forward
+Chido Obi,,18.0,Denmark,Man Utd,Forward
+Joshua Zirkzee,,25.0,Netherlands,Man Utd,Forward
+Altay Bayındır,,28.0,Turkey,Man Utd,Goalkeeper
+Karl Darlow,,35.0,Wales,Man Utd,Goalkeeper
+Senne Lammens,,24.0,Belgium,Man Utd,Goalkeeper
+Tom Heaton,,40.0,England,Man Utd,Goalkeeper
+Amad Diallo,,24.0,Ivory Coast,Man Utd,Midfielder
+Andrey Nascimento dos Santos,,22.0,Brazil,Man Utd,Midfielder
+Bendito Mantato,,,,Man Utd,Midfielder
+Bruno Borges Fernandes,,31.0,Portugal,Man Utd,Midfielder
+Bryan Mbeumo,,27.0,Cameroon,Man Utd,Midfielder
+Jack Fletcher,,19.0,England,Man Utd,Midfielder
+Kobbie Mainoo,,21.0,England,Man Utd,Midfielder
+Manuel Ugarte Ribeiro,,25.0,Uruguay,Man Utd,Midfielder
+Marcus Rashford,,28.0,England,Man Utd,Midfielder
+Mason Mount,,27.0,England,Man Utd,Midfielder
+Matheus Santos Carneiro da Cunha,,27.0,Brazil,Man Utd,Midfielder
+Patrick Dorgu,,21.0,Denmark,Man Utd,Midfielder
+Shea Lacey,,19.0,England,Man Utd,Midfielder
+Toby Collyer,,22.0,England,Man Utd,Midfielder
+Tyler Fletcher,,19.0,Scotland,Man Utd,Midfielder
+Youri Tielemans,,29.0,Belgium,Man Utd,Midfielder
+Alex Murphy,,22.0,Ireland,Newcastle,Defender
+Amar Dedic,,24.0,Bosnia-Herzegovina,Newcastle,Defender
+Dan Burn,,34.0,England,Newcastle,Defender
+Fabian Schär,,34.0,Switzerland,Newcastle,Defender
+Lewis Hall,,21.0,England,Newcastle,Defender
+Malick Thiaw,,25.0,Germany,Newcastle,Defender
+Sven Botman,,26.0,Netherlands,Newcastle,Defender
+Tino Livramento,,23.0,England,Newcastle,Defender
+Nick Woltemade,,24.0,Germany,Newcastle,Forward
+Sean Neave,,19.0,England,Newcastle,Forward
+William Osula,,23.0,Denmark,Newcastle,Forward
+Yoane Wissa,,29.0,"Congo, Democratic Republic of",Newcastle,Forward
+Ewen Jaouen,,20.0,France,Newcastle,Goalkeeper
+Lukás Hornícek,,24.0,Czech Republic,Newcastle,Goalkeeper
+Mark Gillespie,,34.0,England,Newcastle,Goalkeeper
+Nick Pope,,34.0,England,Newcastle,Goalkeeper
+Aladji Bamba,,20.0,France,Newcastle,Midfielder
+Anthony Elanga,,24.0,Sweden,Newcastle,Midfielder
+Bazoumana Touré,,20.0,Ivory Coast,Newcastle,Midfielder
+Harvey Barnes,,28.0,England,Newcastle,Midfielder
+Jacob Murphy,,31.0,England,Newcastle,Midfielder
+Jacob Ramsey,,25.0,England,Newcastle,Midfielder
+Joe Willock,,27.0,England,Newcastle,Midfielder
+Joelinton Cássio Apolinário de Lira,,30.0,Brazil,Newcastle,Midfielder
+Lewis Miley,,20.0,England,Newcastle,Midfielder
+Sean Steur,,18.0,Netherlands,Newcastle,Midfielder
+Felipe Rodrigues da Silva,,25.0,Brazil,Nott'm Forest,Defender
+Jair Paula da Cunha Filho,,21.0,Brazil,Nott'm Forest,Defender
+Luca Netz,,23.0,Germany,Nott'm Forest,Defender
+Murillo Costa dos Santos,,24.0,Brazil,Nott'm Forest,Defender
+Neco Williams,,25.0,Wales,Nott'm Forest,Defender
+Nicolò Savona,,23.0,Italy,Nott'm Forest,Defender
+Nikola Milenković,,28.0,Serbia,Nott'm Forest,Defender
+Ola Aina,,29.0,Nigeria,Nott'm Forest,Defender
+Omar Richards,,28.0,England,Nott'm Forest,Defender
+Ousmane Diomande,,22.0,Ivory Coast,Nott'm Forest,Defender
+Tyler Bindon,,21.0,New Zealand,Nott'm Forest,Defender
+Zach Abbott,,20.0,England,Nott'm Forest,Defender
+Arnaud Kalimuendo,,24.0,France,Nott'm Forest,Forward
+Chris Wood,,34.0,New Zealand,Nott'm Forest,Forward
+Igor Jesus Maciel da Cruz,,25.0,Brazil,Nott'm Forest,Forward
+John Victor Maciel Furtado,,30.0,Brazil,Nott'm Forest,Goalkeeper
+Matz Sels,,34.0,Belgium,Nott'm Forest,Goalkeeper
+Steven Benda,,27.0,Germany,Nott'm Forest,Goalkeeper
+Callum Hudson-Odoi,,25.0,England,Nott'm Forest,Midfielder
+Dan Ndoye,,25.0,Switzerland,Nott'm Forest,Midfielder
+Dilane Bakwa,,23.0,France,Nott'm Forest,Midfielder
+Ibrahim Sangaré,,28.0,Ivory Coast,Nott'm Forest,Midfielder
+James McAtee,,23.0,England,Nott'm Forest,Midfielder
+Morgan Gibbs-White,,26.0,England,Nott'm Forest,Midfielder
+Nicolás Domínguez,,28.0,Argentina,Nott'm Forest,Midfielder
+Omari Hutchinson,,22.0,England,Nott'm Forest,Midfielder
+Ryan Yates,,28.0,England,Nott'm Forest,Midfielder
+Xaver Schlager,,28.0,Austria,Nott'm Forest,Midfielder
+Andrew Robertson,,32.0,Scotland,Spurs,Defender
+Ashley Phillips,,21.0,England,Spurs,Defender
+Ben Davies,,33.0,Wales,Spurs,Defender
+Cristian Romero,,28.0,Argentina,Spurs,Defender
+Destiny Udogie,,23.0,Italy,Spurs,Defender
+Djed Spence,,26.0,England,Spurs,Defender
+James Rowswell,,,,Spurs,Defender
+Jan Paul van Hecke,,26.0,Netherlands,Spurs,Defender
+João Victor de Souza Menezes,,20.0,Brazil,Spurs,Defender
+Jun'ai Byfield,,,,Spurs,Defender
+Kevin Danso,,27.0,Austria,Spurs,Defender
+Marcos Senesi Barón,,29.0,Argentina,Spurs,Defender
+Micky van de Ven,,25.0,Netherlands,Spurs,Defender
+Pedro Porro Sauceda,,26.0,Spain,Spurs,Defender
+Dane Scarlett,,22.0,England,Spurs,Forward
+Dominic Solanke-Mitchell,,28.0,England,Spurs,Forward
+Richarlison de Andrade,,29.0,Brazil,Spurs,Forward
+Antonín Kinský,,23.0,Czech Republic,Spurs,Goalkeeper
+Brandon Austin,,27.0,England,Spurs,Goalkeeper
+Guglielmo Vicario,,29.0,Italy,Spurs,Goalkeeper
+Martin Dubravka,,37.0,Slovakia,Spurs,Goalkeeper
+Archie Gray,,20.0,England,Spurs,Midfielder
+Callum Olusesi,,,,Spurs,Midfielder
+Conor Gallagher,,26.0,England,Spurs,Midfielder
+Dejan Kulusevski,,26.0,Sweden,Spurs,Midfielder
+James Maddison,,29.0,England,Spurs,Midfielder
+Lucas Bergvall,,20.0,Sweden,Spurs,Midfielder
+Mateus Fernandes,,22.0,Portugal,Spurs,Midfielder
+Mathys Tel,,21.0,France,Spurs,Midfielder
+Mikey Moore,,19.0,England,Spurs,Midfielder
+Mohammed Kudus,,26.0,Ghana,Spurs,Midfielder
+Pape Matar Sarr,,23.0,Senegal,Spurs,Midfielder
+Rodrigo Bentancur,,29.0,Uruguay,Spurs,Midfielder
+Sandro Tonali,,26.0,Italy,Spurs,Midfielder
+Wilson Odobert,,21.0,France,Spurs,Midfielder
+Xavi Simons,,23.0,Netherlands,Spurs,Midfielder
+Arthur Masuaku,,32.0,"Congo, Democratic Republic of",Sunderland,Defender
+Daniel Ballard,,26.0,Northern Ireland,Sunderland,Defender
+Jenson Seelt,,23.0,Netherlands,Sunderland,Defender
+Leo Fuhr Hjelde,,22.0,Norway,Sunderland,Defender
+Luke O'Nien,,31.0,England,Sunderland,Defender
+Nordi Mukiele,,28.0,France,Sunderland,Defender
+Omar Alderete,,29.0,Paraguay,Sunderland,Defender
+Reinildo Mandava,,32.0,Mozambique,Sunderland,Defender
+Thomas Meunier,,34.0,Belgium,Sunderland,Defender
+Trai Hume,,24.0,Northern Ireland,Sunderland,Defender
+Brian Brobbey,,24.0,Netherlands,Sunderland,Forward
+Wilson Isidor,,25.0,Haiti,Sunderland,Forward
+Anthony Patterson,,26.0,England,Sunderland,Goalkeeper
+Melker Ellborg,,23.0,Sweden,Sunderland,Goalkeeper
+Robin Roefs,,23.0,Netherlands,Sunderland,Goalkeeper
+Chemsdine Talbi,,21.0,Morocco,Sunderland,Midfielder
+Chris Rigg,,19.0,England,Sunderland,Midfielder
+Djiamgone Jocelin Ta Bi,,21.0,Ivory Coast,Sunderland,Midfielder
+Enzo Le Fée,,26.0,France,Sunderland,Midfielder
+Granit Xhaka,,33.0,Switzerland,Sunderland,Midfielder
+Habib Diarra,,22.0,Senegal,Sunderland,Midfielder
+Nilson Angulo,,23.0,Ecuador,Sunderland,Midfielder
+Noah Sadiki,,21.0,"Congo, Democratic Republic of",Sunderland,Midfielder
+Romaine Mundle,,23.0,England,Sunderland,Midfielder
+Simon Adingra,,24.0,Ivory Coast,Sunderland,Midfielder
