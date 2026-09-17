@@ -1,0 +1,101 @@
+brand,model,launch_year,country,body_type,segment,engine_cc,horsepower,fuel_type,transmission,drivetrain,seating_capacity,price_USD,is_alive
+Toyota,Corolla,1966,Japan,Sedan,Compact,1798,169,Petrol-Hybrid,CVT,FWD,5,23000,Yes
+Toyota,Camry,1982,Japan,Sedan,Mid-size,2487,225,Petrol-Hybrid,CVT,FWD,5,29000,Yes
+Toyota,RAV4,1994,Japan,SUV,Compact SUV,2487,203,Petrol,Automatic,AWD,5,30000,Yes
+Toyota,Land Cruiser,1951,Japan,SUV,Full-size SUV,3346,326,Diesel,Automatic,4WD,7,57000,Yes
+Toyota,Supra,1978,Japan,Coupe,Sports,2998,382,Petrol,Automatic,RWD,2,57000,Yes
+Honda,Civic,1972,Japan,Sedan,Compact,1996,158,Petrol,CVT,FWD,5,25000,Yes
+Honda,CR-V,1995,Japan,SUV,Compact SUV,1993,204,Petrol-Hybrid,CVT,AWD,5,31000,Yes
+Honda,NSX,1990,Japan,Coupe,Supercar,3493,573,Petrol-Hybrid,Automatic,AWD,2,171000,No
+Ford,Mustang,1964,USA,Coupe,Muscle,5038,486,Petrol,Automatic,RWD,4,33000,Yes
+Ford,F-150,1975,USA,Pickup,Full-size Truck,3496,400,Petrol,Automatic,4WD,5,38000,Yes
+Ford,Bronco,1965,USA,SUV,Off-road SUV,2261,300,Petrol,Automatic,4WD,5,41000,Yes
+Chevrolet,Camaro,1966,USA,Coupe,Muscle,6162,455,Petrol,Manual,RWD,4,32000,No
+Chevrolet,Corvette,1953,USA,Coupe,Sports,6162,495,Petrol,DCT,RWD,2,70000,Yes
+Chevrolet,Silverado,1998,USA,Pickup,Full-size Truck,5328,355,Petrol,Automatic,4WD,6,39000,Yes
+Volkswagen,Golf,1974,Germany,Hatchback,Compact,1498,148,Petrol,DSG,FWD,5,27000,Yes
+Volkswagen,Beetle,1938,Germany,Coupe,Compact,1984,174,Petrol,Automatic,FWD,4,21000,No
+Volkswagen,ID.4,2020,Germany,SUV,Compact SUV,0,282,Electric,Single-Speed,AWD,5,41000,Yes
+BMW,3 Series,1975,Germany,Sedan,Compact Executive,1998,255,Petrol,Automatic,RWD,5,45000,Yes
+BMW,X5,1999,Germany,SUV,Mid-size SUV,2998,375,Petrol,Automatic,AWD,5,67000,Yes
+BMW,M3,1986,Germany,Sedan,Performance,2993,473,Petrol,Manual,RWD,5,77000,Yes
+Mercedes-Benz,C-Class,1993,Germany,Sedan,Compact Executive,1999,255,Petrol,Automatic,RWD,5,48000,Yes
+Mercedes-Benz,S-Class,1972,Germany,Sedan,Luxury,2999,429,Petrol,Automatic,AWD,5,118000,Yes
+Mercedes-Benz,G-Class,1979,Germany,SUV,Off-road SUV,3982,577,Petrol,Automatic,4WD,5,148000,Yes
+Mercedes-Benz,EQS,2021,Germany,Sedan,Luxury EV,0,516,Electric,Single-Speed,AWD,5,105000,Yes
+Audi,A4,1994,Germany,Sedan,Compact Executive,1984,201,Petrol,Automatic,AWD,5,42000,Yes
+Audi,R8,2006,Germany,Coupe,Supercar,5204,562,Petrol,Automatic,AWD,2,160000,No
+Audi,e-tron GT,2021,Germany,Sedan,Performance EV,0,522,Electric,Two-Speed,AWD,4,107000,Yes
+Porsche,911,1963,Germany,Coupe,Sports,2981,388,Petrol,PDK,RWD,4,116000,Yes
+Porsche,Cayenne,2002,Germany,SUV,Mid-size SUV,2995,348,Petrol,Automatic,AWD,5,81000,Yes
+Porsche,Taycan,2019,Germany,Sedan,Performance EV,0,429,Electric,Two-Speed,RWD,4,101000,Yes
+Nissan,GT-R,2007,Japan,Coupe,Supercar,3799,565,Petrol,DCT,AWD,4,122000,No
+Nissan,X-Trail,2000,Japan,SUV,Compact SUV,1497,201,Petrol-Hybrid,CVT,AWD,7,30000,Yes
+Nissan,Leaf,2010,Japan,Hatchback,Compact EV,0,147,Electric,Single-Speed,FWD,5,29000,Yes
+Hyundai,Tucson,2004,South Korea,SUV,Compact SUV,1598,231,Petrol-Hybrid,Automatic,AWD,5,29000,Yes
+Hyundai,Creta,2014,South Korea,SUV,Subcompact SUV,1497,113,Petrol,CVT,FWD,5,15000,Yes
+Hyundai,Ioniq 5,2021,South Korea,SUV,Compact EV,0,320,Electric,Single-Speed,AWD,5,44000,Yes
+Kia,Seltos,2019,South Korea,SUV,Subcompact SUV,1482,158,Petrol,DCT,FWD,5,16000,Yes
+Kia,Sportage,1993,South Korea,SUV,Compact SUV,1598,227,Petrol-Hybrid,Automatic,AWD,5,28000,Yes
+Kia,EV6,2021,South Korea,SUV,Compact EV,0,320,Electric,Single-Speed,AWD,5,43000,Yes
+Genesis,G80,2016,South Korea,Sedan,Luxury,2497,300,Petrol,Automatic,AWD,5,58000,Yes
+Mazda,MX-5 Miata,1989,Japan,Convertible,Roadster,1998,181,Petrol,Manual,RWD,2,30000,Yes
+Mazda,CX-5,2012,Japan,SUV,Compact SUV,2488,187,Petrol,Automatic,AWD,5,29000,Yes
+Mazda,RX-8,2003,Japan,Coupe,Sports,1308,232,Petrol,Manual,RWD,4,27000,No
+Subaru,WRX,1992,Japan,Sedan,Performance,2387,271,Petrol,Manual,AWD,5,33000,Yes
+Subaru,BRZ,2012,Japan,Coupe,Sports,2387,228,Petrol,Manual,RWD,4,31000,Yes
+Mitsubishi,Lancer Evolution,1992,Japan,Sedan,Performance,1998,291,Petrol,Manual,AWD,5,38000,No
+Mitsubishi,Outlander,2001,Japan,SUV,Mid-size SUV,2360,248,Petrol-Hybrid,CVT,AWD,7,30000,Yes
+Lexus,LC 500,2017,Japan,Coupe,Grand Tourer,4969,471,Petrol,Automatic,RWD,4,99000,Yes
+Suzuki,Swift,2004,Japan,Hatchback,Subcompact,1197,89,Petrol,Manual,FWD,5,11000,Yes
+Suzuki,Jimny,1970,Japan,SUV,Off-road SUV,1462,101,Petrol,Manual,4WD,4,21000,Yes
+Tata,Nexon,2017,India,SUV,Subcompact SUV,1199,118,Petrol,Manual,FWD,5,11000,Yes
+Tata,Nano,2008,India,Hatchback,City Car,624,37,Petrol,Manual,RWD,4,3000,No
+Mahindra,XUV700,2021,India,SUV,Mid-size SUV,2198,197,Petrol,Automatic,FWD,7,17000,Yes
+Maruti Suzuki,Alto,2000,India,Hatchback,City Car,796,47,Petrol,Manual,FWD,5,5000,Yes
+Renault,Clio,1990,France,Hatchback,Subcompact,999,89,Petrol,Manual,FWD,5,21000,Yes
+Renault,Duster,2010,France,SUV,Compact SUV,1330,154,Petrol,Manual,FWD,5,15000,Yes
+Peugeot,3008,2008,France,SUV,Compact SUV,1598,222,Petrol-Hybrid,Automatic,FWD,5,36000,Yes
+Bugatti,Chiron,2016,France,Coupe,Hypercar,7993,1479,Petrol,DCT,AWD,2,3000000,No
+Dacia,Sandero,2008,Romania,Hatchback,Subcompact,999,89,Petrol,Manual,FWD,5,14000,Yes
+Fiat,500,1957,Italy,Hatchback,City Car,999,69,Petrol,Manual,FWD,4,20000,Yes
+Ferrari,SF90 Stradale,2019,Italy,Coupe,Hypercar,3990,986,Petrol-Hybrid,DCT,AWD,2,524000,Yes
+Lamborghini,Huracan,2014,Italy,Coupe,Supercar,5204,631,Petrol,DCT,AWD,2,249000,No
+Lamborghini,Urus,2018,Italy,SUV,Performance SUV,3996,657,Petrol,Automatic,AWD,5,241000,Yes
+Maserati,MC20,2020,Italy,Coupe,Supercar,3000,621,Petrol,DCT,RWD,2,242000,Yes
+Alfa Romeo,Giulia,2015,Italy,Sedan,Compact Executive,1995,280,Petrol,Automatic,RWD,5,45000,Yes
+Volvo,XC90,2002,Sweden,SUV,Full-size SUV,1969,455,Petrol-Hybrid,Automatic,AWD,7,58000,Yes
+Polestar,2,2019,Sweden,Sedan,Compact EV,0,299,Electric,Single-Speed,RWD,5,50000,Yes
+Saab,9-3,1998,Sweden,Sedan,Compact Executive,1998,207,Petrol,Manual,FWD,5,29000,No
+Jaguar,F-Type,2013,UK,Coupe,Sports,4999,575,Petrol,Automatic,RWD,2,74000,No
+Jaguar,I-Pace,2018,UK,SUV,Compact EV,0,394,Electric,Single-Speed,AWD,5,72000,No
+Land Rover,Defender,1983,UK,SUV,Off-road SUV,2996,395,Petrol-Hybrid,Automatic,4WD,7,58000,Yes
+Land Rover,Range Rover,1970,UK,SUV,Luxury SUV,4395,523,Petrol,Automatic,4WD,5,108000,Yes
+Mini,Cooper,2001,UK,Hatchback,Subcompact,1998,201,Petrol,Automatic,FWD,4,32000,Yes
+McLaren,720S,2017,UK,Coupe,Supercar,3994,710,Petrol,DCT,RWD,2,299000,No
+Aston Martin,DB11,2016,UK,Coupe,Grand Tourer,3982,528,Petrol,Automatic,RWD,4,205000,No
+Bentley,Continental GT,2003,UK,Coupe,Grand Tourer,3996,542,Petrol,DCT,AWD,4,240000,Yes
+Rolls-Royce,Phantom,1925,UK,Sedan,Ultra Luxury,6749,563,Petrol,Automatic,RWD,5,460000,Yes
+Rolls-Royce,Cullinan,2018,UK,SUV,Ultra Luxury SUV,6749,563,Petrol,Automatic,AWD,5,391000,Yes
+Skoda,Octavia,1996,Czech Republic,Sedan,Compact,1498,148,Petrol,DSG,FWD,5,28000,Yes
+Smart,Fortwo,1998,Germany,Hatchback,City Car,898,89,Petrol,Automatic,RWD,2,18000,No
+Jeep,Wrangler,1986,USA,SUV,Off-road SUV,1995,270,Petrol,Automatic,4WD,5,35000,Yes
+Jeep,Grand Cherokee,1992,USA,SUV,Mid-size SUV,3604,293,Petrol,Automatic,4WD,5,40000,Yes
+Dodge,Challenger,1970,USA,Coupe,Muscle,6417,485,Petrol,Manual,RWD,5,40000,No
+Dodge,Viper,1991,USA,Coupe,Sports,8382,645,Petrol,Manual,RWD,2,95000,No
+Cadillac,Escalade,1998,USA,SUV,Luxury SUV,6162,420,Petrol,Automatic,4WD,8,84000,Yes
+Hummer,H2,2002,USA,SUV,Full-size SUV,6162,393,Petrol,Automatic,4WD,6,55000,No
+Pontiac,Firebird,1967,USA,Coupe,Muscle,5666,325,Petrol,Manual,RWD,4,27000,No
+Tesla,Model S,2012,USA,Sedan,Luxury EV,0,670,Electric,Single-Speed,AWD,5,80000,Yes
+Tesla,Model 3,2017,USA,Sedan,Compact EV,0,283,Electric,Single-Speed,RWD,5,42000,Yes
+Tesla,Model X,2015,USA,SUV,Luxury EV,0,670,Electric,Single-Speed,AWD,7,85000,Yes
+Tesla,Model Y,2020,USA,SUV,Compact EV,0,384,Electric,Single-Speed,AWD,5,46000,Yes
+Rivian,R1T,2021,USA,Pickup,Electric Truck,0,533,Electric,Single-Speed,AWD,5,71000,Yes
+Lucid,Air,2021,USA,Sedan,Luxury EV,0,819,Electric,Single-Speed,AWD,5,78000,Yes
+BYD,Atto 3,2022,China,SUV,Compact EV,0,201,Electric,Single-Speed,FWD,5,32000,Yes
+BYD,Han,2020,China,Sedan,Executive EV,0,494,Electric,Single-Speed,AWD,5,45000,Yes
+NIO,ES8,2018,China,SUV,Luxury EV,0,644,Electric,Single-Speed,AWD,7,68000,Yes
+Haval,H6,2011,China,SUV,Compact SUV,1998,201,Petrol,DCT,FWD,5,21000,Yes
+SsangYong,Rexton,2001,South Korea,SUV,Mid-size SUV,2157,199,Diesel,Automatic,4WD,7,38000,Yes
+Lada,Niva,1977,Russia,SUV,Off-road SUV,1690,83,Petrol,Manual,4WD,5,12000,Yes
+Holden,Commodore,1978,Australia,Sedan,Mid-size,3564,281,Petrol,Automatic,RWD,5,32000,No
