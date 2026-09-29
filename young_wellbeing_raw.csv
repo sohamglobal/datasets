@@ -1,0 +1,201 @@
+respondent_id,age,gender,state,city,area_type,education,employment_status,income_level,relationship_status,living_arrangement,work_hours_week,study_hours_week,sleep_hours,exercise_days_week,screen_time_hours_day,social_media_hours_day,financial_stress,academic_work_stress,loneliness_level,family_support,social_support,job_satisfaction,stress_score,anxiety_score,wellbeing_score,life_satisfaction,mental_health_support,willing_to_seek_help,mental_health_stigma
+YP1001,24,Male,Telangana,Hyderabad,Urban,Graduate,Self-employed,Lower-middle,Single,With family,33,4,6.2,7,7.6,2.1,Moderate,Low,Moderate,High,Moderate,1.0,24.0,10,64.0,6.0,No,Yes,Very High
+YP1002,20,Male,Uttar Pradesh,Lucknow,Semi-urban,Postgraduate,Student,Middle,Single,With family,16,16,5.8,3,7.2,1.3,Low,High,Low,High,Moderate,,28.0,21,51.0,6.0,No,Yes,Low
+YP1003,22,Male,Tamil Nadu,Madurai,Rural,Graduate,Unemployed,Lower-middle,Single,With family,23,15,7.7,4,8.9,3.1,Very High,High,Moderate,Low,Moderate,,34.0,23,56.0,4.0,No,Yes,Very High
+YP1004,27,Male,Karnataka,Mangaluru,Urban,Graduate,Student,Low,Single,With family,24,21,7.8,4,9.3,2.8,Moderate,Moderate,High,Moderate,Low,,24.0,22,58.0,6.0,No,Yes,High
+YP1005,24,Male,Kerala,Thiruvananthapuram,Urban,Graduate,Student,Lower-middle,In relationship,Shared accommodation,18,20,5.1,2,6.2,1.5,Low,Low,Moderate,Moderate,Low,,18.0,17,36.0,4.0,Yes,No,Moderate
+YP1006,23,female,Maharashtra,Nagpur,Urban,Graduate,Employed,Middle,Single,Alone,52,1,6.9,7,9.0,1.5,Moderate,Moderate,Moderate,High,Low,1.0,23.0,15,63.0,7.0,Yes,Yes,High
+YP1007,24,Female,Karnataka,Mangaluru,Urban,Postgraduate,Employed,Low,Single,With family,50,0,7.0,3,10.2,2.9,Very High,Low,Low,High,High,4.0,35.0,18,61.0,6.0,Yes,No,High
+YP1008,26,Male,Uttar Pradesh,Lucknow,Urban,Graduate,Student,Middle,In relationship,With family,20,14,,4,6.1,1.2,High,High,Moderate,High,Moderate,,19.0,19,65.0,7.0,No,No,Moderate
+YP1009,29,Female,Uttar Pradesh,Varanasi,Rural,Graduate,Student,Middle,In relationship,With family,17,23,7.4,3,6.4,3.5,Very High,High,Moderate,Moderate,High,,30.0,13,57.0,6.0,No,Yes,Low
+YP1010,24,Female,Maharashtra,Amravati,Semi-urban,Graduate,Unemployed,Middle,In relationship,With family,18,15,6.0,2,8.7,0.8,Low,Low,Moderate,Moderate,Low,,20.0,21,35.0,5.0,No,Yes,Low
+YP1011,27,Male,Maharashtra,Mumbai,Semi-urban,Graduate,Unemployed,Low,Single,Shared accommodation,23,0,9.3,6,11.4,2.6,Moderate,Moderate,Low,Moderate,Low,,16.0,21,63.0,5.0,Yes,Yes,Very High
+YP1012,24,Male,Uttar Pradesh,Kanpur,Urban,12th/School,Self-employed,Middle,Single,With family,38,2,6.4,6,6.7,5.4,Low,Moderate,Moderate,Moderate,Moderate,7.0,15.0,21,73.0,7.0,No,Yes,Very High
+YP1013,23,Female,Telangana,Warangal,Urban,Diploma,Employed,Upper-middle,In relationship,Alone,47,16,6.0,3,5.2,3.2,Low,Low,High,Low,High,9.0,19.0,30,48.0,5.0,Yes,Yes,Very High
+YP1014,26,Female,West Bengal,Kolkata,Urban,Diploma,Self-employed,Lower-middle,Single,Shared accommodation,40,0,7.1,6,9.1,3.9,Low,High,Moderate,High,Moderate,3.0,19.0,19,64.0,7.0,No,Yes,Moderate
+YP1015,22,Female,Rajasthan,Kota,Semi-urban,12th/School,Self-employed,Middle,Single,Alone,51,6,5.8,3,6.5,4.0,High,High,Moderate,Moderate,Moderate,10.0,31.0,20,39.0,4.0,No,No,Moderate
+YP1016,21,Female,Tamil Nadu,Chennai,Urban,Graduate,Employed,Middle,Single,With family,27,0,6.2,1,5.6,2.7,Low,Low,Moderate,High,High,9.0,13.0,14,59.0,6.0,No,Yes,Very High
+YP1017,23,Female,Madhya Pradesh,Indore,Urban,Graduate,Student,Low,Single,With family,9,34,7.1,1,7.7,5.9,Moderate,Low,Moderate,Moderate,High,,22.0,11,61.0,7.0,Yes,No,High
+YP1018,22,Male,Uttar Pradesh,Kanpur,Semi-urban,Postgraduate,Looking for job,Low,Single,With family,27,10,5.5,6,9.9,2.3,High,Low,Low,Low,Low,,30.0,17,48.0,5.0,No,Yes,High
+YP1019,18,F,Karnataka,Mysuru,Rural,Graduate,Student,Lower-middle,Married,Shared accommodation,17,18,8.1,1,7.0,3.0,High,High,Moderate,Low,Low,,32.0,18,52.0,4.0,Yes,Yes,Moderate
+YP1020,28,Female,Maharashtra,Mumbai,Semi-urban,Graduate,Employed,Upper-middle,Single,Alone,48,15,7.4,1,7.2,3.9,Moderate,Moderate,Very High,Moderate,Moderate,3.0,22.0,30,42.0,5.0,No,Yes,High
+YP1021,20,Prefer not to say,Gujarat,Surat,Rural,Graduate,Employed,Upper-middle,Single,With family,42,4,4.3,5,8.4,2.9,High,Low,High,High,Low,1.0,28.0,30,35.0,3.0,Yes,Yes,Moderate
+YP1022,25,Male,Rajasthan,Udaipur,Urban,Diploma,Student,,In relationship,Shared accommodation,23,12,4.9,7,5.5,0.8,Low,Moderate,Low,Moderate,Low,,15.0,20,52.0,6.0,No,Yes,Moderate
+YP1023,25,Male,Tamil Nadu,Madurai,Urban,Graduate,Student,Middle,Single,With family,18,23,6.3,5,6.7,2.5,High,Low,High,Low,High,,22.0,24,58.0,6.0,No,No,High
+YP1024,20,Male,Telangana,Hyderabad,Rural,Graduate,Looking for job,Lower-middle,In relationship,Alone,22,15,7.5,5,4.6,3.2,Moderate,Moderate,Low,Moderate,Low,,18.0,8,63.0,5.0,No,Yes,Moderate
+YP1025,18,Female,Kerala,Kochi,Urban,Postgraduate,Employed,High,Single,With family,43,10,7.3,3,8.8,2.4,High,Moderate,Moderate,Moderate,High,9.0,28.0,17,69.0,7.0,No,Yes,Moderate
+YP1026,18,Female,Tamil Nadu,Coimbatore,Urban,Graduate,Student,Middle,Single,With family,20,29,6.5,3,8.4,4.5,Moderate,High,High,Moderate,Moderate,,30.0,19,56.0,5.0,No,No,Moderate
+YP1027,21,Female,Gujarat,Ahmedabad,Semi-urban,Graduate,Employed,Middle,Single,Shared accommodation,42,6,8.6,2,8.4,1.3,Very High,Moderate,Moderate,Moderate,High,10.0,29.0,17,77.0,8.0,No,No,Moderate
+YP1028,25,Female,Uttar Pradesh,Noida,Urban,12th/School,Employed,Low,Single,Shared accommodation,42,2,6.2,3,7.3,4.3,High,Moderate,Low,Moderate,High,5.0,23.0,17,61.0,6.0,No,Yes,Moderate
+YP1029,28,Female,Maharashtra,Nagpur,Urban,Graduate,Student,Low,Single,With family,10,29,6.0,0,5.7,2.4,Low,Very High,Moderate,High,Low,,16.0,15,51.0,5.0,Yes,Yes,Moderate
+YP1030,20,Female,Gujarat,Surat,Rural,Graduate,Employed,Middle,Single,With family,43,0,5.8,5,10.5,3.0,Very High,High,High,Moderate,Moderate,3.0,40.0,24,41.0,4.0,No,Yes,Low
+YP1031,28,Non-binary,Punjab,Amritsar,Urban,Graduate,Student,Lower-middle,Single,Alone,24,25,8.2,0,9.4,2.1,Moderate,Moderate,Moderate,Moderate,High,,29.0,23,47.0,3.0,No,No,Low
+YP1032,28,Female,Kerala,Kochi,Urban,12th/School,Employed,Lower-middle,Single,Alone,36,3,6.2,2,4.8,2.5,Very High,Moderate,High,High,Moderate,10.0,29.0,24,59.0,6.0,No,Yes,Low
+YP1033,23, MALE ,Rajasthan,Kota,Urban,Graduate,Employed,Middle,In relationship,With family,37,19,7.1,0,6.9,3.1,Moderate,Moderate,Moderate,Moderate,High,7.0,21.0,20,56.0,6.0,Yes,Yes,Moderate
+YP1034,20,Female,Kerala,Kochi,Rural,Diploma,Looking for job,Middle,Single,With family,16,0,4.7,4,5.8,5.3,Moderate,High,High,High,Moderate,,22.0,30,39.0,4.0,No,No,High
+YP1035,22,Female,Uttar Pradesh,Noida,Urban,Graduate,Student,Lower-middle,Prefer not to say,Hostel,26,23,7.2,1,6.7,4.7,High,Low,Moderate,,High,,27.0,12,69.0,6.0,No,Yes,Moderate
+YP1036,25,Female,West Bengal,Kolkata,Urban,Graduate,Student,Upper-middle,Single,With family,45,27,6.8,2,7.1,2.0,High,Moderate,Moderate,Low,Moderate,,36.0,19,43.0,4.0,Yes,No,High
+YP1037,18,Male,Madhya Pradesh,Indore,Rural,Graduate,Student,Low,Prefer not to say,Shared accommodation,23,9,7.6,1,7.7,4.4,Moderate,Low,Low,Moderate,Moderate,,27.0,11,61.0,7.0,No,Yes,High
+YP1038,30,Female,West Bengal,Siliguri,Rural,12th/School,Employed,Upper-middle,Single,With family,36,10,7.1,7,9.2,3.1,Moderate,Low,Low,High,Low,2.0,15.0,15,63.0,7.0,No,Yes,High
+YP1039,25,Male,West Bengal,Kolkata,Semi-urban,Postgraduate,Unemployed,Middle,In relationship,Shared accommodation,26,12,7.9,6,9.9,1.5,Very High,Very High,Moderate,High,Low,,34.0,17,61.0,7.0,Yes,Yes,Low
+YP1040,18,Male,Maharashtra,Amravati,Urban,Postgraduate,Student,Low,Single,With family,21,31,6.4,3,8.6,3.1,Low,Very High,High,Low,Moderate,,23.0,26,36.0,4.0,No,Yes,High
+YP1041,28,Female,Maharashtra,Nashik,Urban,12th/School,Student,Lower-middle,Single,Shared accommodation,12,37,5.1,6,2.1,4.6,Moderate,High,High,Moderate,Low,,23.0,14,42.0,5.0,No,Yes,High
+YP1042,29,Prefer not to say,Gujarat,Surat,Rural,Postgraduate,Student,Upper-middle,In relationship,Shared accommodation,8,27,8.2,7,8.4,2.4,Very High,Low,Moderate,Low,High,,22.0,19,59.0,6.0,Yes,Yes,Moderate
+YP1043,28,Male,Punjab,Chandigarh,Urban,Graduate,Employed,Lower-middle,Prefer not to say,Shared accommodation,54,13,7.7,0,9.1,2.8,High,Moderate,Moderate,Low,Moderate,2.0,26.0,23,48.0,4.0,No,Yes,High
+YP1044,24,Non-binary,Uttar Pradesh,Noida,Rural,Postgraduate,Student,Middle,Single,Alone,6,24,6.5,7,9.3,3.7,Moderate,High,Low,High,Moderate,,20.0,22,63.0,8.0,No,Yes,Low
+YP1045,26,Male,Maharastra,Thiruvananthapuram,Semi-urban,Graduate,Looking for job,Lower-middle,In relationship,Alone,47,7,5.7,7,8.9,2.1,Low,Moderate,Low,Moderate,Moderate,,29.0,17,53.0,5.0,No,Yes,High
+YP1046,25,Female,West Bengal,Kolkata,Urban,12th/School,Employed,Lower-middle,Single,Alone,47,12,7.9,2,9.0,3.1,Moderate,Moderate,Moderate,High,Low,8.0,31.0,12,48.0,6.0,No,Yes,Low
+YP1047,29,Female,Tamil Nadu,Chennai,Semi-urban,Graduate,Employed,Low,In relationship,With family,52,5,6.7,3,7.0,0.6,Low,Low,Moderate,Moderate,High,1.0,17.0,27,51.0,4.0,No,Yes,Moderate
+YP1048,29,Female,Gujarat,Surat,Urban,Graduate,Employed,Low,Prefer not to say,With family,26,0,7.4,4,6.8,3.4,Moderate,Low,Low,High,High,2.0,12.0,15,61.0,6.0,No,Yes,Low
+YP1049,24,Male,Karnataka,Bengaluru,Semi-urban,Diploma,Self-employed,Lower-middle,Prefer not to say,With family,40,7,7.4,6,,2.2,Very High,Moderate,High,Moderate,High,5.0,32.0,24,70.0,6.0,No,Yes,High
+YP1050,26,Male,Maharashtra,Pune,Rural,Graduate,Student,Middle,Married,With family,13,28,6.3,0,7.5,1.4,Low,Moderate,Moderate,Moderate,High,,18.0,11,52.0,4.0,Yes,Yes,High
+YP1051,26,Female,Tamil Nadu,Coimbatore,Urban,Graduate,Employed,Low,Single,With family,forty,0,9.3,7,8.9,5.1,High,Moderate,High,Moderate,High,5.0,28.0,20,76.0,7.0,Yes,Yes,Moderate
+YP1052,29,Male,West Bengal,Siliguri,Urban,Graduate,Employed,Lower-middle,Single,With family,47,12,5.6,1,6.0,3.5,Moderate,High,Low,High,Moderate,6.0,24.0,21,48.0,4.0,No,Yes,High
+YP1053,27,Female,Karnataka,Mysuru,Rural,Postgraduate,Employed,Upper-middle,Single,With family,34,15,6.4,1,10.1,3.6,Low,Moderate,Low,Moderate,High,1.0,24.0,17,53.0,5.0,No,Yes,Moderate
+YP1054,26,Prefer not to say,Gujarat,Surat,Rural,Graduate,Student,Lower-middle,Single,Shared accommodation,16,26,8.5,6,5.5,4.0,High,Moderate,Moderate,Moderate,Moderate,,17.0,22,69.0,8.0,Yes,Yes,Moderate
+YP1055,29,Male,Delhi,Delhi,Rural,Postgraduate,Employed,Middle,Single,Shared accommodation,34,7,7.3,4,7.4,4.6,Low,Moderate,Moderate,High,Low,8.0,20.0,16,51.0,5.0,No,Yes,High
+YP1056,18,Female,Uttar Pradesh,Noida,Rural,12th/School,Student,Low,Single,With family,25,9,5.4,0,3.0,3.5,Moderate,Moderate,Moderate,Moderate,High,,24.0,17,45.0,5.0,No,Yes,High
+YP1057,27,Female,Kerala,Kochi,Urban,Graduate,Self-employed,Low,Single,With family,31,18,6.8,0,7.6,1.8,Moderate,Moderate,Low,High,High,4.0,33.0,5,58.0,6.0,Yes,Yes,Low
+YP1058,29,Female,Delhi,Delhi,Rural,Diploma,Employed,Middle,Single,Alone,32,0,7.2,2,4.1,3.2,Moderate,Moderate,High,High,Moderate,7.0,21.0,18,57.0,5.0,Yes,Yes,Low
+YP1059,25,Female,Telangana,Hyderabad,Semi-urban,Graduate,Student,Middle,Single,With family,16,29,6.1,3,4.5,1.0,Moderate,Very High,Low,Low,Moderate,,18.0,14,55.0,5.0,No,Yes,High
+YP1060,19,Male,Maharashtra,Pune,Urban,Graduate,Employed,Middle,Single,With family,47,4,7.3,1,2.0,2.2,Moderate,Moderate,High,High,High,1.0,23.0,18,63.0,6.0,Yes,No,High
+YP1061,23,Female,Uttar Pradesh,Noida,Urban,Graduate,Student,Low,In relationship,With family,15,22,7.0,4,6.2,2.6,Low,Moderate,Moderate,Moderate,High,,16.0,15,70.0,8.0,No,Yes,Moderate
+YP1062,29,Female,Kerala,Kozhikode,Urban,Postgraduate,Student,Middle,Single,With family,0,20,6.6,-1,5.9,2.9,Very High,High,Moderate,High,High,,39.0,19,54.0,6.0,Yes,Yes,Very High
+YP1063,25,Male,Tamil Nadu,Madurai,Semi-urban,Postgraduate,Employed,Lower-middle,Single,With family,45,14,7.6,6,5.9,2.3,High,Moderate,Low,High,High,7.0,22.0,16,67.0,7.0,No,Yes,High
+YP1064,20,Male,Maharashtra,Mumbai,Urban,Graduate,Employed,Middle,Single,With family,24,16,6.9,4,6.9,1.1,Low,Low,High,High,Low,10.0,16.0,27,58.0,6.0,No,Yes,Moderate
+YP1065,23,Female,Kerala,Kozhikode,Rural,12th/School,Unemployed,Middle,In relationship,Alone,24,11,7.0,1,2.0,1.7,High,High,Moderate,Moderate,Moderate,,15.0,7,63.0,6.0,No,Yes,Moderate
+YP1066,25,Female,Uttar Pradesh,Noida,Urban,Graduate,Unemployed,Upper-middle,Single,With family,43,6,6.2,5,7.4,4.6,Moderate,Low,High,Moderate,Moderate,,30.0,28,44.0,4.0,No,Yes,Low
+YP1067,29,Female,Tamil Nadu,Chennai,Rural,Graduate,Employed,Lower-middle,Single,With family,43,0,7.1,1,6.9,2.2,Moderate,Moderate,Moderate,Moderate,High,4.0,26.0,17,65.0,8.0,No,Yes,High
+YP1068,25,Male,Gujarat,Surat,Rural,12th/School,Student,Low,Single,With family,13,13,4.6,0,6.0,2.8,Low,High,Low,High,Moderate,,23.0,16,43.0,5.0,No,Yes,Moderate
+YP1069,27,Male,Punjab,Chandigarh,Urban,Graduate,Employed,Lower-middle,Single,Hostel,33,6,7.2,7,11.6,2.4,High,Moderate,Low,Moderate,Moderate,5.0,28.0,20,54.0,5.0,No,Yes,High
+YP1070,29,Prefer not to say,Tamil Nadu,Madurai,Rural,Graduate,,Lower-middle,Married,Alone,40,14,7.6,6,7.9,2.4,High,High,Low,Moderate,High,10.0,30.0,22,62.0,6.0,Yes,Yes,High
+YP1071,26,Male,Tamil Nadu,Coimbatore,Rural,Graduate,Employed,Lower-middle,Single,With family,33,15,7.9,6,4.0,2.9,Low,Moderate,High,Moderate,High,3.0,18.0,28,68.0,7.0,No,No,Moderate
+YP1072,23,Male,Kerala,Thiruvananthapuram,Semi-urban,Graduate,Self-employed,High,Single,With family,38,0,8.0,3,6.8,4.2,Low,Low,Moderate,High,High,2.0,13.0,11,76.0,7.0,Yes,No,Very High
+YP1073,29,Male,maharashtra,New Delhi,Urban,Postgraduate,Unemployed,Middle,Single,With family,20,4,7.6,2,6.8,5.1,High,Moderate,Moderate,High,Moderate,,26.0,17,60.0,6.0,Yes,Yes,Low
+YP1074,21,Female,Karnataka,Mangaluru,Urban,Graduate,Student,Middle,Single,With family,10,30,5.3,5,6.7,3.2,High,Low,High,High,High,,27.0,20,53.0,4.0,Yes,Yes,High
+YP1075,26,Male,Tamil Nadu,Madurai,Rural,Diploma,Looking for job,Middle,Prefer not to say,Shared accommodation,26,11,6.7,0,7.6,4.0,Moderate,High,Low,High,Moderate,,21.0,14,52.0,5.0,Yes,Yes,Moderate
+YP1076,26,Female,Maharashtra,Mumbai,Urban,Graduate,Unemployed,Middle,Married,With family,14,7,6.5,0,5.9,0.4,Moderate,High,Moderate,High,Moderate,,24.0,12,54.0,7.0,Yes,No,Low
+YP1077,24,Male,Tamil Nadu,Chennai,Urban,Postgraduate,Employed,Middle,Married,With family,58,18,8.5,3,8.9,1.7,Moderate,High,Very High,Moderate,Moderate,7.0,31.0,29,55.0,6.0,Yes,Yes,Moderate
+YP1078,25,Male,Gujarat,Surat,Semi-urban,Graduate,Employed,Middle,In relationship,With family,44,10,7.0,0,9.7,2.0,High,Moderate,Moderate,High,Moderate,5.0,36.0,18,55.0,6.0,No,Yes,High
+YP1079,30,Male,Madhya Pradesh,Bhopal,Rural,Graduate,Employed,Upper-middle,In relationship,With family,30,16,7.5,5,8.2,3.0,High,Low,Moderate,Moderate,Moderate,3.0,24.0,23,69.0,7.0,Yes,No,Moderate
+YP1080,19,Female,Kerala,Thiruvananthapuram,Rural,Diploma,Employed,Low,Single,With family,50,18,7.5,4,7.3,1.8,Low,Low,Moderate,Moderate,Moderate,10.0,16.0,11,67.0,6.0,No,Yes,Moderate
+YP1081,29,Male,Karnataka,Mysuru,Urban,Graduate,Employed,Middle,Single,Hostel,41,5,8.2,3,14.3,1.3,Very High,Low,Low,Low,High,3.0,34.0,17,57.0,4.0,No,Yes,Moderate
+YP1082,21,Prefer not to say,Karnataka,Bengaluru,Urban,Postgraduate,Student,Middle,Single,With family,9,7,5.1,5,6.6,5.0,Moderate,High,Low,High,Moderate,,23.0,20,43.0,3.0,Yes,Yes,Low
+YP1083,30,Female,Rajasthan,Jaipur,Rural,Graduate,Employed,Lower-middle,Single,With family,29,1,6.8,2,8.3,3.2,Very High,Low,High,Moderate,High,3.0,34.0,26,55.0,7.0,Yes,Yes,Low
+YP1084,23,Prefer not to say,Karnataka,Mangaluru,Urban,Graduate,Looking for job,Middle,In relationship,With family,29,5,7.0,0,6.4,5.6,Low,Very High,Very High,Moderate,Low,,26.0,30,40.0,2.0,No,Yes,Moderate
+YP1085,26,Female,Tamil Nadu,Madurai,Urban,Graduate,Looking for job,Lower-middle,Single,Alone,16,19,15.5,6,5.4,2.6,Moderate,Moderate,Very High,Low,Moderate,,32.0,30,46.0,4.0,Yes,Yes,High
+YP1086,26,Prefer not to say,Telangana,Hyderabad,Rural,Postgraduate,Student,Low,Single,With family,22,31,5.1,6,8.2,2.0,High,High,High,High,High,,35.0,24,51.0,5.0,No,Yes,Moderate
+YP1087,30,Male,Madhya Pradesh,Indore,Urban,Graduate,Looking for job,Lower-middle,Single,With family,24,15,4.9,3,5.4,2.4,Moderate,Low,Low,Low,High,,26.0,17,50.0,5.0,No,Yes,High
+YP1088,21,Male,Uttar Pradesh,Noida,Urban,Graduate,Employed,Middle,In relationship,Shared accommodation,28,16,9.7,4,7.7,3.4,Moderate,Low,High,High,High,9.0,18.0,23,,8.0,Yes,Yes,High
+YP1089,25,Male,Maharashtra,Mumbai,Urban,Graduate,Self-employed,Low,Single,With family,37,14,7.0,4,7.6,0.2,Very High,Moderate,Low,Low,Moderate,9.0,24.0,16,48.0,5.0,No,No,High
+YP1090,20,Prefer not to say,Uttar Pradesh,Varanasi,Semi-urban,Graduate,Student,Lower-middle,In relationship,With family,18,24,5.8,2,6.0,2.6,High,Moderate,High,High,Moderate,,32.0,30,43.0,5.0,No,Yes,Moderate
+YP1091,21,Male,Rajasthan,Udaipur,Rural,Graduate,Employed,Middle,Single,Hostel,33,0,4.8,4,7.5,1.3,Very High,High,High,High,Low,3.0,40.0,30,23.0,2.0,No,No,Moderate
+YP1092,24,Female,Telangana,Warangal,Semi-urban,Postgraduate,Employed,Low,Single,Shared accommodation,42,6,6.9,5,2.9,1.8,Moderate,Moderate,Low,High,Moderate,5.0,14.0,10,66.0,7.0,No,Yes,Moderate
+YP1093,30,Male,Karnataka,Mangaluru,Urban,Graduate,Employed,Middle,Single,Hostel,42,9,5.3,3,5.8,4.0,High,Low,Low,High,Moderate,4.0,28.0,22,42.0,4.0,No,Yes,Moderate
+YP1094,19,Non-binary,UP,Noida,Urban,Graduate,Employed,Low,Single,With family,29,2,8.1,1,6.0,3.1,Moderate,High,Moderate,High,Moderate,3.0,20.0,10,66.0,7.0,Yes,No,Low
+YP1095,25,Prefer not to say,Rajasthan,Jaipur,Semi-urban,Graduate,Employed,Lower-middle,Single,With family,43,8,7.3,2,5.9,4.7,Moderate,Very High,Very High,Moderate,High,4.0,25.0,27,50.0,4.0,No,No,Moderate
+YP1096,21,Female,Tamil Nadu,Madurai,Semi-urban,Graduate,Student,Lower-middle,Single,Shared accommodation,22,18,7.0,4,5.9,0.8,Very High,Low,Very High,Moderate,High,,37.0,27,39.0,6.0,No,Yes,Low
+YP1097,28,Female,Delhi,New Delhi,Urban,Graduate,Looking for job,Middle,Single,Shared accommodation,22,13,7.2,0,5.2,2.9,Moderate,Moderate,Moderate,High,Moderate,,25.0,19,53.0,6.0,No,Yes,Low
+YP1098,20,Male,Uttar Pradesh,Varanasi,Urban,Graduate,Employed,Lower-middle,Married,With family,37,2,8.0,3,3.1,3.2,Moderate,Low,Low,High,Low,9.0,12.0,6,61.0,7.0,Yes,Yes,Moderate
+YP1099,21,Male,Punjab,Chandigarh,Rural,Graduate,Employed,Upper-middle,Single,With family,53,0,6.2,5,8.3,0.9,High,Moderate,Low,Moderate,Moderate,10.0,25.0,13,56.0,6.0,No,Yes,Moderate
+YP1100,22,Female,West Bengal,Siliguri,Rural,Diploma,Employed,High,Single,With family,56,5,6.9,1,8.7,3.4,Moderate,High,,Moderate,Moderate,4.0,26.0,20,57.0,4.0,Yes,Yes,Moderate
+YP1101,19,Female,Maharashtra,Nagpur,Semi-urban,Postgraduate,Student,Middle,In relationship,With family,18,45,7.0,7,11.4,2.8,High,High,Low,High,Moderate,,25.0,14,63.0,5.0,No,Yes,High
+YP1102,24,Male,Madhya Pradesh,Indore,Rural,12th/School,Employed,Middle,Single,With family,31,17,5.0,0,9.5,2.5,High,Low,Moderate,Low,Moderate,6.0,35.0,23,33.0,3.0,No,Yes,High
+YP1103,23,Prefer not to say,Uttar Pradesh,Noida,Urban,Postgraduate,Student,Upper-middle,Single,With family,21,22,5.2,3,25,0.2,Moderate,Moderate,Low,Moderate,Moderate,,21.0,22,38.0,4.0,Yes,Yes,Very High
+YP1104,21,Female,Uttar Pradesh,Varanasi,Semi-urban,Graduate,Employed,Low,Prefer not to say,With family,45,17,7.8,7,9.0,6.3,Moderate,Low,Low,Low,Moderate,5.0,17.0,15,71.0,8.0,No,Yes,Low
+YP1105,26,Non-binary,Gujarat,Ahmedabad,Urban,Postgraduate,Employed,Lower-middle,In relationship,Hostel,33,6,7.0,3,7.6,3.2,Moderate,Moderate,Very High,Moderate,Moderate,9.0,32.0,30,43.0,5.0,Yes,Yes,Low
+YP1106,19,Male,Maharashtra,Amravati,Rural,Graduate,Self-employed,Middle,Single,Hostel,47,11,7.2,2,3.0,2.7,High,Moderate,Moderate,Moderate,High,8.0,22.0,11,62.0,7.0,No,Yes,Moderate
+YP1107,25,Male,Telangana,Hyderabad,Rural,Graduate,Unemployed,Upper-middle,Single,Alone,21,4,6.7,7,2.0,2.3,Moderate,Moderate,Low,Moderate,High,,11.0,10,68.0,8.0,Yes,Yes,Low
+YP1108,29,Female,Uttar Pradesh,Kanpur,Urban,Graduate,Unemployed,Low,Single,With family,7,8,4.9,6,9.2,1.6,Low,High,High,Moderate,High,,29.0,30,41.0,3.0,Yes,Yes,Very High
+YP1109,20,Female,Tamil Nadu,Coimbatore,Urban,Postgraduate,Self-employed,Lower-middle,Single,With family,18,0,5.9,7,10.6,3.0,Low,Low,Low,Moderate,High,10.0,25.0,16,58.0,6.0,No,Yes,Low
+YP1110,23,Non-binary,Karnataka,Mangaluru,Rural,Graduate,Employed,Lower-middle,Single,Alone,26,16,7.9,0,5.8,1.3,High,Moderate,Low,High,High,5.0,22.0,8,68.0,6.0,Yes,Yes,High
+YP1111,24,Male,Tamil Nadu,Coimbatore,Urban,12th/School,Self-employed,Middle,Single,Alone,31,14,8.1,0,7.5,2.4,Low,Low,Moderate,Moderate,High,9.0,20.0,16,67.0,7.0,No,No,Low
+YP1112,26,Female,Rajasthan,Jaipur,Urban,Postgraduate,student,Lower-middle,Single,Hostel,35,7,6.1,2,4.3,0.7,Low,Low,Moderate,High,High,2.0,16.0,25,59.0,7.0,Yes,No,Moderate
+YP1113,24,Female,Uttar Pradesh,Varanasi,Rural,Graduate,Student,Middle,Single,Alone,6,9,6.2,6,5.6,5.2,Very High,Moderate,Moderate,Moderate,Moderate,,34.0,14,56.0,5.0,Yes,Yes,Moderate
+YP1114,28,Male,Karnataka,Bengaluru,Urban,Graduate,Employed,Upper-middle,In relationship,Shared accommodation,31,15,5.5,6,10.2,3.8,Moderate,Moderate,High,Moderate,Moderate,4.0,34.0,30,46.0,5.0,No,No,High
+YP1115,18,Male,Gujarat,Ahmedabad,Rural,Postgraduate,Employed,Upper-middle,In relationship,Shared accommodation,38,19,6.8,6,3.9,3.3,Moderate,Moderate,Low,Low,High,10.0,16.0,11,62.0,5.0,Yes,No,High
+YP1116,28,Male,Maharashtra,Pune,Urban,12th/School,Student,Low,Married,Shared accommodation,24,15,6.3,7,9.7,5.6,High,High,Moderate,High,High,,28.0,28,57.0,7.0,Yes,Yes,Very High
+YP1117,22,Male,Uttar Pradesh,Lucknow,Semi-urban,Graduate,Employed,Upper-middle,Single,Hostel,48,8,6.2,5,9.6,3.6,Low,Moderate,High,High,High,10.0,24.0,30,60.0,6.0,Yes,Yes,Moderate
+YP1118,19,Female,Maharashtra,Nagpur,Urban,Graduate,Employed,Upper-middle,In relationship,Hostel,54,0,10.1,5,7.7,4.2,High,Moderate,Low,High,Low,6.0,16.0,10,77.0,8.0,No,Yes,High
+YP1119,30,Female,Punjab,Amritsar,Urban,,Employed,Upper-middle,Single,With family,48,0,8.5,6,10.4,2.1,Very High,High,High,High,Low,2.0,34.0,23,52.0,5.0,Yes,Yes,Very High
+YP1120,25,Male,Tamil Nadu,Chennai,Urban,Graduate,Self-employed,Lower-middle,Single,With family,39,1,5.3,4,9.2,4.9,Low,Moderate,High,Moderate,Moderate,7.0,27.0,25,48.0,4.0,Yes,Yes,Moderate
+YP1121,17,Female,Uttar Pradesh,Lucknow,Urban,Graduate,Unemployed,Middle,In relationship,Hostel,15,14,6.6,7,4.0,3.8,High,Moderate,Low,High,Low,,27.0,9,66.0,7.0,No,No,Moderate
+YP1122,27,Male,Kerala,Kozhikode,Urban,Postgraduate,Looking for job,Middle,Single,With family,18,6,7.0,2,5.8,2.0,High,Low,Very High,High,Moderate,,33.0,21,50.0,6.0,Yes,Yes,High
+YP1123,21,Male,Uttar Pradesh,Noida,Urban,Postgraduate,Student,Lower-middle,Single,With family,20,25,8.2,5,8.8,3.3,Moderate,Moderate,Low,High,High,,11.0,16,78.0,8.0,Yes,No,High
+YP1124,19,Female,Gujarat,Surat,Semi-urban,Graduate,Looking for job,Middle,Single,Alone,31,0,7.4,6,7.2,4.0,Moderate,Low,Low,High,Moderate,,16.0,14,68.0,6.0,Yes,Yes,High
+YP1125,25,Male,Delhi,New Delhi,Urban,Postgraduate,Employed,Lower-middle,In relationship,With family,34,14,7.5,6,11.5,2.5,Moderate,Moderate,Moderate,Low,Moderate,3.0,28.0,21,54.0,5.0,No,Yes,High
+YP1126,29,Non-binary,Kerala,Kozhikode,Urban,Graduate,Unemployed,Lower-middle,Single,Hostel,20,15,8.3,5,5.7,4.0,Low,Low,High,Low,High,,17.0,19,66.0,7.0,Yes,Yes,Moderate
+YP1127,30,Female,Gujarat,Ahmedabad,Urban,Graduate,Student,Middle,In relationship,Shared accommodation,26,23,7.3,7,8.8,2.5,High,Low,High,High,Moderate,,36.0,21,65.0,6.0,No,No,Very High
+YP1128,18,Male,Telangana,Hyderabad,Rural,Diploma,Employed,Middle,Prefer not to say,With family,38,14,8.2,7,7.5,1.4,Very High,Low,High,High,High,3.0,39.0,24,67.0,7.0,Yes,Yes,High
+YP1129,27,Male,West Bengal,Kolkata,Semi-urban,Postgraduate,Student,Lower-middle,Single,Alone,22,38,4.8,4,8.5,2.2,High,Low,High,Moderate,Low,,31.0,22,36.0,4.0,Yes,Yes,High
+YP1130,23,Female,Kerala,Thiruvananthapuram,Semi-urban,12th/School,Student,Middle,Single,Shared accommodation,19,27,6.4,2,5.9,1.0,High,High,Moderate,Moderate,Moderate,,29.0,20,45.0,5.0,No,Yes,Low
+YP1131,31,Female,Madhya Pradesh,Indore,Urban,Graduate,Student,Middle,In relationship,With family,28,32,7.5,1,4.7,3.4,High,Moderate,Low,Low,Moderate,,24.0,18,45.0,4.0,No,Yes,Low
+YP1132,27,Female,Karnataka,Mysuru,Urban,Graduate,Employed,Middle,In relationship,Hostel,44,10,6.4,7,2.0,1.9,Moderate,Low,Low,Moderate,Low,5.0,19.0,8,54.0,6.0,No,Yes,High
+YP1133,30,Male,Madhya Pradesh,Bhopal,Urban,Graduate,Unemployed,Middle,Single,Alone,15,7,8.4,4,5.6,3.2,Moderate,Low,Moderate,High,Moderate,,19.0,13,62.0,5.0,Yes,Yes,High
+YP1134,24,Male,Tamil Nadu,Coimbatore,Rural,Graduate,Student,Middle,Married,With family,11,15,6.5,0,5.9,2.5,Moderate,High,Very High,Moderate,Moderate,,28.0,22,43.0,3.0,Yes,No,High
+YP1135,28,Male,Delhi,New Delhi,Urban,Graduate,Employed,High,Single,With family,31,15,6.4,5,9.0,1.2,Moderate,Low,Low,Low,Low,4.0,21.0,9,45.0,5.0,Yes,Yes,Moderate
+YP1136,21,Female,Karnataka,Mangaluru,Semi-urban,Postgraduate,Unemployed,Low,Single,With family,10,0,4.8,7,8.1,2.3,High,Low,High,Moderate,High,,29.0,23,47.0,4.0,Yes,Yes,High
+YP1137,26,Male,West Bengal,Siliguri,Urban,Graduate,Student,Middle,Single,With family,20,0,8.1,4,5.6,2.2,Moderate,High,Moderate,Moderate,Moderate,,21.0,19,63.0,7.0,No,No,Low
+YP1138,18,Prefer not to say,Kerala,Kochi,Urban,Graduate,Student,Middle,Single,Shared accommodation,23,18,7.7,1,8.8,2.7,Moderate,High,High,Moderate,High,,27.0,22,54.0,6.0,No,Yes,Moderate
+YP1139,26,Female,Uttar Pradesh,Varanasi,Semi-urban,Graduate,Unemployed,Upper-middle,In relationship,Shared accommodation,40,6,6.2,6,10.1,3.1,High,Moderate,Low,Low,High,,32.0,21,50.0,4.0,No,Yes,Moderate
+YP1140,25,Female,Telangana,Hyderabad,Urban,Postgraduate,Employed,Lower-middle,Single,With family,39,13,5.4,7,6.8,1.3,Low,Moderate,Very High,High,Low,1.0,,30,56.0,5.0,No,Yes,Low
+YP1141,29,Male,Karnataka,Bengaluru,Rural,Postgraduate,Employed,High,Single,With family,42,1,8.3,3,3.5,2.0,Moderate,Low,Low,High,High,6.0,8.0,13,125.0,7.0,No,Yes,High
+YP1142,18,Male,Uttar Pradesh,Varanasi,Urban,Graduate,Employed,Middle,In relationship,Hostel,31,22,6.7,4,8.8,4.3,High,Low,Moderate,High,Moderate,8.0,30.0,16,62.0,8.0,Yes,Yes,Low
+YP1143,24,Female,Karnataka,Mysuru,Urban,12th/School,Unemployed,Middle,In relationship,With family,27,0,8.4,7,8.5,1.8,Very High,Moderate,High,High,High,,37.0,20,75.0,8.0,No,Yes,Moderate
+YP1144,30,Female,Maharashtra,Amravati,Urban,Graduate,Looking for job,Low,Single,With family,21,11,5.6,0,7.9,2.8,Low,Moderate,Moderate,Moderate,Moderate,,15.0,16,43.0,5.0,Yes,Yes,Moderate
+YP1145,28,Male,Delhi,Delhi,Urban,Diploma,Employed,Middle,Single,With family,63,17,6.9,4,9.6,1.6,Moderate,Moderate,Moderate,Moderate,Moderate,3.0,21.0,20,50.0,4.0,No,No,Moderate
+YP1146,23,Female,Gujarat,Ahmedabad,Urban,Postgraduate,EMPLOYED,Lower-middle,Prefer not to say,With family,19,12,5.8,7,6.9,4.8,Moderate,Very High,Low,High,Low,,21.0,21,57.0,5.0,Yes,Yes,Moderate
+YP1147,21,Male,Maharashtra,Amravati,Semi-urban,Graduate,Student,Lower-middle,In relationship,Hostel,13,25,5.2,3,6.6,4.4,High,High,Moderate,High,High,,29.0,23,50.0,7.0,Yes,Yes,Moderate
+YP1148,22,Female,Uttar Pradesh,Lucknow,Semi-urban,Graduate,Employed,Middle,Single,With family,50,4,6.2,3,8.5,0.8,Moderate,High,Very High,High,Moderate,10.0,33.0,24,58.0,7.0,No,Yes,Very High
+YP1149,24,Male,Maharashtra,Nashik,Urban,Graduate,Employed,Low,Prefer not to say,Shared accommodation,37,6,6.6,1,7.0,3.9,Low,Low,High,High,Low,2.0,28.0,20,49.0,5.0,No,Yes,High
+YP1150,26,Non-binary,Maharashtra,Nagpur,Urban,Graduate,Employed,Lower-middle,Single,With family,37,12,7.8,6,6.4,1.7,High,Moderate,Moderate,High,High,7.0,25.0,14,69.0,7.0,No,Yes,Very High
+YP1151,24,Female,Delhi,New Delhi,Urban,Graduate,Employed,Low,Single,Hostel,45,14,8.9,5,6.2,3.0,Low,Moderate,Moderate,Low,Low,7.0,12.0,7,73.0,7.0,Yes,Yes,High
+YP1152,30,Female,Uttar Pradesh,Lucknow,Rural,Graduate,Student,Middle,Single,With family,7,31,6.0,3,4.8,4.5,High,Moderate,Low,Moderate,Low,,-5.0,11,43.0,5.0,Yes,Yes,Very High
+YP1153,30,Male,Delhi,Delhi,Urban,Graduate,Student,Low,Single,Shared accommodation,9,19,7.5,0,4.2,4.1,High,High,Moderate,High,High,,26.0,9,64.0,6.0,Yes,Yes,Moderate
+YP1154,23,Male,Uttar Pradesh,Lucknow,Urban,Diploma,Student,Middle,Single,With family,11,31,6.3,6,9.5,2.4,Moderate,Moderate,Low,Moderate,Moderate,,26.0,23,53.0,5.0,No,Yes,High
+YP1155,25,Male,Uttar Pradesh,Kanpur,Semi-urban,Diploma,Student,Low,Married,With family,14,11,7.5,0,6.6,1.7,Moderate,Low,Very High,High,High,,35.0,29,51.0,6.0,No,Yes,Low
+YP1156,27,Male,West Bengal,Kolkata,Semi-urban,Graduate,Employed,Lower-middle,In relationship,Shared accommodation,52,3,5.1,2,9.1,2.9,High,High,High,Moderate,High,1.0,40.0,30,38.0,4.0,No,Yes,Moderate
+YP1157,30,Female,Kerala,Kozhikode,Urban,Diploma,Self-employed,Middle,Prefer not to say,Alone,42,0,6.9,2,12.3,2.3,Low,Low,Moderate,Low,High,7.0,24.0,26,54.0,5.0,No,Yes,High
+YP1158,23,Female,Karnataka,Mangaluru,Rural,12th/School,Student,Middle,Single,Shared accommodation,21,13,6.3,2,9.7,4.8,Moderate,Moderate,Moderate,Moderate,High,,27.0,24,61.0,6.0,No,Yes,Moderate
+YP1159,23,Male,Kerala,Kochi,Urban,graduate,Looking for job,Middle,Single,With family,16,10,6.1,7,10.3,3.1,Low,Low,Moderate,Low,Low,,14.0,20,48.0,4.0,No,No,Moderate
+YP1160,23,,Karnataka,Mysuru,Urban,Graduate,Employed,Lower-middle,Single,Shared accommodation,17,0,6.9,5,9.2,2.1,Moderate,Low,Moderate,High,Moderate,10.0,21.0,22,62.0,6.0,No,Yes,Moderate
+YP1161,28,Female,Uttar Pradesh,Kanpur,Urban,12th/School,Student,High,Single,With family,30,18,5.9,6,2.7,3.1,High,High,Low,High,Low,,20.0,9,60.0,5.0,No,No,Moderate
+YP1162,22,Female,West Bengal,Siliguri,Rural,Postgraduate,Student,Low,Single,Hostel,22,11,6.9,5,3.1,3.5,Moderate,Moderate,High,High,Moderate,,18.0,18,57.0,5.0,Yes,Yes,High
+YP1163,24,Male,Maharashtra,Mumbai,Rural,Graduate,Looking for job,Upper-middle,Single,With family,15,80,8.4,1,7.4,2.3,High,Very High,Moderate,Moderate,High,,27.0,24,54.0,5.0,No,No,High
+YP1164,23,Male,Maharashtra,Pune,Semi-urban,Graduate,Self-employed,Lower-middle,Prefer not to say,With family,48,15,7.9,6,8.5,2.6,Low,High,Low,High,Moderate,10.0,15.0,19,65.0,8.0,No,No,High
+YP1165,26,Male,Delhi,Delhi,Urban,Graduate,Employed,Low,Single,Shared accommodation,32,5,6.0,1,5.6,3.8,High,Moderate,High,High,Moderate,2.0,34.0,14,45.0,2.0,Yes,Yes,Low
+YP1166,27,Male,Rajasthan,Jaipur,Urban,Graduate,Student,Middle,Single,Alone,23,26,6.2,7,4.8,2.7,Moderate,Very High,Low,High,Moderate,,17.0,20,62.0,7.0,No,Yes,Low
+YP1167,18,Female,Tamil Nadu,Chennai,Rural,Postgraduate,Student,Middle,Single,Hostel,2,20,7.0,0,7.6,1.3,High,High,Low,High,Moderate,,31.0,12,44.0,5.0,No,No,Very High
+YP1168,21,Female,Telangana,Warangal,Urban,12th/School,Employed,Lower-middle,In relationship,With family,32,2,8.1,7,12.0,2.4,Moderate,Low,Moderate,Moderate,Low,4.0,20.0,10,64.0,7.0,No,Yes,Moderate
+YP1169,21,Male,Maharashtra,Nagpur,Rural,Graduate,Employed,Lower-middle,Single,Shared accommodation,61,7,6.4,2,9.7,4.5,Low,High,Low,Moderate,High,5.0,15.0,15,46.0,4.0,No,Yes,High
+YP1170,20,Female,Karnataka,Mysuru,Semi-urban,Graduate,Employed,Lower-middle,Single,With family,51,13,4.6,7,7.5,3.1,Moderate,Low,High,Moderate,Low,2.0,28.0,25,52.0,6.0,No,Yes,Moderate
+YP1171,19,Female,Rajasthan,Udaipur,Semi-urban,Graduate,Self-employed,Lower-middle,In relationship,Alone,39,28,4.4,4,8.0,3.9,Moderate,High,Moderate,Moderate,High,2.0,31.0,25,34.0,4.0,No,Yes,Moderate
+YP1172,30,Male,Gujarat,Surat,Urban,12th/School,Looking for job,middle,In relationship,With family,16,27,7.1,5,3.7,0.0,High,High,Moderate,High,Low,,25.0,12,58.0,6.0,No,No,Moderate
+YP1173,24,Female,Tamil Nadu,Coimbatore,Urban,Graduate,Student,Low,Single,Alone,0,28,6.0,3,6.5,2.1,Very High,High,Moderate,Moderate,Moderate,,27.0,24,47.0,4.0,Yes,Yes,Low
+YP1174,25,Female,Karnataka,Bengaluru,Urban,12th/School,Student,Lower-middle,Single,With family,28,24,6.2,1,10.4,-2.0,Low,High,Very High,High,Low,,38.0,30,43.0,4.0,No,No,High
+YP1175,27,Female,Gujarat,Ahmedabad,Semi-urban,Graduate,Employed,Middle,Single,With family,48,0,4.9,0,6.5,2.4,High,Moderate,Moderate,Low,Low,10.0,32.0,21,27.0,3.0,No,Yes,High
+YP1176,19,Non-binary,Rajasthan,Udaipur,Urban,Graduate,Employed,Upper-middle,Single,With family,33,16,7.5,7,5.4,1.3,Moderate,Low,Low,High,High,8.0,10.0,4,83.0,7.0,No,No,High
+YP1177,24,Female,Delhi,New Delhi,Urban,Diploma,Employed,Lower-middle,Single,Hostel,34,0,8.3,0,4.5,1.9,High,High,Low,High,High,6.0,21.0,8,67.0,5.0,No,Yes,High
+YP1178,25,Female,Delhi,Delhi,Urban,Graduate,Unemployed,Lower-middle,Single,Shared accommodation,23,13,6.6,5,8.1,2.7,High,Low,High,Moderate,,,24.0,30,45.0,5.0,No,Yes,Low
+YP1179,22,Male,Delhi,Delhi,Urban,Graduate,Unemployed,Lower-middle,Single,With family,16,20,6.0,3,6.1,4.4,Low,Moderate,Moderate,Low,Moderate,,17.0,16,41.0,4.0,Yes,No,High
+YP1180,26,Male,Maharashtra,Pune,Urban,Graduate,Student,Upper-middle,Single,With family,36,14,6.9,7,6.8,4.1,Moderate,Moderate,Moderate,High,High,,24.0,12,54.0,6.0,Yes,No,Low
+YP1181,26,Male,Delhi,New Delhi,Urban,12th/School,Looking for job,Middle,Single,With family,22,0,5.8,4,4.6,2.7,High,Moderate,Low,Moderate,High,,28.0,16,54.0,6.0,No,No,High
+YP1182,21,Male,Rajasthan,Kota,Urban,Postgraduate,Unemployed,Lower-middle,Married,With family,36,7,6.5,7,7.5,5.5,Very High,Moderate,Moderate,High,Moderate,,24.0,14,69.0,7.0,yes,No,Moderate
+YP1183,21,Male,Karnataka,Mysuru,Urban,Graduate,Employed,Low,In relationship,With family,46,7,7.9,6,7.7,2.3,Moderate,High,High,Moderate,Low,9.0,26.0,20,59.0,5.0,No,YES,Moderate
+YP1184,23,Male,Delhi,Delhi,Semi-urban,Diploma,Student,Upper-middle,Single,Shared accommodation,5,22,8.5,1,12.0,0.7,Very High,Low,High,High,High,,40.0,23,61.0,6.0,No,Yes,High
+YP1185,22,Male,Gujarat,Ahmedabad,Rural,Postgraduate,Student,Low,Single,With family,26,39,6.3,0,5.6,4.1,High,Low,Moderate,Low,High,,26.0,17,52.0,4.0,No,Yes,Moderate
+YP1186,21,Male,Rajasthan,Kota,Urban,Graduate,Employed,Lower-middle,In relationship,Hostel,36,2,7.5,3,9.6,3.9,Moderate,High,Moderate,Moderate,High,4.0,25.0,16,49.0,6.0,No,Yes,Moderate
+YP1187,22,Female,Gujarat,Surat,Semi-urban,Graduate,Student,Middle,Single,With family,0,18,6.2,7,7.6,1.3,Very High,High,High,Low,High,,35.0,27,54.0,6.0,No,Yes,High
+YP1188,22,Female,Maharashtra,Pune,Semi-urban,Graduate,Student,Lower-middle,Single,With family,9,29,7.4,0,7.6,1.5,Moderate,Moderate,High,Moderate,High,,25.0,22,59.0,7.0,Yes,Yes,Low
+YP1189,28,Non-binary,Tamil Nadu,Chennai,Semi-urban,Postgraduate,Employed,Middle,Single,Shared accommodation,50,0,5.7,3,5.0,0.4,Low,Low,High,High,Moderate,3.0,18.0,23,56.0,,No,Yes,Moderate
+YP1190,19,Female,Gujarat,Ahmedabad,Semi-urban,Graduate,Employed,Middle,Single,Hostel,38,5,4.3,5,8.5,3.8,High,Low,Low,Moderate,High,1.0,30.0,22,47.0,5.0,No,Yes,Low
+YP1191,25,Female,Gujarat,Ahmedabad,Urban,Graduate,Student,Middle,Single,Shared accommodation,42,24,7.2,0,12.4,3.1,High,Low,Low,Moderate,Low,,32.0,23,43.0,5.0,Yes,Yes,Moderate
+YP1192,20,Female,Delhi,New Delhi,Semi-urban,Graduate,Employed,Upper-middle,In relationship,With family,44,0,7.9,0,4.6,3.5,Low,High,Moderate,High,High,10.0,19.0,16,65.0,8.0,No,Yes,Low
+YP1193,21,Male,Madhya Pradesh,Jabalpur,Urban,Postgraduate,Self-employed,Lower-middle,In relationship,With family,38,7,6.0,2,5.7,1.1,Low,Moderate,Moderate,High,Moderate,5.0,22.0,19,52.0,4.0,Yes,Yes,Moderate
+YP1194,18,Male,Kerala,Kozhikode,Urban,Postgraduate,Employed,Low,Prefer not to say,With family,31,9,7.1,0,5.4,2.7,High,Low,Moderate,Moderate,Moderate,5.0,23.0,18,57.0,5.0,No,Yes,High
+YP1195,30,Male,Maharashtra,Mumbai,Urban,Graduate,Looking for job,Upper-middle,Prefer not to say,With family,28,17,5.5,3,9.0,1.5,High,High,Moderate,Moderate,Moderate,,30.0,23,39.0,4.0,No,No,Moderate
+YP1196,21,Male,Kerala,Kochi,Urban,Diploma,Student,Lower-middle,Single,Shared accommodation,8,12,7.9,1,7.8,2.4,Moderate,High,Moderate,High,Low,,26.0,15,59.0,5.0,No,No,Moderate
+YP1197_DUP,20,Prefer not to say,Gujarat,Surat,Rural,Graduate,Employed,Upper-middle,Single,With family,42,4,4.3,5,8.4,2.9,High,Low,High,High,Low,1.0,28.0,30,35.0,3.0,Yes,Yes,Moderate
+YP1198_DUP,26,Female,Maharashtra,Mumbai,Urban,Graduate,Unemployed,Middle,Married,With family,14,7,6.5,0,5.9,0.4,Moderate,High,Moderate,High,Moderate,,24.0,12,54.0,7.0,Yes,No,Low
+YP1199,20,Female,Tamil Nadu,Coimbatore,Urban,12th/School,Student,Low,Single,With family,15,22,8.5,2,5.9,2.3,Very High,Moderate,Low,Moderate,Moderate,,27.0,11,57.0,7.0,Yes,Yes,Low
+YP1200,27,Prefer not to say,Tamil Nadu,Chennai,Urban,Graduate,Employed,Middle,Married,Shared accommodation,48,21,6.3,2,9.0,4.9,Low,Low,Low,High,Moderate,10.0,28.0,19,46.0,5.0,Yes,Yes,High
